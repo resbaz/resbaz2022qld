@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "mailto:matt.plummer@vuw.ac.nz"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "https://www.wgtn.ac.nz"
 
 
 # Navigation
@@ -61,7 +61,7 @@ eventDate: ""
 typeoutTextValues: '"Wellington"'
 typeoutFallback: "Wellington"
 heroButtons:
- - {link: "", text: "Next ResBaz: November 2021"}
+ - {link: "", text: "Next ResBaz: July or November 2021"}
 
 # About Block
 aboutTitle: "About ResBaz Wellington"
@@ -91,9 +91,9 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "University of Wellington Clocktower"
+eventLocationName: "Te Toki a Rata, University of Wellington"
 eventLocationLink: "https://www.Wellington.ac.nz/en/on-campus/our-campuses/landmarks-facilities/the-clocktower.html"
-eventStreetAddress: "Princes Street"
+eventStreetAddress: "Kelbrun Parade"
 eventAddressLocality: "Wellington"
 eventAddressLocalityRegion: "Wellington"
 eventPostalCode: "79000"
@@ -101,13 +101,13 @@ eventAddressCountry: "New Zealand"
 eventStartTime: "2019-07-10T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2019-07-12T17:00"
-eventPlaceCoordinates: "-36.850223, 174.76922"
-mapCenterCoordinates: "-36.850223, 174.76922"
-mapMobileCenterCoordinates: "-36.850223, 174.76922"
+eventPlaceCoordinates: "-41.28965502000173, 174.7675973131298"
+mapCenterCoordinates: "-41.28965502000173, 174.7675973131298"
+mapMobileCenterCoordinates: "-41.28965502000173, 174.7675973131298"
 
 # Venue Block
 venueBlockTitle: "Past Events"
-venueBigImage: "cam_beanbags.jpg"
+venueBigImage: "resbazwelli.jpg"
 venueSmallImage2: "publishing_tabletop.jpg"
 venueSmallImage1: "sam_on_the_wall.jpg"
 venueSmallImage3: "speaker_beanbags.jpg"
@@ -177,8 +177,8 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://twitter.com/eResearchUoA?lang=en", icon: "twitter"}
- - {link: "https://eresearch.Wellington.ac.nz", icon: "site"}
- - {link: "mailto:researchdata@Wellington.ac.nz", icon: "email"}
+ - {link: "https://wgtn.ac.nz", icon: "site"}
+ - {link: "mailto:matt.plummer@vuw.ac.nz", icon: "email"}
 footerBlocks:
  -
   title: "Links"
