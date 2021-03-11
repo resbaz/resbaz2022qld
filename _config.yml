@@ -18,8 +18,9 @@ baseurl: "/resbaz"
 url: "https://matty-plumski.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsSiteUrl: "matty-plumski.github.io"
+siteVerification: "xOlzoaCacKCBpEsxW4st40F89pI="
+
 
 # Organizer Info
 organizerName: "CAD"
@@ -48,7 +49,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
- - {permalink: "/cod/", text: "Code of Conduct"}
+ - {permalink: "/code/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {link: "mailto:researchdata@Wellington.ac.nz", text: "Contact us"}
 rightNavigationButtons:
@@ -78,7 +79,7 @@ statisticBlock:
  - {count: "100", specialCharacter: "+", info: "attendees", detail: ""}
  - {count: "50", specialCharacter: "+", info: "hours", detail: ""}
  - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
- - {count: "4", specialCharacter: "", info: "parallel streams", detail: ""}
+ - {count: "3", specialCharacter: "", info: "parallel streams", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -183,15 +184,15 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://eresearch.Wellington.ac.nz", text: "Centre for eResearch"}
+   - {link: "wgtn.ac.nz", text: "Te Herenga Waka"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:researchdata@Wellington.ac.nz", text: "researchdata@Wellington.ac.nz"}
+   - {link: "mailto:matt.plummer@vuw.ac.nz", text: "mailto:matt.plummer@vuw.ac.nz"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/code/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
