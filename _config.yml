@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
- - {permalink: "/code/", text: "Code of Conduct"}
+ - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {link: "mailto:researchdata@Wellington.ac.nz", text: "Contact us"}
 rightNavigationButtons:
@@ -192,7 +192,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/code/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
