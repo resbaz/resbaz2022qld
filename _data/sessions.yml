@@ -111,6 +111,7 @@
   speakers: [11, 12, 13]
   complexity: "Beginner" 
   presentation: "https://tofu.dev/workshops/latex"
+  img: "key_icons/speaking.png"
 -
   id: 003
   title: "Version control and collaboration tools - Intro to Git and GitHub (Rm:110)"
