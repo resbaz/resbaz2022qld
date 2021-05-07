@@ -1,10 +1,11 @@
 - 
   id: 0
-  name: "Kate"
-  surname: "Hannah"
-  company: "Te Punaha Matatini"
-  title: "Research Operations Manager"
-  bio: "Kate Hannah has a Master of Arts (2004) from Waikato University in 19th Century American Literary Culture. Her principal research area is the historiography of the history of science, with a focus on the cultures and subcultures of science, gender in science history, and narrative and complexity. She holds dual roles at Te Pūnaha Matatini, a New Zealand Centre of Research Excellence for complex systems and networks – executive manager and associate investigator; she is a research fellow in the Department of Physics at the University of Auckland, course convener of Science Scholars 101, and a Te Pūnaha Matatini-funded PhD candidate in the Science and Society Group at Victoria University Wellington, investigating novel hybrid methodologies for the historiography of science. Basically, she’s a historian in a Physics department."
+  name: "Geoffrey"
+  surname: "Batchen"
+  company: "Oxford University"
+  title: "Chair of Art History"
+  bio: "GEOFFREY BATCHEN (BA PhD Sydney) holds the Professorship of the History of Art in the Department of the History of Art and the Faculty of History.  Professor Batchen is a fellow of Trinity College.
+Professor Batchen's work as a teacher, writer and curator focuses on the history of photography."
   thumbnailUrl: "Kate_Hannah.jpg"   
   rockstar: true
   ribbon:

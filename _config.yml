@@ -86,14 +86,14 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Keystory speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Te Toki a Rata, University of Wellington"
-eventLocationLink: "https://www.Wellington.ac.nz/en/on-campus/our-campuses/landmarks-facilities/the-clocktower.html"
+eventLocationLink: "https://www.wgtn.ac.nz/about/campuses-facilities/campuses/kelburn/kelburn-campus-map.pdf"
 eventStreetAddress: "Kelbrun Parade"
 eventAddressLocality: "Wellington"
 eventAddressLocalityRegion: "Wellington"
