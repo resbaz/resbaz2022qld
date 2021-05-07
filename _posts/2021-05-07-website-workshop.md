@@ -6,4 +6,4 @@ isStaticPost: false
 image: resbazwelli.jpg
 ---
 
-Test blog post for rans-tasman website workshop
+Test blog post for trans-tasman website workshop
