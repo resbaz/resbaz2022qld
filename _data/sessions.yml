@@ -4,6 +4,7 @@
   description: 
   speakers: [0, 1, 8]
   hidden: true
+  img: key_icons/speaking.png
 - 
   id: 102
   title: "Keystory - Research Impact: making a difference as an academic advisor to an online engagement tool (Rm: G20)"

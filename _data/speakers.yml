@@ -6,10 +6,10 @@
   title: "Chair of Art History"
   bio: "GEOFFREY BATCHEN (BA PhD Sydney) holds the Professorship of the History of Art in the Department of the History of Art and the Faculty of History.  Professor Batchen is a fellow of Trinity College.
 Professor Batchen's work as a teacher, writer and curator focuses on the history of photography."
-  thumbnailUrl: "Kate_Hannah.jpg"   
+  thumbnailUrl: "GeoffreyBatchen.png"   
   rockstar: true
   ribbon:
-    - {abbr: "TPM", title: "Te Pūnaha Matatini", url: "https://www.tepunahamatatini.ac.nz"}
+    - {abbr: "Oxford", title: "Te Pūnaha Matatini", url: "https://www.tepunahamatatini.ac.nz"}
 - 
   id: 1
   name: "Professor Shaun"
