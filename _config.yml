@@ -11,11 +11,11 @@ future: true # Enable future posts (date > current date)
 
 
 # Site Settings
-title: "ResBaz Wellington"
-email: "matt.plummer@vuw.ac.nz"
-description: "The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research."
-baseurl: "/resbaz"
-url: "https://matty-plumski.github.io"
+title: "ResBaz Queensland"
+email: "mailto:mark.crowe@qcif.edu.au"
+description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
+baseurl: "/rb-trial"
+url: "https://weaverbel.github.io/rb-trial"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "matty-plumski.github.io"
@@ -23,23 +23,23 @@ siteVerification: "xOlzoaCacKCBpEsxW4st40F89pI="
 
 
 # Organizer Info
-organizerName: "CAD"
-organizerAlternateName: "Centre for Academic Development"
+organizerName: "Mark Crowe"
+organizerAlternateName: "QCIF"
 # organizerDescription: "The Centre for eResearch is centrally funded by the University to deliver the following Services to help researchers address challenging computational problems."
 # organizerEmail: "researchdata@Wellington.ac.nz" 
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://www.wgtn.ac.nz"
+organizerLink: "https://www.qcif.edu.au/"
 
 # Head
-metaKeywords: "event, resbaz, research, bazaar, resbas, rezbaz, uoa, Wellington, cer, eresearch"
-twitterAccount: "@matty-plumski"
+metaKeywords: "event, resbaz, research, bazaar, brisbane, queensland, digital, skills, upskilling, hdr, ecr, eresearch"
+twitterAccount: "@ResBazQld"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "mailto:matt.plummer@vuw.ac.nz"
-c4sponsorsUrl: "https://www.wgtn.ac.nz"
+c4pUrl: "mailto:mark.crowe@qcif.edu.au"
+c4sponsorsUrl: "https://www.qcif.edu.au"
 
 
 # Navigation
@@ -59,19 +59,19 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "ResBaz : <typeout>"
 eventDate: ""
-typeoutTextValues: '"Wellington"'
-typeoutFallback: "Wellington"
+typeoutTextValues: '"Queensland"'
+typeoutFallback: "Queensland"
 heroButtons:
- - {link: "", text: "Next ResBaz: July or November 2021"}
+ - {link: "", text: "ResBaz: 24-26 November 2021"}
 
 # About Block
-aboutTitle: "About ResBaz Wellington"
+aboutTitle: "About ResBaz Queensland"
 aboutSubtitle: "Conference"
-aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. Throughout 2019, events will be held at a number of university campuses around the globe.</p>
+aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. Throughout 2021, events will be held at a number of university campuses around the globe.</p>
 
-<p>Hosted by the University of Wellington, the 2021 Wellington Research Bazaar is a (free-of-charge) 3-day intensive conference where researchers come together to up-skill in ‘next generation digital research tools and skills’. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+<p>Hosted by The University of Queensland, the 2021 Queensland Research Bazaar is a three-day intensive conference where researchers will come together to up-skill in 'next generation digital research tools and skills'. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
-<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to apply. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
+<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students and early career researchers are especially encouraged to attend. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -92,19 +92,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Te Toki a Rata, University of Wellington"
-eventLocationLink: "https://www.wgtn.ac.nz/about/campuses-facilities/campuses/kelburn/kelburn-campus-map.pdf"
-eventStreetAddress: "Kelbrun Parade"
-eventAddressLocality: "Wellington"
-eventAddressLocalityRegion: "Wellington"
-eventPostalCode: "6001"
-eventAddressCountry: "New Zealand"
+eventLocationName: "Advanced Engineering Building, The University of Queensland"
+eventLocationLink: "https://studentvip.com.au/uq/st-lucia/maps/149004"
+eventStreetAddress: "Staff House Road"
+eventAddressLocality: "The University of Queensland"
+eventAddressLocalityRegion: "Brisbane"
+eventPostalCode: "4072"
+eventAddressCountry: "Australia"
 eventStartTime: "2021-07-10T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2019-07-12T17:00"
-eventPlaceCoordinates: "-41.28965502000173, 174.7675973131298"
-mapCenterCoordinates: "-41.28965502000173, 174.7675973131298"
-mapMobileCenterCoordinates: "-41.28965502000173, 174.7675973131298"
+eventPlaceCoordinates: "-27.535771,152.982909"
+mapCenterCoordinates: "-27.535771,152.982909"
+mapMobileCenterCoordinates: ""
 
 # Venue Block
 venueBlockTitle: "Past Events"
@@ -130,8 +130,8 @@ partnersLink: ""
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeAction: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform"
+subscribeInfo: ""
 
 # Tickets Block
 ticketsTitle: "Pricetable"
