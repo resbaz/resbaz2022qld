@@ -25,8 +25,8 @@ siteVerification: "xOlzoaCacKCBpEsxW4st40F89pI="
 # Organizer Info
 organizerName: "Mark Crowe"
 organizerAlternateName: "QCIF"
-# organizerDescription: "The Centre for eResearch is centrally funded by the University to deliver the following Services to help researchers address challenging computational problems."
-# organizerEmail: "researchdata@Wellington.ac.nz" 
+# organizerDescription: " "
+# organizerEmail: "mark.crowe@qcif.edu.au" 
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.qcif.edu.au/"
 
@@ -51,12 +51,12 @@ navigationLinks:
  - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
- - {link: "mailto:researchdata@Wellington.ac.nz", text: "Contact us"}
+ - {link: "mailto:mark.crowe@qcif.edu.au", text: "Contact us"}
 rightNavigationButtons:
- - {link: "mailto:researchdata@Wellington.ac.nz", text: "Contact us"}
+ - {link: "mailto:mark.crowe@qcif.edu.au", text: "Contact us"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "adveng.png"
 heroTitle: "ResBaz : <typeout>"
 eventDate: ""
 typeoutTextValues: '"Queensland"'
