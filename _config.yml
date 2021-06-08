@@ -59,8 +59,7 @@ rightNavigationButtons:
 heroImage: "pelican.jpg"
 heroTitle: "ResBaz Queensland"
 eventDate: "24-26 November 2021"
-heroButtons:
- - {link: "", text: "ResBazQld: 24-26 November 2021"}
+
 
 # About Block
 aboutTitle: "About ResBaz Queensland"
