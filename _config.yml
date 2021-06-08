@@ -33,9 +33,7 @@ organizerLink: "https://www.qcif.edu.au/"
 # Head
 metaKeywords: "event, resbaz, research, bazaar, brisbane, queensland, digital, skills, upskilling, hdr, ecr, eresearch"
 twitterAccount: "@ResBazQld"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "mailto:mark.crowe@qcif.edu.au"
@@ -51,9 +49,9 @@ navigationLinks:
  - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
- - {link: "mailto:mark.crowe@qcif.edu.au", text: "Contact us"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
 rightNavigationButtons:
- - {link: "mailto:mark.crowe@qcif.edu.au", text: "Contact us"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
 
 # Hero Block
 heroImage: "pelican.jpg"
@@ -82,7 +80,7 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "jacaranda.jpg"
 rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Keystory speakers"
 rockstarSpeakersButtonText: "See all speakers"
@@ -96,9 +94,9 @@ eventAddressLocality: "The University of Queensland"
 eventAddressLocalityRegion: "Brisbane"
 eventPostalCode: "4072"
 eventAddressCountry: "Australia"
-eventStartTime: "2021-07-10T09:00"
+eventStartTime: "2021-11-24T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2019-07-12T17:00"
+eventEndTime: "2021-11-26T17:00"
 eventPlaceCoordinates: "-27.535771,152.982909"
 mapCenterCoordinates: "-27.535771,152.982909"
 mapMobileCenterCoordinates: ""
@@ -176,7 +174,7 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/Griffith_Uni", icon: "twitter"}
  - {link: "https://qcif.edu.au/", icon: "site"}
- - {link: "mailto:mark.crowe@qcif.edu.au", icon: "email"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", icon: "contact form"}
 footerBlocks:
  -
   title: "Links"
