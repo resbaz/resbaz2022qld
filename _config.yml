@@ -57,18 +57,18 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "pelican.jpg"
-heroTitle: "ResBaz Queensland"
+heroTitle: "ResBaz Queensland "
 eventDate: "24-26 November 2021"
 
 
 # About Block
 aboutTitle: "About ResBaz Queensland"
 aboutSubtitle: "Conference"
-aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. Throughout 2021, events will be held at a number of university campuses around the globe.</p>
+aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy at the centre of modern research. Throughout 2021, events will be held at a number of university campuses around the world.</p>
 
-<p>Hosted by The University of Queensland, the 2021 Queensland Research Bazaar is a three-day intensive conference where researchers will come together to up-skill in 'next generation digital research tools and skills'. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+<p>Hosted in 2021 by The University of Queensland, the 2021 Queensland Research Bazaar will be a three-day intensive conference where researchers will come together to up-skill in 'next generation digital research tools and skills'. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
-<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students and early career researchers are especially encouraged to attend. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
+<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research Masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -105,18 +105,18 @@ mapMobileCenterCoordinates: ""
 
 # Venue Block
 venueBlockTitle: "Past Events"
-venueBigImage: "adveng.png"
-venueSmallImage2: "publishing_tabletop.jpg"
-venueSmallImage1: "sam_on_the_wall.jpg"
-venueSmallImage3: "speaker_beanbags.jpg"
+venueBigImage: "advenglake.jpg"
+venueSmallImage2: "jacaranda.jpg"
+venueSmallImage1: "jac2.jpg"
+venueSmallImage3: "uqpanorama.jpg"
 venueTitle: "ResBaz 2021 "
-venueFeatures: ["Mix of online and in-person events", "Free catering provided daily.", "Network and collaborate","Different locations across New Zealand"]
+venueFeatures: ["Mix of online and in-person events", "Network and collaborate","Sessions streamed across Queensland"]
 
 # Tweets Feed Block
-tweetsFeedImage: "Wellington.jpg"
+tweetsFeedImage: "advenglake.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ResBaz"
-twitterFeed: "https://twitter.com/search?q=%23ResBaz&src=typd"
+twitterHashTag: "ResBazQld"
+twitterFeed: "https://twitter.com/search?q=%23ResBazQld&src=typd"
 
 # Partners Block
 organizersTitle: "Organisers"
@@ -136,23 +136,23 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
+  price: " "
+  priceCurrency: " "
+  ticketsNumber: " "
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: " "
+  buyButtonText: " "
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
   name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
+  price: " "
+  priceCurrency: " "
+  ticketsNumber: " "
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: " "
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
@@ -160,10 +160,10 @@ ticketsOffers:
   disabled: true
  -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  price: " "
+  priceCurrency: " "
+  ticketsNumber: " "
+  buyButtonLink: " /"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -174,18 +174,18 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/eResearchUoA?lang=en", icon: "twitter"}
- - {link: "https://wgtn.ac.nz", icon: "site"}
- - {link: "mailto:matt.plummer@vuw.ac.nz", icon: "email"}
+ - {link: "https://twitter.com/Griffith_Uni", icon: "twitter"}
+ - {link: "https://qcif.edu.au/", icon: "site"}
+ - {link: "mailto:mark.crowe@qcif.edu.au", icon: "email"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "wgtn.ac.nz", text: "Te Herenga Waka"}
+   - {link: " ", text: " "}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:matt.plummer@vuw.ac.nz", text: "mailto:matt.plummer@vuw.ac.nz"}
+   - {link: "mailto:mark.crowe@qcif.edu.au", text: "mailto:mark.crowe@qcif.edu.au"}
  -
   title: "FAQ"
   links:
@@ -194,7 +194,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: false
-discusShortName: "devfestua"
+discusShortName: "resbazqld"
 
 # Speakers List Block
 showSessions: true
