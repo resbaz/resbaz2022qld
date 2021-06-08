@@ -27,7 +27,7 @@ organizerName: "Mark Crowe"
 organizerAlternateName: "QCIF"
 # organizerDescription: " "
 # organizerEmail: "mark.crowe@qcif.edu.au" 
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/QCIF_Logo_web-copy.jpg"
 organizerLink: "https://www.qcif.edu.au/"
 
 # Head
@@ -69,21 +69,21 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research Masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees", detail: ""}
- - {count: "50", specialCharacter: "+", info: "hours", detail: ""}
- - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
- - {count: "3", specialCharacter: "", info: "parallel streams", detail: ""}
+# statisticBlockImage: "statistic.jpg"
+# statisticBlock:
+#  - {count: "100", specialCharacter: "+", info: "attendees", detail: ""}
+#  - {count: "50", specialCharacter: "+", info: "hours", detail: ""}
+#  - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
+#  - {count: "3", specialCharacter: "", info: "parallel streams", detail: ""}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+# latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "jacaranda.jpg"
-rockstarSpeakersCount: 3
-rockstarSpeakersTitle: "Keystory speakers"
-rockstarSpeakersButtonText: "See all speakers"
+# rockstarSpeakersImage: "jacaranda.jpg"
+# rockstarSpeakersCount: 3
+# rockstarSpeakersTitle: "Keystory speakers"
+# rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -102,13 +102,13 @@ mapCenterCoordinates: "-27.535771,152.982909"
 mapMobileCenterCoordinates: ""
 
 # Venue Block
-venueBlockTitle: "Past Events"
-venueBigImage: "advenglake.jpg"
-venueSmallImage2: "jacaranda.jpg"
-venueSmallImage1: "jac2.jpg"
-venueSmallImage3: "uqpanorama.jpg"
-venueTitle: "ResBaz 2021 "
-venueFeatures: ["Mix of online and in-person events", "Network and collaborate","Sessions streamed across Queensland"]
+# venueBlockTitle: "Past Events"
+# venueBigImage: "advenglake.jpg"
+# venueSmallImage2: "jacaranda.jpg"
+# venueSmallImage1: "jac2.jpg"
+# venueSmallImage3: "uqpanorama.jpg"
+# venueTitle: "ResBaz 2021 "
+# venueFeatures: ["Mix of online and in-person events", "Network and collaborate","Sessions streamed across Queensland"]
 
 # Tweets Feed Block
 tweetsFeedImage: "advenglake.jpg"
@@ -117,64 +117,63 @@ twitterHashTag: "ResBazQld"
 twitterFeed: "https://twitter.com/search?q=%23ResBazQld&src=typd"
 
 # Partners Block
-organizersTitle: "Organisers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "See you next year!"
-partnersLink: ""
+# organizersTitle: "Organisers"
+# partnersTitle: "Partners"
+# partnersC4sponsorsButton: "See you next year!"
+# partnersLink: ""
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform"
-subscribeInfo: ""
+# subscribeImage: "subscribe.jpg"
+# subscribeTitle: "Subscribe for updates"
+# subscribeAction: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform"
+# subscribeInfo: ""
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: " "
-  priceCurrency: " "
-  ticketsNumber: " "
-  ribbon: "-5%"
-  buyButtonLink: " "
-  buyButtonText: " "
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: " "
-  priceCurrency: " "
-  ticketsNumber: " "
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: " "
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: " "
-  priceCurrency: " "
-  ticketsNumber: " "
-  buyButtonLink: " /"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+# ticketsTitle: "Pricetable"
+# ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+# ticketsOffers: -
+#  name: "Early Bird"
+#   price: " "
+#  priceCurrency: " "
+#  ticketsNumber: " "
+#  ribbon: "-5%"
+#   buyButtonLink: " "
+#  buyButtonText: " "
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-25T10:00"
+# validThrough: "2014-09-30T23:59"
+#  -
+#   name: "Last Chance"
+#   price: " "
+#  priceCurrency: " "
+#   ticketsNumber: " "
+#   ribbon: "-20%"
+#  featured: true
+#   buyButtonLink: " "
+#   buyButtonText: "Buy Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-10-01T00:00"
+#   validThrough: "2014-10-23T23:59"
+#   disabled: true
+# -
+#   name: "Student"
+#   price: " "
+#   priceCurrency: " "
+#   ticketsNumber: " "
+#   buyButtonLink: " /"
+#   buyButtonText: "Buy Now"
+#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-20T10:00"
+#  validThrough: "2014-10-23T23:59"
+#  soldOut: true
+#   soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/Griffith_Uni", icon: "twitter"}
- - {link: "https://qcif.edu.au/", icon: "site"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", icon: "contact form"}
+ - {link: "https://twitter.com/ResBazQld", icon: "twitter"}
+ - {link: "https://www.qcif.edu.au/", icon: "site"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", icon: "mail"}
 footerBlocks:
  -
   title: "Links"
