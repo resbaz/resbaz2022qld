@@ -79,11 +79,11 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 # Latest News Block
 # latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block
-# rockstarSpeakersImage: "jacaranda.jpg"
-# rockstarSpeakersCount: 3
-# rockstarSpeakersTitle: "Keystory speakers"
-# rockstarSpeakersButtonText: "See all speakers"
+Rockstar Speakers Block
+rockstarSpeakersImage: "jacaranda.jpg"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Keystory speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
