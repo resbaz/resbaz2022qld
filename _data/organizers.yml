@@ -5,14 +5,14 @@
 - 
   group: "Co-organisers"
   elements: 
-    - {name: "Griffith University", description: "Griffith Uni Library staff", link: "https://www.griffith.edu.au/library"}
-    - {name: "UQ", description: "The University of Queensland Library", link: "https://www. library.uq.edu.au/"}
-    - {name: "QUT", description: "Queensland University of Technology Library", link: "https://qut.edu.au/library"}
-    - {name: "USQ", description: "University of Southern Queensland eResearch Services", link: "https://www.usq.edu.au/"}
+    - {name: "Griffith University Library", description: "Griffith Uni Library staff", link: "https://www.griffith.edu.au/library"}
+    - {name: "UQ Library", description: "The University of Queensland Library", link: "https://www. library.uq.edu.au/"}
+    - {name: "QUT Library", description: "Queensland University of Technology Library", link: "https://qut.edu.au/library"}
+    - {name: "USQ eResearch", description: "University of Southern Queensland eResearch Services", link: "https://www.usq.edu.au/"}
 -
   group: "Sponsors"
   elements: 
     - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au"}
 - 
   elements:
-    - {name: "REANNZ", description: "REANNZ", link: "https://reannz.co.nz"}
+    - {name: " ", description: " ", link: " "}
