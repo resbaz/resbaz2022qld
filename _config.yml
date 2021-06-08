@@ -57,12 +57,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "advenglake.jpg"
-heroTitle: "ResBaz : <typeout>"
+heroTitle: "ResBaz Queensland"
 eventDate: "24-26 November 2021"
-typeoutTextValues: '"Queensland"'
-typeoutFallback: "Queensland"
 heroButtons:
- - {link: "", text: "ResBaz: 24-26 November 2021"}
+ - {link: "", text: "ResBazQld: 24-26 November 2021"}
 
 # About Block
 aboutTitle: "About ResBaz Queensland"
