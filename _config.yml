@@ -111,10 +111,10 @@ mapMobileCenterCoordinates: ""
 # venueFeatures: ["Mix of online and in-person events", "Network and collaborate","Sessions streamed across Queensland"]
 
 # Tweets Feed Block
-tweetsFeedImage: "advenglake.jpg"
+tweetsFeedImage: "jac2.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ResBazQld"
-twitterFeed: "https://twitter.com/search?q=%23ResBazQld&src=typd"
+twitterHashTag: "#ResBazQld"
+twitterFeed: "https://twitter.com/ResBazQld"
 
 # Partners Block
 # organizersTitle: "Organisers"
