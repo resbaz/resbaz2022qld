@@ -10,9 +10,10 @@
     - {name: "QUT Library", description: "Queensland University of Technology Library", link: "https://qut.edu.au/library"}
     - {name: "USQ eResearch", description: "University of Southern Queensland eResearch Services", link: "https://www.usq.edu.au/"}
 -
-  group: "Sponsors"
+  group: "Platinum sponsors"
   elements: 
-    - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au"}
-- 
+    - {name: "SAGE Publishing", description: "Sage Publishing Australia", link: "https://us.sagepub.com/en-us/nam/home"}
+
+  group: "Sponsors"
   elements:
-    - {name: " ", description: " ", link: " "}
+    - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au"}
