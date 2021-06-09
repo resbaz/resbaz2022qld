@@ -113,7 +113,7 @@ mapMobileCenterCoordinates: ""
 # Tweets Feed Block
 tweetsFeedImage: "jac2.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "#ResBazQld"
+twitterHashTag: "ResBazQld"
 twitterFeed: "https://twitter.com/ResBazQld"
 
 # Partners Block
