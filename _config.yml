@@ -55,7 +55,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "advenglakepel.jpg"
-heroTitle: "ResBaz Queensland "
+heroTitle: "ResBaz Queensland"
 eventDate: "24-26 November 2021"
 
 
@@ -111,7 +111,7 @@ mapMobileCenterCoordinates: ""
 # venueFeatures: ["Mix of online and in-person events", "Network and collaborate","Sessions streamed across Queensland"]
 
 # Tweets Feed Block
-tweetsFeedImage: "jac2.jpg"
+tweetsFeedImage: "uqpanorama.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "ResBazQld"
 twitterFeed: "https://twitter.com/ResBazQld"
