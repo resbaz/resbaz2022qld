@@ -1,6 +1,6 @@
 - 
-  date: "2019-07-10"
-  dateReadable: "July 10"
+  date: "2021-11-24"
+  dateReadable: "24 November"
   tracks: 
     - {title: "1", color: "#90be4e"}
     - {title: "2", color: "#e91e63"}
@@ -63,8 +63,8 @@
     	sessionIds: [308]
     }
 - 
-  date: "2019-07-11"
-  dateReadable: "July 11"
+  date: "2021-11-25"
+  dateReadable: "25 November"
   tracks: 
     - {title: "1", color: "#90be4e"}
     - {title: "2", color: "#e91e63"}
@@ -127,8 +127,8 @@
     	sessionIds: [304]
     }
 - 
-  date: "2019-07-12"
-  dateReadable: "July 12"
+  date: "2021-11-26"
+  dateReadable: "26 November"
   tracks: 
     - {title: "1", color: "#90be4e"}
     - {title: "2", color: "#e91e63"}
