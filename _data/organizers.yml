@@ -6,16 +6,12 @@
   group: "Co-organisers"
   elements: 
     - {name: "Griffith University Library", description: "Griffith Uni Library staff", link: "https://www.griffith.edu.au/library"}
-    - {name: "UQ Library", description: "The University of Queensland Library", link: "https://www. library.uq.edu.au/"}
-    - {name: "QUT Library", description: "Queensland University of Technology Library", link: "https://qut.edu.au/library"}
     - {name: "USQ eResearch", description: "University of Southern Queensland eResearch Services", link: "https://www.usq.edu.au/"}
     - {name: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/"}
 -
   group: "Platinum sponsors"
   elements: 
     - {name: "SAGE Publishing", description: "Sage Publishing Australia", link: "https://us.sagepub.com/en-us/nam/home"}
--
-  group: "Sponsors"
-  elements:
-    - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au"}
+    - {name: "Gale", description: "Gale", link: "https://cengage.com.au/gale"}
+    - {name: "AARNet", description: "AARNet", link: "https://www.aarnet.edu.au/"}
 -
