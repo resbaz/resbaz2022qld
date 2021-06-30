@@ -8,8 +8,8 @@
     - {title: "4", color: "#FF00FF"}
   timeslots:
     - {
-    	startTime: "09:00",
-      endTime: "11:00",
+    	startTime: "08:00",
+      endTime: "09:00",
     	sessionIds: [301]
     }
     - {
