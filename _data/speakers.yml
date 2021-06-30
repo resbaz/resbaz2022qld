@@ -1,25 +1,24 @@
 - 
   id: 0
-  name: "Geoffrey"
-  surname: "Batchen"
-  company: "Oxford University"
-  title: "Chair of Art History"
-  bio: "GEOFFREY BATCHEN (BA PhD Sydney) holds the Professorship of the History of Art in the Department of the History of Art and the Faculty of History.  Professor Batchen is a fellow of Trinity College.
-Professor Batchen's work as a teacher, writer and curator focuses on the history of photography."
-  thumbnailUrl: "GeoffreyBatchen.png"   
+  name: "Professor Hugh"
+  surname: "Possingham"
+  company: "The University of Queensland"
+  title: Queensland Chief Scientist"
+  bio: "Professor Hugh Possingham has had a long and distinguished career developing mathematical and economic tools for solving nature conservation problems such as where to place protected areas and which the most efficient actions for saving threatened species."
+  thumbnailUrl: "HughPossingham.png"   
   rockstar: true
   ribbon:
-    - {abbr: "Oxford", title: "Oxford University", url: "https://www.hoa.ox.ac.uk/people/professorship-of-the-history-of-art-from-jan-2020"}
+    - {abbr: "UQ", title: "Chief Scientist", url: "https://www.chiefscientist.qld.gov.au/about/current-chief-scientist"}
 - 
   id: 1
-  name: "Professor Shaun"
-  surname: "Hendy"
-  company: "Te Punaha Matatini"
-  bio: "Shaun Hendy is the Director of Te Pūnaha Matatini, a New Zealand Centre of Research Excellence, and a Professor of Physics at the University of Auckland."
-  thumbnailUrl: "Shaun-Hendy.jpg"
+  name: "Associate Professor Tim"
+  surname: "Sherratt"
+  company: "The University of Canberra"
+  bio: "Tim Sherratt is a historian and hacker who researches the possibilities and politics of digital cultural collections. He joined the University of Canberra in 2015 as Associate Professor of Digital Heritage."
+  thumbnailUrl: "TimSherratt.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "TPM", title: "Te Pūnaha Matatini", url: "https://www.tepunahamatatini.ac.nz"}
+    - {abbr: "UC", title: "University of Canberra", url: "https://www.canberra.edu.au/"}
 - 
   id: 2
   name: "Associate Professor Jennifer"
