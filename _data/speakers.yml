@@ -5,7 +5,7 @@
   company: "The University of Queensland"
   title: Queensland Chief Scientist"
   bio: "Professor Hugh Possingham has had a long and distinguished career developing mathematical and economic tools for solving nature conservation problems such as where to place protected areas and which the most efficient actions for saving threatened species."
-  thumbnailUrl: "HughPossingham.png"   
+  thumbnailUrl: "HughPossingham.jpg"   
   rockstar: true
   ribbon:
     - {abbr: "UQ", title: "Chief Scientist", url: "https://www.chiefscientist.qld.gov.au/about/current-chief-scientist"}
