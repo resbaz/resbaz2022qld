@@ -8,7 +8,7 @@
     - {name: "USQ eResearch", description: "University of Southern Queensland eResearch Services", link: "https://www.usq.edu.au/"}
     - {name: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/"}
 -
-  group: "Platinum sponsors"
+  group: "Sponsors"
   elements: 
     - {name: "SAGE Publishing", description: "Sage Publishing Australia", link: "https://us.sagepub.com/en-us/nam/home"}
     - {name: "Gale", description: "Gale", link: "https://cengage.com.au/gale"}
