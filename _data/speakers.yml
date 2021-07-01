@@ -4,11 +4,7 @@
   surname: "Possingham"
   company: "The University of Queensland"
   title: Queensland Chief Scientist"
-  bio: "Professor Hugh Possingham became Queensland Chief Scientist in September 2020.
-
- 
-
-He is a conservation scientist and mathematician who has held positions in the university, public and not-for profit sectors.  He is a Foreign Associate of the US National Academy of Sciences and a Fellow of the Australian Academy of Science. He completed his PhD at Oxford University in 1987 as a Rhodes Scholar and was most recently the Chief Scientist at The Nature Conservancy, a global conservation organisation operating in 79 countries. A winner of two Eureka Prizes, his most significant contribution to conservation was the co-development of Marxan, software first used to rezone the Great Barrier Reef, and now used in almost every country in the world to inform the expansion of their marine and terrestrial protected area systems. Hugh has worked with all levels of government and many not-for-profit organisations, pro bono, to improve the state of Australia’s threatened species and habitats.  He is currently on the board of directors of BirdLife Australia. He has supervised over 200 honours students, doctoral candidates and postdoctoral fellows. He has published >650 peer-reviewed publications, >30 in Nature and Science."
+  bio: "Professor Hugh Possingham became Queensland Chief Scientist in September 2020. He is a conservation scientist and mathematician who has held positions in the university, public and not-for profit sectors.  He is a Foreign Associate of the US National Academy of Sciences and a Fellow of the Australian Academy of Science. He completed his PhD at Oxford University in 1987 as a Rhodes Scholar and was most recently the Chief Scientist at The Nature Conservancy, a global conservation organisation operating in 79 countries. A winner of two Eureka Prizes, his most significant contribution to conservation was the co-development of Marxan, software first used to rezone the Great Barrier Reef, and now used in almost every country in the world to inform the expansion of their marine and terrestrial protected area systems. Hugh has worked with all levels of government and many not-for-profit organisations, pro bono, to improve the state of Australia’s threatened species and habitats.  He is currently on the board of directors of BirdLife Australia. He has supervised over 200 honours students, doctoral candidates and postdoctoral fellows. He has published >650 peer-reviewed publications, >30 in Nature and Science."
   thumbnailUrl: "HughPossingham.jpg"   
   rockstar: true
   ribbon:
@@ -25,14 +21,14 @@ He is a conservation scientist and mathematician who has held positions in the u
     - {abbr: "UC", title: "University of Canberra", url: "https://www.canberra.edu.au/"}
 - 
   id: 2
-  name: "Associate Professor Jennifer"
-  surname: "Lees-Marshment"
-  company: "Faculty of Arts"
-  bio: "Jennifer Lees-Marshment is an Associate Professor in political science at The University of Auckland in New Zealand. Author/editor of 13 books, Jennifer is a world expert in political marketing with additional research interests in public input, leadership, and governance. Her most recent work The Ministry of Public Input (Palgrave 2015) won the IAP2 Australasia Research Award. Jennifer was academic advisor to TVNZ’s Vote Compass in the 2014 and 2017 New Zealand elections and Kiwimeter in 2015 and Chair of the Magna Carta 800 committee for NZ in 2015. See <a href=\"http://www.lees-marshment.org\">www.lees-marshment.org</a> for further details or email j.lees-marshment@auckland.ac.nz." 
-  thumbnailUrl: "jennifer-lees-marshment.jpg"
+  name: "Associate Professor Sama"
+  surname: "Low-Choy"
+  company: "Arts Education and Law"
+  bio: "Associate Professor Sama Low-Choy is a Member of the Environmental Futures Research Institute and the Arts Education and Law Faculty at Griffith University." 
+  thumbnailUrl: "sama-low-choy.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "Arts", title: "School of Social Sciences, Faculty of Arts", url: "https://www.auckland.ac.nz/en/arts/about-the-faculty/school-of-social-sciences.html"}
+    - {abbr: "Arts", title: "Arts Education and Law", url: "https://www.griffith.edu.au/arts-education-law"}
 -
   id: 3
   name: "Manish"
