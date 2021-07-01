@@ -1,17 +1,22 @@
 - 
   group: "Main organiser"
-  elements:
-     - {name: "Griffith University Library", description: "Griffith Uni Library staff", link: "https://www.griffith.edu.au/library"}
      - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "qciflogo.jpg", width: "120px"}
 - 
   group: "Co-organisers"
   elements: 
+    - {name: "Griffith Uni Library", description: "Griffith Uni Library staff", link: "https://www.griffith.edu.au/library"}
     - {name: "USQ eResearch", description: "University of Southern Queensland eResearch Services", link: "https://www.usq.edu.au/"}
     - {name: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/"}
 -
   group: "Platinum Sponsors"
   elements: 
-    - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://us.sagepub.com/en-us/nam/home", imageUrl: "sage.png"}
-    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "gale.jpg"}
-    - {name: "AARNet", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "aarnet.png"}
+    - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://us.sagepub.com/en-us/nam/home", imageUrl: "../img/organizers/sage.png"}
+    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "../img/organizers/gale.jpg"}
+    - {name: "AARNet", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
 -
+  group: "Key Sponsors"
+  elements: 
+    - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://us.sagepub.com/en-us/nam/home"}
+    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale"}
+    - {name: "AARNet", description: "Australian Research Network", link: "https://www.aarnet.edu.au/"}
+- 
