@@ -12,6 +12,6 @@
   group: "Platinum Sponsors"
   elements: 
     - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://us.sagepub.com/en-us/nam/home", imageUrl: "sage.png"}
-    - {name: "Gale", description: "Gale, a Cengage Company", link: "http://https://cengage.com.au/gale", imageUrl: "Gale_NewLogo_OrangeBlue_CMYK.jpg"}
-    - {name: "AARNet", description: "AARNet: Australia's Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "AARNet _logo_withtag_mono.png"}
+    - {name: "Gale", description: "Gale, a Cengage Company", link: "http://https://cengage.com.au/gale", imageUrl: "gale.jpg"}
+    - {name: "AARNet", description: "AARNet: Australia's Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "aarnet.png"}
 -
