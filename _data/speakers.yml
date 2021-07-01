@@ -24,22 +24,22 @@
   name: "Associate Professor Sama"
   surname: "Low-Choy"
   company: "Arts Education and Law"
-  bio: "Associate Professor Sama Low-Choy is a Member of the Environmental Futures Research Institute and the Arts Education and Law Faculty at Griffith University." 
+  bio: "Associate Professor Sama Low-Choy is a senior statistician, and a Member of the Environmental Futures Research Institute and the Arts Education and Law Faculty at Griffith University." 
   thumbnailUrl: "sama-low-choy.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "Arts", title: "Arts Education and Law", url: "https://www.griffith.edu.au/arts-education-law"}
+    - {abbr: "Statistics", title: "Arts Education and Law", url: "https://www.griffith.edu.au/arts-education-law"}
 -
   id: 3
-  name: "Manish"
-  surname: "Kukreja"
-  company: "Auckland District Health Board"
-  title: "Full Stack Data Scientist | Trainer"
-  bio: "Manish is a data scientist but more broadly is a solution seeker. He is passionate about teaching, (machine) learning and mentoring. His experience spans across multiple domains including consulting, telecom, fire protection, education and now in healthcare. He enjoys a blend of technical and leadership roles, most recently at Auckland DHB, GreyAtom and University of Auckland. His diverse background includes computer science/engineering, statistics and education, each of which he brings to his daily work in data science."
-  thumbnailUrl: "manish_kukreja.jpg"
+  name: "Dr Sara"
+  surname: "King"
+  company: "AARNet"
+  title: "Training and Engagement Lead"
+  bio: "Dr Sara King is the Training and Engagement Lead at AARNet. She will lead workshops on Jupyter notebooks and Network know-how."
+  thumbnailUrl: "sara-king.jpg"
   rockstar: true 
   ribbon:
-    - {abbr: "ADHB", title: "Auckland District Health Board", url: "https://adhb.health.nz"}
+    - {abbr: "AARNet", title: "Training and Engagement Lead", url: "https://www.aarnet.edu.au/"}
 -
   id: 4
   name: "Tamsin"
