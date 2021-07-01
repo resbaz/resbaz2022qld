@@ -1,23 +1,12 @@
-# - 
-#   group: "General sponsor"
-#   elements: 
-#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-# - 
-#   group: "With support of"
-#   elements: 
-#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
-# - 
-#   group: "Information partners"
-#   elements: 
-#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+- 
+group: "Platinum Sponsors"
+elements: 
+  - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+  - {name: "Gale", description: "Gale, a Cengage Company", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+  - {name: "AARNet", description: "AARNet: Australia's Research Network", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+- 
+group: "With the support of"
+elements: 
+  - {name: "QCIF", description: "Queesnland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "qcif", width: "120px"}
+  - {name: "Griffith University Library", description: "Griffith Uni Library", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
+- 
