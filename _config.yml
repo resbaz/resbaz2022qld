@@ -112,7 +112,7 @@ mapMobileCenterCoordinates: ""
 
 # Tweets Feed Block
 tweetsFeedImage: "uqpanorama.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "What's the latest?"
 twitterHashTag: "ResBazQld"
 twitterFeed: "https://twitter.com/ResBazQld"
 
