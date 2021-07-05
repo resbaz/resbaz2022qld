@@ -180,6 +180,12 @@ footerBlocks:
   links:
    - {link: "https://www.flickr.com/photos/bystandr/", text: "All site background images copyright Dr Nick"}
  -
+  title: "Platinum Sponsors"
+  links:
+    - {link: "https://us.sagepub.com/en-us/nam/home", text: "SAGE Publishing", imageUrl: "sage.png"}
+    - {link: "http://https://cengage.com.au/gale", text: "Gale", imageUrl: "gale.jpg"}
+    - {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "aarnet.png"}
+ -    
   title: "Contacts"
   links:
    - {link: "mailto:mark.crowe@qcif.edu.au", text: "mailto:mark.crowe@qcif.edu.au"}
@@ -189,11 +195,9 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: false
-discusShortName: "resbazqld"
+# blogTitle: "Latest news"
+# blogCommentsEnabled: false
+# discusShortName: "resbazqld"
 
 # Speakers List Block
 showSessions: true
-
-
