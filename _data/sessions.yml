@@ -1,29 +1,27 @@
 - 
   id: 100
   title: "Key Story - Nature conservation"
-  description: "As Queensland Chief Scientist, Professor Possingham advises government on scientific matters."
+  description: "Moving around from an environmental NGO (the Nature Conservancy), to government (Queensland's Chief Scientist) to academia and all the science involved."
   speakers: [0]
   hidden: true
   img: key_icons/speaking.png
 - 
   id: 102
-  title: "Key Story - GLAM data"
-  description: "Tim Sherratt Tim Sherratt is a historian and hacker who researches the possibilities and politics of digital cultural collections."
+  title: "Key Story - Exploring Australian GLAM data"
+  description: "More and more institutions in the GLAM sector (Galleries, Libraries, Archives, and Museums) are sharing their collection data online, but what is it, and how do you use it? In this talk, I'll survey the types of data available – including metadata, images, OCRd text, and transcriptions – and explore possible research topics. Using tools and examples from the GLAM Workbench, I’ll show how GLAM data can be harvested, aggregated, analysed, and visualised. What can GLAM data tell us about Australian history, society, and culture?"
   speakers: [1]
   hidden: true
 -
   id: 103
-  title: "Keystory - Applying data science to health care (Rm: G20)"
-  description: "Can we predict how many emergency admissions would occur in the next hour? Or is it possible to provide better care by automating cumbersome but essential clinical tasks? Discover how data science can help shape the 'health and care', in an industry which has data locked into many disparate systems. In this talk, we will touch upon 'the data and digital skills' required to overcome some of the challenges in realising the real value of healthcare data."
-  speakers: [3]
+  title: "Survey Design"
+  description: "In this talk, I will cover the dos and don'ts of survey design and how to avoid the pitfalls of porrly designed surveys."
+  speakers: [2]
   hidden: true
 -
   id: 104
-  title: "Keystory - Make Friends with Other Disciplines: Building novel collaborations to drive novel research (Rm: G20)"
-  description: "Come and hear how to escape from cookie cutter research, through our tale of novel collaboration bringing together an unlikely team of architects, medical doctors, data scientists and visualisation specialists working to change the way we study cancer. 
-  Spoiler alert: This team worked to bring together complex cancer data, spanning time and space, in Augmented Reality to creat a tool to explore and discuss the evolution of cancer in a whole new realm.
-  This keynote aims to inspire collaboration and ambition across faculties and across disciplines to make the most of your precious data and the resources available to you at the University."
-  speakers: [4, 5]
+  title: "Introduction to Jupyter Notebooks"
+  description: "This workshop will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data. You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research. By the end of the workshop you will have a good understanding of what Notebooks can do, how to open one up, perform some basic tasks and save it for later. If you are really into it, you will also be able to continue to experiment after the workshop by using other people’s notebooks as springboards for your own adventures! This workshop is targeted at those who are absolute beginners or ‘tech-curious’. It includes a hands-on component, using basic programming commands, but requires no previous knowledge of programming."
+  speakers: [3]
   hidden: true
 -
   id: 105
