@@ -7,7 +7,7 @@
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
             <h5>{{ site.eventDate }}</h5>
-            <p><br \><br \><center><h5>Our Platinum Sponsors</h5><br \><br \><img src="img/organizers/sage.png" alt="Sage Publishing" width="10%"> &nbsp;&nbsp;<img src="img/organizers/Gale1.jpg" alt="Gale" width="10%">&nbsp;&nbsp; <img src="img/organizers/aarnet.png" alt="AARNet" width="10%"></center></p>
+            <p><br \><br \><center><h5>Our Platinum Sponsors</h5><br \><br \><img src="img/organizers/sage.png" alt="Sage Publishing" width="10%"> &nbsp;&nbsp;<img src="img/organizers/gale-trans.png" alt="Gale" width="10%">&nbsp;&nbsp; <img src="img/organizers/aarnet.png" alt="AARNet" width="10%"></center></p>
             {% for button in site.heroButtons %}
             <a class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ button.text }}</a>
             {% endfor %}
