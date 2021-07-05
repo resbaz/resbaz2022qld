@@ -188,7 +188,8 @@ footerBlocks:
  -    
   title: "Contacts"
   links:
-   - {link: "mailto:mark.crowe@qcif.edu.au", text: "mailto:mark.crowe@qcif.edu.au"}
+   - {link: "mailto:mark.crowe@qcif.edu.au", text: "mark.crowe@qcif.edu.au"}
+   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Tell us what you want/Suggest an activity"}
  -
   title: "FAQ"
   links:
