@@ -18,12 +18,6 @@
   speakers: [2]
   hidden: true
 -
-  id: 104
-  title: "Introduction to Jupyter Notebooks"
-  description: "This workshop will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data. You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research. By the end of the workshop you will have a good understanding of what Notebooks can do, how to open one up, perform some basic tasks and save it for later. If you are really into it, you will also be able to continue to experiment after the workshop by using other people’s notebooks as springboards for your own adventures! This workshop is targeted at those who are absolute beginners or ‘tech-curious’. It includes a hands-on component, using basic programming commands, but requires no previous knowledge of programming."
-  speakers: [3]
-  hidden: true
--
   id: 105
   title: "Network Know-how & Data Handling"
   description: "This workshop will cover topics such as jargon busting, network literacy and data movement solutions. The workshop will also provide a peek at some collaborative research tools such as Jupyter Notebooks and CloudStor. You will learn about networks, integrated tools, data and storage and where all these things fit in the researcher’s toolkit."
@@ -66,7 +60,7 @@
 
   id: 001
   title: "Software Carpentry with Python - session 1"
-  description: "The workshop will cover task automation in the Unix shell, version control with G and introduce programming in Python."
+  description: "The workshop will cover task automation in the Unix shell, version control with Git and introduce programming in Python."
   subtype: workshop
   speakers: [14]
   complexity: "Beginner"
@@ -79,7 +73,7 @@
 -
   id: 003
   title: "Software Carpentry with Python - session 2"
-  description: "The workshop will cover task automation in the Unix shell, version control with G and introduce programming in Python."
+  description: "The workshop will cover task automation in the Unix shell, version control with Git and introduce programming in Python."
   subtype: workshop
   speakers: [5]
   complexity: "Beginner"
