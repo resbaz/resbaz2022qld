@@ -14,7 +14,7 @@
 -
   id: 103
   title: "Survey Design"
-  description: "In this talk, I will cover the dos and don'ts of survey design and how to avoid the pitfalls of porrly designed surveys."
+  description: "In this talk, I will cover the dos and don'ts of survey design and how to avoid the pitfalls of poorly designed surveys."
   speakers: [2]
   hidden: true
 -
@@ -25,62 +25,35 @@
   hidden: true
 -
   id: 105
-  title: "Keystory - Eclectic Research: Weaving Data (Rm: G20)"
-  description: "Details to be announced."
-  speakers: [6]
-  hidden: true
--
-  id: 106
-  title: "Keystory - Seeing Things Differently (Rm: G20)"
-  description: "Details to be announced."
-  speakers: [7]
+  title: "Network Know-how & Data Handling"
+  description: "This workshop will cover topics such as jargon busting, network literacy and data movement solutions. The workshop will also provide a peek at some collaborative research tools such as Jupyter Notebooks and CloudStor. You will learn about networks, integrated tools, data and storage and where all these things fit in the researcher’s toolkit."
+  speakers: [3]
   hidden: true
 -
   id: 301
-  title: "Registration (Rm:120)"
+  title: "Registration (in the foyer)"
   service: true
   hidden: true
 - 
   id: 302
-  title: "Welcome (Rm:G20)"
-  speakers: [9]
+  title: "Welcome (Auditorium)"
+  speakers: [4]
   hidden: true
-- 
-  id: 303
-  title: "Superpowers (Rm:G20)"
-  hidden: true
-  speakers: [10, 19]
 - 
   id: 304
-  title: "Pizza, sponsored by REANNZ (Rm:120)"
+  title: "Evening Reception"
   service: true
   hidden: true
   speakers: 
 - 
-  id: 305
-  title: "Feedback and treats (Rm:G20)"
-  hidden: true
-  speakers: [27, 13, 14]
-- 
-  id: 306
-  title: "Flexing your superpowers"
-  hidden: true
-  speakers: [10, 19]
--
   id: 307
-  title: "Morning break (Rm:120)"
+  title: "Morning tea (in the foyer)"
   service: true
   hidden: true
   description: "The best time to talk with speakers and attendees"
 -
   id: 308
-  title: "Afternoon break (Rm:120)"
-  service: true
-  hidden: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 309
-  title: "Social event, Old Government House"
+  title: "Lunch (in the foyer)"
   service: true
   hidden: true
   description: "The best time to talk with speakers and attendees"
@@ -90,11 +63,7 @@
   service: true
   hidden: true
 -
-  id: 503
-  title: "Lunch Break (Rm:120)"
-  hidden: true
-  service: true
--
+
   id: 001
   title: "Research Data Management (Part 2): Sharing, Publishing & Archiving (Rm:G10)"
   description: "The University of Auckland Code of Conduct for Research states \"Researchers should share data and findings openly and as promptly as possible\", a practice increasingly required by research funders and publishers. Come along to this workshop to learn about how you can disseminate your research findings; increase your research impact through data publication; learn about services available to you at the University to achieve this."
