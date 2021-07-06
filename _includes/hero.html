@@ -4,7 +4,7 @@
     <div class="content-wrapper">
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.heroTitle | split:"<typeout>" %}
+            {% assign heroText = site.heroTitle %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
             <h5>{{ site.eventDate }}</h5>
             <p><br \><br \><center><br \><br \><br \><img src="img/organizers/sage.png" alt="Sage Publishing" width="10%"> &nbsp;&nbsp;<img src="img/organizers/gale_trans.png" alt="Gale" width="10%">&nbsp;&nbsp; <img src="img/organizers/aarnet.png" alt="AARNet" width="10%"><br \><br \><h5>Our Platinum Sponsors</h5></center></p>
