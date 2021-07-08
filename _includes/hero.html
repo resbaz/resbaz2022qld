@@ -4,11 +4,10 @@
     <div class="content-wrapper">
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+            <h1>{{ site.heroTitle }}</h1>
             <h5>{{ site.eventDate }}</h5>
-             <p><br \><center><br \><br \><h5>Main organiser</h5><br \><a href="http://https://www.qcif.edu.au"><img src="img/organizers/QCIF_Logo_Master.png" alt="QCIF" width="10%"></a></center></p> 
-            <p><br \><br \><center><br \><h5>Our Platinum Sponsors</h5><br \><a href="http://https://cengage.com.au/gale"><img src="img/organizers/gale_trans.png" alt="Gale" width="10%"></a>&nbsp;&nbsp; <a href="https://us.sagepub.com/en-us/nam/home"><img src="img/organizers/sage.png" alt="Sage Publishing" width="10%"></a> &nbsp;&nbsp; <a href="https://www.aarnet.edu.au/"><img src="img/organizers/aarnet.png" alt="AARNet" width="10%"></a></center></p>
+             <p><br \><center><br \><h5>Main organiser</h5><br \><a href="http://https://www.qcif.edu.au"><img src="img/organizers/QCIF_Logo_Master.png" alt="QCIF" width="10%"></a></center></p> 
+            <p><br \><br \><center><br \><br \><h5>Our Platinum Sponsors</h5><br \><a href="http://https://cengage.com.au/gale"><img src="img/organizers/gale_trans.png" alt="Gale" width="10%"></a>&nbsp;&nbsp; <a href="https://us.sagepub.com/en-us/nam/home"><img src="img/organizers/sage.png" alt="Sage Publishing" width="10%"></a> &nbsp;&nbsp; <a href="https://www.aarnet.edu.au/"><img src="img/organizers/aarnet.png" alt="AARNet" width="10%"></a></center></p>
             {% for button in site.heroButtons %}
             <a class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ button.text }}</a>
             {% endfor %}
