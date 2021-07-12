@@ -35,8 +35,8 @@
   surname: "King"
   company: "AARNet"
   title: "Training and Engagement Lead"
-  bio: "Dr Sara King is the Training and Engagement Lead at AARNet. She will lead workshops on Jupyter notebooks and Network know-how."
-  thumbnailUrl: "sara-king.jpg"
+  bio: "Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is currently working on creating reusable guidance information for Jupyter Notebooks and other AARNet services to be adapted for Carpentry training workshops. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone."
+  thumbnailUrl: "sara.jpg"
   rockstar: true 
   ribbon:
     - {abbr: "AARNet", title: "Training and Engagement Lead", url: "https://www.aarnet.edu.au/"}
