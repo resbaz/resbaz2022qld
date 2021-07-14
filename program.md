@@ -25,13 +25,13 @@
 | 12:30 - 1:30 |  Lunch in the foyer |  |  |  |  |
 | 1:30 - 2:00 |  **Dr Sama Low-Choy: Survey design dos and don'ts** | Software Carpentry with Python | Top tip talks | Graduate Digital Research Fellows talks | Free |
 | 2:00 - 2:30 | Sponsor talk: SAGE | Software Carpentry with Python | Graduate Digital Research Fellows talks | Free | Free |
-| 2:30 - 4:30 |  Open Mic | Software Carpentry with Python | Gale Digital Scholar Lab (Social Sciences) | Species Distribution Modelling with the  Ecocommons | Advanced image processing and analysis with FIJI (NC) |
+| 2:30 - 4:30 |  Open Mic | Software Carpentry with Python | Gale Digital Scholar Lab (Social Sciences) | Introduction to Species Distribution Modelling with the Ecocommons | Advanced image processing and analysis with FIJI (NC) |
 
 ### Friday 26 November
 
 | **Time** |  **Auditorium/Foyer** | **Room 1** | **Room 2**| **Room 3** | **Room 4** |
 | --- | :---: | :---: | :---:| :---: |:---: |
-| 9:00 - 11:00 |  Free | BioCommons | **Network Know-How** | Software Containers for Neuroscience | Workshop 4 |
+| 9:00 - 11:00 |  Free | BioCommons | **Network Know-How and Data Handling** | Software Containers for Neuroscience | Workshop 4 |
 | 11:00 - 11:30 |  Morning tea in the foyer |  |  |  |  |
 | 11:30 - 12:30 | **Key Story: Professor Hugh Possingham** | Free | Free | Free  | Free |
 | 12:30 - 1:30 |  Lunch in the foyer |  |  |  |  |
