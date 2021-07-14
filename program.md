@@ -8,9 +8,8 @@
 | 11:00 - 11:30 |  Morning tea in the foyer | Free | Free | Free | Free |
 | 11:30 - 12:30 | Key Story: Tim Sheratt: GLAM data | Free | Free | Free  |Free |
 | 12:30 - 1:30 |  Lunch in the foyer | Free | Free | Free | Free |
-| 1:30 - 2:00 |  Knowledge Bazaar in the foyer | Software Carpentry with Python | Free | Free | Free |
-| 2:00 - 2:30 |  Welcome: Joe Shapter | Software Carpentry with Python | Graduate Digital Research Fellows talks | Free | Free |
-| 2:30 - 4:30 | Free | Software Carpentry with Python | Gale Digital Scholar Lab (Humanities) | Free | Free |
+| 1:30 - 2:00 | Sponsor: AARNet talk | Software Carpentry with Python |  Knowledge Bazaar | Free | Free |
+| 2:00 - 2:30 | Sponsor: Gale talk | Software Carpentry with Python | Gale Digital Scholar Lab (Humanities) | Free | Free |
 | 5:30 - 7:30 | Social event: 90 seconds of research impact rounds |  Free | Free | Free | Free |
 
 ### Thursday 25 November
@@ -22,7 +21,7 @@
 | 11:30 - 12:30 | Key Story: Soils for Science | Free | Free | Free  |Free |
 | 12:30 - 1:30 |  Lunch in the foyer | Free | Free | Free | Free |
 | 1:30 - 2:00 |  Dr Sama Low-Choy: Survey design dos and don'ts | Software Carpentry with Python | Top tip talks | Graduate Digital Research Fellows talks | Free |
-| 2:00 - 2:30 |  Free | Software Carpentry with Python | Graduate Digital Research Fellows talks | Free | Free |
+| 2:00 - 2:30 | Sponsor: SAGE talk | Software Carpentry with Python | Graduate Digital Research Fellows talks | Free | Free |
 | 2:30 - 4:30 |  Open Mic | Software Carpentry with Python | Gale Digital Scholar Lab (Social Sciences) | Species Distribution Modelling with the  Ecocommons | Free |
 
 ### Friday 26 November
@@ -31,7 +30,7 @@
 | :---: | :---: | :---: | :---:| :---: |:---: |
 | 9:00 - 11:00 |  Free | BioCommons | Network Know-How | Software Containers for Neuroscience | Workshop 4 |
 | 11:00 - 11:30 |  Morning tea in the foyer | Free | Free | Free | Free |
-| 11:30 - 12:30 | Key Story: Hugh Possingham | Free | Free | Free  |Free |
-| 12:30 - 1:30 |  Lunch in the foyer | Stalls |Free | Free | Free |
-| 2:00 - 2:30 | N/A |  Peter Binks: Engagement | Graduate Digital Research Fellows talk | Free | 
-| 2:30 - 4:30 |  N/A | Free | Free | Free | Free | Free |
+| 11:30 - 12:30 | Key Story: Hugh Possingham | Free | Free | Free  | Free |
+| 1:30 - 2:00 | Free | Free | Free | Free  | Free |
+| 2:00 - 2:30 | Stalls (Foyer) |  Peter Binks: Engagement | Graduate Digital Research Fellows talk | 
+| 2:30 - 4:30 |  N/A | Hacky Hour | Free | Free | Free | Free |
