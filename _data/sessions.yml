@@ -1,58 +1,58 @@
 - 
-  id: 100
+  id: 300
   title: "Key Story - Nature conservation"
   description: "Moving around from a global, environmental NGO (the Nature Conservancy), to government (Queensland's Chief Scientist) to academia and all the science involved."
   speakers: [0]
   hidden: true
   img: key_icons/speaking.png
 - 
-  id: 102
+  id: 100
   title: "Key Story - Exploring Australian GLAM data"
   description: "More and more institutions in the GLAM sector (Galleries, Libraries, Archives, and Museums) are sharing their collection data online, but what is it, and how do you use it? In this talk, I'll survey the types of data available – including metadata, images, OCRd text, and transcriptions – and explore possible research topics. Using tools and examples from the GLAM Workbench, I’ll show how GLAM data can be harvested, aggregated, analysed, and visualised. What can GLAM data tell us about Australian history, society, and culture?"
   speakers: [1]
   hidden: true
 -
-  id: 103
+  id: 201
   title: "Key Story - Survey Design"
   description: "In this talk, I will cover the dos and don'ts of survey design and how to avoid the pitfalls of poorly designed surveys."
   speakers: [2]
   hidden: true
 -
-  id: 105
+  id: 200
   title: "Key Story - Soils 4 Science"
   description: "Soils 4 Science is a citizen science project based at UQ's IMB that is dedicated to finding new antibiotics needed in the fight against the scourge of drug-resistant infections, better known as superbugs. More than half of all antibiotics available worldwide have been developed from microbes found in soil and nature, and Queensland is one of the most biodiverse environments in the world, spanning beaches, rainforests, wetlands and deserts. This vast, untapped landscape is ripe for the discovery of microbes that could be developed into new antibiotics, anti-fungals and other medicines."
   speakers: [7]
   hidden: true
 -
-  id: 301
+  id: 101
   title: "Registration (in the foyer)"
   service: true
   hidden: true
 - 
-  id: 302
+  id: 102
   title: "Welcome (Auditorium)"
   speakers: [6]
   hidden: true
 - 
-  id: 304
+  id: 106
   title: "Evening Reception"
   service: true
   hidden: true
   speakers: 
 - 
-  id: 307
+  id: 103
   title: "Morning tea (in the foyer)"
   service: true
   hidden: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 308
+  id: 104
   title: "Lunch (in the foyer)"
   service: true
   hidden: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 309                                     
+  id: 105                                     
   title: "Knowledge Bazaar (in the foyer)"
   description: "The Knowledge Bazaar is an open networking session where attendees can find like-minded people."
   complexity: "Beginner" 
