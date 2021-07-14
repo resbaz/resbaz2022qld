@@ -10,7 +10,7 @@
 | 11:00 - 11:30 |  Morning tea in the foyer |  |  |  |  |
 | 11:30 - 12:30 | **Key Story: Associate Professor Tim Sheratt: GLAM data** | Free | Free | Free  |Free |
 | 12:30 - 1:30 |  Lunch in the foyer |  |  |  |  |
-| 1:30 - 2:00 | Sponsor talk: AARNet  | Software Carpentry with Python |  Knowledge Bazaar | Free | Free |
+| 1:30 - 2:00 | Sponsor talk: AARNet  | Software Carpentry with Python |  Knowledge Bazaar | Modelling Qualitative Content Analysis (Aneesha) | Free |
 | 2:00 - 2:30 | Sponsor talk: Gale | Software Carpentry with Python | Gale Digital Scholar Lab (Humanities) | Introduction to Machine Learning for Imaging | Free |
 | 5:30 - 7:30 | Social event: 90 seconds of research impact rounds |  |  |  |  |
 
@@ -24,7 +24,7 @@
 | 12:30 - 1:30 |  Lunch in the foyer |  |  |  |  |
 | 1:30 - 2:00 |  **Dr Sama Low-Choy: Survey design dos and don'ts** | Software Carpentry with Python | Top tip talks | Graduate Digital Research Fellows talks | Free |
 | 2:00 - 2:30 | Sponsor talk: SAGE | Software Carpentry with Python | Graduate Digital Research Fellows talks | Free | Free |
-| 2:30 - 4:30 |  Open Mic | Software Carpentry with Python | Gale Digital Scholar Lab (Social Sciences) | Species Distribution Modelling with the  Ecocommons | Free |
+| 2:30 - 4:30 |  Open Mic | Software Carpentry with Python | Gale Digital Scholar Lab (Social Sciences) | Species Distribution Modelling with the  Ecocommons | Advanced image processing and analysis with FIJI (NC) |
 
 ### Friday 26 November
 
