@@ -6,7 +6,7 @@
 
 | **Time** |  **Auditorium/Foyer** | **Room 1** | **Room 2**| **Room 3** | **Room 4** |
 | :---: | :---: | :---: | :---:| :---: |:---: |
-| 9:00 - 11:00 |  Welcome to Country? | Software Carpentry with Python | Workshop 2 | Workshop 3  | Workshop 4 |
+| 9:00 - 11:00 |  Welcome to Country? | Software Carpentry with Python | Collecting data from the web (Sam) | Workshop 3  | Workshop 4 |
 | 11:00 - 11:30 |  Morning tea in the foyer |  |  |  |  |
 | 11:30 - 12:30 | **Key Story: Associate Professor Tim Sheratt: GLAM data** | Free | Free | Free  |Free |
 | 12:30 - 1:30 |  Lunch in the foyer |  |  |  |  |
