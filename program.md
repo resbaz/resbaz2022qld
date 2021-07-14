@@ -9,14 +9,14 @@
 | 11:30 - 12:30 | **Key Story: Tim Sheratt: GLAM data** | Free | Free | Free  |Free |
 | 12:30 - 1:30 |  Lunch in the foyer | Free | Free | Free | Free |
 | 1:30 - 2:00 | Sponsor: AARNet talk | Software Carpentry with Python |  Knowledge Bazaar | Free | Free |
-| 2:00 - 2:30 | Sponsor: Gale talk | Software Carpentry with Python | Gale Digital Scholar Lab (Humanities) | Free | Free |
+| 2:00 - 2:30 | Sponsor: Gale talk | Software Carpentry with Python | Gale Digital Scholar Lab (Humanities) | Introduction to Machine Learning for Imaging | Free |
 | 5:30 - 7:30 | Social event: 90 seconds of research impact rounds |  Free | Free | Free | Free |
 
 ### Thursday 25 November
 
 | **Time** |  **Auditorium/Foyer** | **Room 1** | **Room 2**| **Room 3** | **Room 4** |
 | :---: | :---: | :---: | :---:| :---: |:---: |
-| 9:00 - 11:00 |  Free | Software Carpentry with Python | Galaxy Workshop | SAGE Research methods | Introduction to Machine Learning for Imaging |
+| 9:00 - 11:00 |  Free | Software Carpentry with Python | Galaxy Workshop | SAGE Research methods | **Introduction to Jupyter Notebooks** |
 | 11:00 - 11:30 |  Morning tea in the foyer | Free | Free | Free | Free |
 | 11:30 - 12:30 | **Key Story: Soils for Science** | Free | Free | Free  |Free |
 | 12:30 - 1:30 |  Lunch in the foyer | Free | Free | Free | Free |
@@ -28,7 +28,7 @@
 
 | **Time** |  **Auditorium/Foyer** | **Room 1** | **Room 2**| **Room 3** | **Room 4** |
 | :---: | :---: | :---: | :---:| :---: |:---: |
-| 9:00 - 11:00 |  Free | BioCommons | Network Know-How | Software Containers for Neuroscience | Workshop 4 |
+| 9:00 - 11:00 |  Free | BioCommons | **Network Know-How** | Software Containers for Neuroscience | Workshop 4 |
 | 11:00 - 11:30 |  Morning tea in the foyer | Free | Free | Free | Free |
 | 11:30 - 12:30 | **Key Story: Hugh Possingham** | Free | Free | Free  | Free |
 | 1:30 - 2:00 | Free | Free | Free | Free  | Free |
