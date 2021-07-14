@@ -6,9 +6,9 @@
 
 | **Time** |  **Auditorium/Foyer** | **Room 1** | **Room 2**| **Room 3** | **Room 4** |
 | --- | :---: | :---: | :---:| :---: |:---: |
-| 9:00 - 11:00 |  Welcome to Country? | Software Carpentry with Python | Collecting data from the web (Sam) | Workshop 3  | Workshop 4 |
+| 9:00 - 11:00 |  Welcome to Country? | Software Carpentry with Python | Collecting data from the web (Sam) | Intro to HPC  | Workshop 4 |
 | 11:00 - 11:30 |  Morning tea in the foyer |  |  |  |  |
-| 11:30 - 12:30 | **Key Story: Associate Professor Tim Sheratt: GLAM data** | Free | Free | Free  |Free |
+| 11:30 - 12:30 | **Key Story: Associate Professor Tim Sheratt: GLAM data** | |  |  |  |
 | 12:30 - 1:30 |  Lunch in the foyer |  |  |  |  |
 | 1:30 - 2:00 | Sponsor talk: AARNet  | Software Carpentry with Python |  Knowledge Bazaar | Modelling Qualitative Content Analysis (Aneesha) | EcoCommons history, and what is coming |
 | 2:00 - 2:30 | Sponsor talk: Gale | Software Carpentry with Python | Free | Free | Free |
