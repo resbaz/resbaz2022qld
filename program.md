@@ -10,9 +10,9 @@
 | 11:00 - 11:30 |  Morning tea in the foyer |  |  |  |  |
 | 11:30 - 12:30 | **Key Story: Associate Professor Tim Sheratt: GLAM data** | |  |  |  |
 | 12:30 - 1:30 |  Lunch in the foyer |  |  |  |  |
-| 1:30 - 2:00 | Sponsor talk: AARNet  | Software Carpentry with Python |  Knowledge Bazaar | Modelling Qualitative Content Analysis (Aneesha Bakharia) | EcoCommons history, and what is coming |
-| 2:00 - 2:30 | Sponsor talk: Gale | Software Carpentry with Python | Free | Free | Free |
-| 2:30 - 4:30 | | Software Carpentry with Python | Gale Digital Scholar Lab (Humanities) | Introduction to Machine Learning for Imaging (Dr Nick) | Free |
+| 1:30 - 2:00 | Sponsor talk: AARNet  | Software Carpentry with Python |  Knowledge Bazaar | **Introduction to Machine Learning for Imaging** (Dr Nick)  | EcoCommons history, and what is coming |
+| 2:00 - 2:30 | Sponsor talk: Gale | Software Carpentry with Python | Free | **Introduction to Machine Learning for Imaging** (cont'd)  | Modelling Qualitative Content Analysis (Aneesha Bakharia) |
+| 2:30 - 4:30 | | Software Carpentry with Python | Gale Digital Scholar Lab (Humanities) | **Introduction to Machine Learning for Imaging** (cont'd) | Free |
 | 5:30 - 7:30 | Social event: 90 seconds of research impact rounds |  |  |  |  |
 
 ### Thursday 25 November
