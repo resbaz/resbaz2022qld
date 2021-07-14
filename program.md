@@ -21,7 +21,7 @@
 | --- | :---: | :---: | :---:| :---: |:---: |
 | 9:00 - 11:00 |  Free | Software Carpentry with Python | Galaxy Workshop (Gareth Price) | SAGE Research methods | **Introduction to Jupyter Notebooks** (Dr Sara King) |
 | 11:00 - 11:30 |  Morning tea in the foyer |  |  |  |  |
-| 11:30 - 12:30 | **Key Story: Soils for Science** Dr Rob Capon? | Free | Free | Free  |Free |
+| 11:30 - 12:30 | **Key Story: Soils for Science** Dr Rob Capon? | Galaxy workshop (cont'd) | Free | Free  |Free |
 | 12:30 - 1:30 |  Lunch in the foyer |  |  |  |  |
 | 1:30 - 2:00 |  **Dr Sama Low-Choy: Survey design dos and don'ts** | Software Carpentry with Python | Top tip talks | Graduate Digital Research Fellows talks | Free |
 | 2:00 - 2:30 | Sponsor talk: SAGE | Software Carpentry with Python | Graduate Digital Research Fellows talks | Free | Free |
