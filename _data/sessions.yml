@@ -58,9 +58,9 @@
   complexity: "Beginner" 
 -
   id: 310
-  title: "Software Containers for Reproducible (neuro) Science"
+  title: "Software Containers for Reproducible (Neuro) Science"
   subtype: workshop
-  description: "This course will introduce software containers for reproducible data analysis. We will first introduce what containers are (you might have heard of Docker or Singularity already?). Then we will show examples from the neuroimaging domain how such containers can be built and used on different operating systems and high-performance computing environments. We will close with showing our open-source project `neurodesk` which combines all these technologies in a user-friendly way and makes reproducible neuroimaging accessible for a wide audience."
+  description: "This course will introduce software containers for reproducible data analysis. We will first introduce what containers are (you might have heard of Docker or Singularity already?). Then we will show examples from the neuroimaging domain how such containers can be built and used on different operating systems and high-performance computing environments. We will close with showing our open-source project `neurodesk` which combines all these technologies in a user-friendly way and makes reproducible neuroimaging accessible for a wide audience. Some command line and linux experience is of advantage, but we will cover everything that's needed.Bring a laptop with Docker installed."
   service: true
   hidden: true
   complexity: "Beginner" 
