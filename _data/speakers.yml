@@ -52,17 +52,17 @@
   ribbon:
     - {abbr: "IMB", title: "UQ Institute of Molecular Bioscien", url: "https://imb.uq.edu.au/soilsforscience/"}
 -
-#   id: 5
-#   name: "Bianca"
-#   surname: "Haux"
-#   company: "Centre for eResearch"
-#   title: "eResearch Solutions Specialist"
-#   bio: Biance hails from the Centre for eResearch, enabling cutting-edge research across the University as a Visualisation Specialist."
-#   thumbnailUrl: "bianca_haux_key.jpeg"
-#   rockstar: true 
-#   ribbon:
-#    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-# -
+  id: 5
+  name: "Dr Steffen"
+  surname: "Bollmann"
+  company: "Centre for Advanced Imaging, UQ"
+  title: "Affiliate Research Fellow, CAI"
+  bio: Steffen is a Research Fellow in the School of Information Technology and Electrical Engineering at The University of Queensland, and an Affiliate Research Fellow at UQ's Centre for Advanced Imaging."
+  thumbnailUrl: "steffen-bollmann.jpg"
+  rockstar: true 
+  ribbon:
+    - {abbr: "CAI", title: "ITEE", url: "https://cai.centre.uq.edu.au/profile/115/steffen-bollmann"}
+-
 #   id: 6
 #   name: "Lisa"
 #   surname: "Uperesa"
