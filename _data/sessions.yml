@@ -150,9 +150,9 @@
   description: "This workshop will cover topics such as jargon busting, network literacy and data movement solutions. The workshop will also provide a peek at some collaborative research tools such as Jupyter Notebooks and CloudStor. You will learn about networks, integrated tools, data and storage and where all these things fit in the researcher’s toolkit."
   speakers: [3]
   hidden: true
-  -
+-
   id: 015
   title: "Getting started with HPC"
-  description: "This session will introduce attendees to the uses of HOC and answer entry level questions."
+  description: "This session will introduce attendees to the uses of HPC and answer entry level questions."
   hidden: true
   complexity: "Beginner" 
