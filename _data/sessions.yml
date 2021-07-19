@@ -104,6 +104,13 @@
   complexity: "Intermediate" 
   speakers: [6]
 -
+  id: 007
+  title: "Collecting Data from the Web"
+  description: "A short hands on training workshop by Sam Hames."
+  subtype: workshop
+  complexity: "Beginner" 
+  speakers: [6]
+-
   id: 008
   title: "Graduate Digital Research Fellows"
   description: "Participants in this UQ-run program will talk about how the program has enhanced their research skills."
@@ -143,3 +150,9 @@
   description: "This workshop will cover topics such as jargon busting, network literacy and data movement solutions. The workshop will also provide a peek at some collaborative research tools such as Jupyter Notebooks and CloudStor. You will learn about networks, integrated tools, data and storage and where all these things fit in the researcher’s toolkit."
   speakers: [3]
   hidden: true
+  -
+  id: 015
+  title: "Getting started with HPC"
+  description: "This session will introduce attendees to the uses of HOC and answer entry level questions."
+  hidden: true
+  complexity: "Beginner" 
