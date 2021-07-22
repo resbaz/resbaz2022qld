@@ -75,14 +75,14 @@
 -
   id: 7
   name: "Dr Aneesha"
-   surname: "Bakharia"
-   title: "Learning Analytics Manager, Institute for Teaching and Learning Innovation"
-   bio: "Aneesha began her career as an electronics engineer but quickly transitioned to an educational software developer. Aneesha has worked in the higher education and vocational educational sectors in a variety of technical, innovation and project management roles. In her most recent role before commencing at UQ, Aneesha was a project manager for a large OLT Teaching and Learning grant on Learning Analytics at QUT."
-   thumbnailUrl: "aneesha-bakharia.jpg"
-   rockstar: true
-   ribbon:
-     - {abbr: "ITaLI", title: "Learning Analytics Manager", url: "https://itali.uq.edu.au/profile/554/aneesha-bakharia"}
- -
+  surname: "Bakharia"
+  title: "Learning Analytics Manager, Institute for Teaching and Learning Innovation"
+  bio: "Aneesha began her career as an electronics engineer but quickly transitioned to an educational software developer. Aneesha has worked in the higher education and vocational educational sectors in a variety of technical, innovation and project management roles. In her most recent role before commencing at UQ, Aneesha was a project manager for a large OLT Teaching and Learning grant on Learning Analytics at QUT."
+  thumbnailUrl: "aneesha-bakharia.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "ITaLI", title: "Learning Analytics Manager", url: "https://itali.uq.edu.au/profile/554/aneesha-bakharia"}
+-
 #   id: 8
 #   name: "Daniel"
 #   surname: "Hikuroa"
