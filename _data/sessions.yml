@@ -130,8 +130,8 @@
   complexity: "Beginner" 
 -
   id: 012
-  title: " "
-  description: ""
+  title: "Free"
+  description: "Free time to network"
   subtype: workshop
 -
   id: 013
@@ -158,3 +158,10 @@
   complexity: "Beginner" 
   speakers: [8]
 -  
+  id: 017
+  title: "Advanced image processing and analysis with FIJI"
+  description: "Presented by Nick Condon and Deborah Barkauskas"
+  hidden: true
+  complexity: "Intermediate" 
+-
+
