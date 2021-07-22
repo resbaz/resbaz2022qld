@@ -31,7 +31,7 @@
 - 
   id: 102
   title: "Welcome (Auditorium)"
-  speakers: [6]
+  speakers: [9]
   hidden: true
 - 
   id: 106
@@ -82,19 +82,17 @@
   title: "Gale Digital Scholar Lab - Humanities"
   description: "How to use the Scholar Lab workbench for digital humanities research."
   subtype: workshop
-  speakers: [5]
   complexity: "TBC" 
 -
   id: 004
   title: "Create an Open CV"
   description: "How to use GitHub Pages to create a version controlled, open CV"
-  speakers: [5]
+  speakers: [9]
 -
   id: 005
   title: "Gale Digital Scholar Lab - Social Sciences"
   description: "How to use the Scholar Lab workbench for digital humanities research."
   subtype: workshop
-  speakers: [5]
   complexity: "TBC" 
 -
   id: 006
@@ -102,25 +100,23 @@
   description: "A short hands on training workshop introducing machine learning for imaging. In the first part of the workshop a brief introduction to the ideas of machine learning as they apply to image classification and segmentation is given. In the second part, the Trainable WEKA framework available in ImageJ/Fiji is introduced, and the participants are led through a series of hands on exercises on creating and applying classifiers for segmentation."
   subtype: workshop
   complexity: "Intermediate" 
-  speakers: [6]
+  speakers: [7]
 -
   id: 007
   title: "Collecting Data from the Web"
   description: "A short hands on training workshop by Sam Hames."
   subtype: workshop
   complexity: "Beginner" 
-  speakers: [6]
+  speakers: [9]
 -
   id: 008
   title: "Graduate Digital Research Fellows"
   description: "Participants in this UQ-run program will talk about how the program has enhanced their research skills."
-  speakers: [6]
   complexity: "Beginner" 
 -
   id: 009
   title: "Galaxy workshop "
   description: "Galaxy Australia is the Bring Your Own Data analytical service for Australian life science researchers. It is a web portal to nationally distributed computer resources for the running of over 1,000 of the latest and best practice tools. It comes loaded with the most commonly accessed reference data to speed up your analyses. This workshop will introduce Galaxy and through two hands-on tutorials showcase how to use the service to rapidly and reproducibly analyse your data. BYO lLaptop, Chrome browser and web access."
-  speakers: [12]
   complexity: "Beginner" 
 -
   id: 010
@@ -131,14 +127,12 @@
   id: 011
   title: "What is the Ecocommons?"
   description: "Introduction to the ecocommons platform and its uses in eco research."
-  speakers: [21]
   complexity: "Beginner" 
 -
   id: 012
-  title: "Introduction to Machine Learning for Imaging "
-  description: "Run by Nicholas Hamilton (Dr Nick)."
+  title: " "
+  description: ""
   subtype: workshop
-  speakers: [10]
 -
   id: 013
   title: "Research Profiles: working hard or hard work?"
@@ -162,4 +156,5 @@
   description: "Talk by Dr Aneesha Bakharia."
   hidden: true
   complexity: "Beginner" 
+  speakers: [8]
 -  
