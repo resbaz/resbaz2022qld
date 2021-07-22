@@ -100,7 +100,7 @@
   description: "A short hands on training workshop introducing machine learning for imaging. In the first part of the workshop a brief introduction to the ideas of machine learning as they apply to image classification and segmentation is given. In the second part, the Trainable WEKA framework available in ImageJ/Fiji is introduced, and the participants are led through a series of hands on exercises on creating and applying classifiers for segmentation."
   subtype: workshop
   complexity: "Intermediate" 
-  speakers: [7]
+  speakers: [6]
 -
   id: 007
   title: "Collecting Data from the Web"
@@ -156,7 +156,7 @@
   description: "Talk by Dr Aneesha Bakharia."
   hidden: true
   complexity: "Beginner" 
-  speakers: [8]
+  speakers: [7]
 -  
   id: 017
   title: "Advanced image processing and analysis with FIJI"
