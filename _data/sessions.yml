@@ -156,3 +156,10 @@
   description: "This session will introduce attendees to the uses of HPC and answer entry level questions."
   hidden: true
   complexity: "Beginner" 
+-
+  id: 016
+  title: "Topic Modeling for Qualitative Content Analysis"
+  description: "Talk by Dr Aneesha Bakharia."
+  hidden: true
+  complexity: "Beginner" 
+-  
