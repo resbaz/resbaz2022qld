@@ -130,15 +130,15 @@
     - {
       startTime: "13:00",
       endTime: "13:30",
-      sessionIds: [106, 024]
+      sessionIds: [025, 024]
     }
     - {
       startTime: "13:30",
       endTime: "14:30",
-      sessionIds: [106]
+      sessionIds: [019]
     }
     - {
       startTime: "14:30",
       endTime: "16:00",
-      sessionIds: [012, 023, 019]
+      sessionIds: [019, 023, 019]
     }
