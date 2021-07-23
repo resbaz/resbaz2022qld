@@ -91,7 +91,7 @@
     - {
       startTime: "14:30",
       endTime: "16:30",
-      sessionIds: [001, 005, 011, 017]
+      sessionIds: [019, 001, 005, 011, 017]
     }
 - 
   date: "2021-11-26"
@@ -105,7 +105,7 @@
     - {
       startTime: "09:00",
       endTime: "11:00",
-      sessionIds: [012, 012, 014, 310]
+      sessionIds: [012, 018, 014, 310]
     }
     - {
       startTime: "11:00",
@@ -125,12 +125,12 @@
     - {
       startTime: "13:30",
       endTime: "14:00",
-      sessionIds: [105]
+      sessionIds: [105, 022]
     }
     - {
       startTime: "13:00",
       endTime: "13:30",
-      sessionIds: [106]
+      sessionIds: [106, 022]
     }
     - {
       startTime: "13:30",
