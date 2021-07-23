@@ -2,9 +2,9 @@
   date: "2021-11-24"
   dateReadable: "24 November"
   tracks: 
-    - {title: "1", color: "#90be4e"}
+    - {title: "1", color: "#2E8B57"}
     - {title: "2", color: "#e91e63"}
-    - {title: "3", color: "#191970"}
+    - {title: "3", color: "#48D1CC"}
     - {title: "4", color: "#FF00FF"}
     - {title: "5", color: "#FF8C00"}
   timeslots:
@@ -57,9 +57,9 @@
   date: "2021-11-25"
   dateReadable: "25 November"
   tracks: 
-    - {title: "1", color: "#90be4e"}
+    - {title: "1", color: "#2E8B57"}
     - {title: "2", color: "#e91e63"}
-    - {title: "3", color: "#191970"}
+    - {title: "3", color: "#48D1CC"}
     - {title: "4", color: "#FF00FF"}
     - {title: "5", color: "#FF8C00"}
   timeslots:
@@ -97,7 +97,7 @@
   date: "2021-11-26"
   dateReadable: "26 November"
   tracks: 
-    - {title: "1", color: "#90be4e"}
+    - {title: "1", color: "#2E8B57"}
     - {title: "2", color: "#e91e63"}
     - {title: "3", color: "#191970"}
     - {title: "4", color: "#FF00FF"}
