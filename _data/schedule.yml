@@ -4,9 +4,9 @@
   tracks: 
     - {title: "1", color: "#90be4e"}
     - {title: "2", color: "#e91e63"}
-    - {title: "3", color: "#e91e63"}
+    - {title: "3", color: "#191970"}
     - {title: "4", color: "#FF00FF"}
-    - {title: "5", color: "#90be4e"}
+    - {title: "5", color: "#FF8C00"}
   timeslots:
     - {
       startTime: "08:00",
@@ -59,9 +59,9 @@
   tracks: 
     - {title: "1", color: "#90be4e"}
     - {title: "2", color: "#e91e63"}
-    - {title: "2", color: "#e91e63"}
+    - {title: "3", color: "#191970"}
     - {title: "4", color: "#FF00FF"}
-    - {title: "5", color: "#90be4e"}
+    - {title: "5", color: "#FF8C00"}
   timeslots:
     - {
       startTime: "09:00",
@@ -99,7 +99,7 @@
   tracks: 
     - {title: "1", color: "#90be4e"}
     - {title: "2", color: "#e91e63"}
-    - {title: "3", color: "#e91e63"}
+    - {title: "3", color: "#191970"}
     - {title: "4", color: "#FF00FF"}
   timeslots:
     - {
