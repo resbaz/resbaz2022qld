@@ -83,22 +83,22 @@
   ribbon:
     - {abbr: "ITaLI", title: "Learning Analytics Manager", url: "https://itali.uq.edu.au/profile/554/aneesha-bakharia"}
 -
-#   id: 8
-#   name: "Daniel"
-#   surname: "Hikuroa"
-#   title: "Senior Lecturer"
-#   bio: "Dr Daniel Hikuroa is Co-Deputy Director Public Engagement, Te Pūnaha Matatini, and a Prinicipal Investigator within Ngā Pae o te Māramatanga and Te Pūnaha Matatini"
-#   thumbnailUrl: "to_be_announced1.png"
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "TPM", title: "Te Pūnaha Matatini", url: "https://www.tepunahamatatini.ac.nz"}
-# -
-#   id: 9
-#   name: "Stephen"
-#   surname: "Whiteside"
-#   title: "Chief Digital Officer"
-#   thumbnailUrl: "to_be_announced1.png"
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "UoA", title: "University of Auckland", url: "https://www.auckland.ac.nz/en.html"}
-# -
+  id: 8
+  name: "Amanda"
+  surname: "Miotto"
+  title: "eResearch Analyst"
+  bio: "Amanda Miotto is an eResearch Analyst, within eResearch and Specialised Advisory, Research, Specialised and Data Foundations, Griffith University."
+  thumbnailUrl: "manda.jpg"
+  rockstar: true
+  ribbon:
+     - {abbr: "Griffith", title: "eResearch Analyst", url: "https://www.griffith.edu.au"}
+-
+  id: 9
+  name: "Dr Peter"
+  surname: "Binks"
+  title: "VP, Industry and External Engagement"
+  thumbnailUrl: "peter-binks.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Griffith", title: "VPIEE", url: "https://www.griffith.edu.au"}
+-
