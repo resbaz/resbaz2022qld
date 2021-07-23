@@ -102,3 +102,12 @@
   ribbon:
     - {abbr: "Griffith", title: "VPIEE", url: "https://www.griffith.edu.au"}
 -
+  id: 10
+  name: "Professor Joe"
+  surname: "Shapter"
+  title: "Pro-Vice-Chancellor (Research Infrastructure)"
+  thumbnailUrl: "joe-shapter.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "AIBN", title: "AIBN", url: "https://aibn.uq.edu.au/profile/5107/joe-shapter"}
+-
