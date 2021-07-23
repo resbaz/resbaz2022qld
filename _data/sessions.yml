@@ -125,7 +125,7 @@
   complexity: "Beginner" 
 -
   id: 011
-  title: "What is the Ecocommons?"
+  title: "The Ecocommons: its history, and what is coming"
   description: "Introduction to the ecocommons platform and its uses in eco research."
   complexity: "Beginner" 
 -
@@ -152,7 +152,7 @@
   complexity: "Beginner" 
 -
   id: 016
-  title: "Topic Modeling for Qualitative Content Analysis"
+  title: "Topic Modelling for Qualitative Content Analysis"
   description: "Talk by Dr Aneesha Bakharia."
   hidden: true
   complexity: "Beginner" 
@@ -164,4 +164,46 @@
   hidden: true
   complexity: "Intermediate" 
 -
-
+  id: 018
+  title: "What is the BioCommons?"
+  description: "Introductory talk on the BioCommons and how you can use it"
+  hidden: true
+  complexity: "Beginner" 
+-
+  id: 019
+  title: "Open Mic"
+  description: "Free space for attendees to speak or teach"
+  hidden: true
+  complexity: "Beginner" 
+-
+  id: 020
+  title: "Welcome to Country"
+  description: "First Peoples' welcome"
+  hidden: true
+  complexity: "Beginner" 
+-
+  id: 021
+  title: "SAGE Research Methods"
+  description: "Introduction to this useful database."
+  hidden: true
+  subtype: workshop
+  complexity: "Beginner" 
+-
+  id: 022
+  title: "Introduction to Species Distributions Modelling"
+  description: "Introduction to the EcCommons for SDM."
+  hidden: true
+  subtype: workshop
+  complexity: "Beginner" 
+-
+  id: 023
+  title: "Hacky Hour"
+  description: "BYO problem or question and be helped by peers."
+  hidden: true
+  complexity: "Beginner" 
+-
+  id: 024
+  title: "Stalls in the foyer"
+  description: "A mixture of sponsor and other stallls."
+  hidden: true
+-
