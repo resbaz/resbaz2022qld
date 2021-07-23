@@ -69,7 +69,7 @@
   title: "Software Carpentry with Python"
   description: "The workshop will cover task automation in the Unix shell, version control with Git and introduce programming in Python."
   subtype: workshop
-  speakers: [14]
+  speakers: [8]
   complexity: "Beginner"
 -
   id: 002
@@ -87,7 +87,7 @@
   id: 004
   title: "Create an Open CV"
   description: "How to use GitHub Pages to create a version controlled, open CV"
-  speakers: [9]
+  speakers: [8]
 -
   id: 005
   title: "Gale Digital Scholar Lab - Social Sciences"
@@ -204,6 +204,11 @@
 -
   id: 024
   title: "Stalls in the foyer"
-  description: "A mixture of sponsor and other stallls."
+  description: "A mixture of sponsor and other stalls."
+  hidden: true
+-
+  id: 025
+  title: "Key Story - Dr Peter Binks: Engagement"
+  speakers: [9]
   hidden: true
 -
