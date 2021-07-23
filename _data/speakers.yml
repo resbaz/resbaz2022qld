@@ -111,3 +111,12 @@
   ribbon:
     - {abbr: "AIBN", title: "AIBN", url: "https://aibn.uq.edu.au/profile/5107/joe-shapter"}
 -
+  id: 11
+  name: "Sam"
+  surname: "Hames"
+  title: "Data Scientist"
+  thumbnailUrl: "sam-hames.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "QUT", title: "QUT", url: "https://qut.edu.au"}
+-
