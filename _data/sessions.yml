@@ -107,7 +107,7 @@
   description: "A short hands on training workshop by Sam Hames."
   subtype: workshop
   complexity: "Beginner" 
-  speakers: [9]
+  speakers: [11]
 -
   id: 008
   title: "Graduate Digital Research Fellows"
