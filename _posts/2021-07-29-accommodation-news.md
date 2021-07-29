@@ -8,6 +8,8 @@ image: balloons.jpg
 
 ### Accommodation options for ResBazQld
 
-We have negotiated a deal with St Leo's College at UQ to provide overnight stays for $90 per person. This includes breakfast and dinner. 
+We have negotiated a deal with St Leo's College at UQ to provide overnight stays for $90 per person. This would be a room with a shared bathroom. includes breakfast and dinner. 
 
-Let us know if you are interested.
+St Leo's is approximately five minutes' walk from the ResBazQLd UQ venue. 
+
+We will shortly be posting a link to a form to express interest.
