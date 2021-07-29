@@ -8,6 +8,6 @@ image: balloons.jpg
 
 ### Stay on top of our news
 
-We are pushing out news and updates about ResBaz Qld via our Twitter feed [@ResBazQld](https://twitter.com/ResBazQld). 
+We are pushing out news and updates about ResBaz Qld via our Twitter feed [@ResBazQld](https://twitter.com/ResBazQld). Follow us there, or on this blog for the latest.
 
-You can still tell us what you want to see at do at ResBazQld via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform).
+There is still time to tell us what you want to see and do at ResBazQld via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform).
