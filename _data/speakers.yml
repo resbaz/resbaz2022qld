@@ -120,3 +120,12 @@
   ribbon:
     - {abbr: "QUT", title: "QUT", url: "https://qut.edu.au"}
 -
+  id: 12
+  name: "Dr Paula Andrea"
+  surname: "Martinez"
+  title: "Software Project Coordinator, ARDC"
+  thumbnailUrl: "Pau-Jacaranda.png"
+  rockstar: true
+  ribbon:
+    - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
