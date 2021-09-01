@@ -124,6 +124,7 @@
   name: "Dr Paula Andrea"
   surname: "Martinez"
   title: "Software Project Coordinator, ARDC"
+  bio: "Dr Paula Andrea Martinez is currently the Software Project Coordinator at the Australian Research Data Commons (ARDC). Her work supports recognition of research software and research software authors as enablers of better research. She is also an advocate of Open Science and diversity and active in various community projects such as the FAIR4RS, The Carpentries, ROpenSci and R-Ladies. She is also working with the Research Software Alliance (ReSA) as part time Community Manager."
   thumbnailUrl: "Pau-Jacaranda.png"
   rockstar: true
   ribbon:
