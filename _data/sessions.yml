@@ -214,24 +214,60 @@
   id: 026
   title: "What is the CVL?  An introduction to the Characterisation Virtual Laboratory (CVL) for processing large imaging and characterisation data sets using GPU processing on HPC"
   description: "The rate, quantity and quality of imaging science data acquisition is increasing exponentially.  Researchers need defined, reliable and rapid pathways that they can use to process these data.  The ACCS (Australian Characterisation Commons at Scale) Project offers solutions to this critical need.  The flagship capability of the ACCS Project is the CVL (Characterisation Virtual Laboratory) (www.cvl.org.au).  The CVL offers a unique virtual space where researchers can access HPC capabilities and analyse their datasets using graphical interfaces for dozens of specialist LINUX packages.  CVL is available to all Australian researchers working in imaging and characterisation sciences using their AAF login.  Via the Strudel2 deployment over a web interface, researchers can access multiple deployments of CVL across Australia, depending on their specific tool needs and/or institutional affiliation.  The CVL enables researchers to easily access HPC setups from their own PCs over the internet for processing large volumes of imaging data on remote systems.  With 3 preset virtual desktop configurations, researchers can opt for basic, intermediate or heavy compute setups, enabling rapid analysis of terabyte-sized datasets.  CVL comes preinstalled with dozens of imaging tools, and through the ACCS, has a team ready to install new packages in response to the changing needs of the community.  The ACCS project aims to show researchers how they acquire data, move it into the CVL, and then export it back to their collections, completing a fully integrated workflow.  In this way, CVL and ACCS bring data full circle from acquisition to final FAIR deposition."
-  speakers: [13]
+  speakers: [14]
   hidden: true
 -
   id: 027
   title: "Setting up an account to access CVL"
   description: "In this presentation, I will provide explicit instructions on how to decide which node of CVL is right for you, and then how to access the CVL and set up your account.  This will be a hands-on session and I will be stepping you through the pathway to establish your account and integrate your data collection.  Accounts to CVL are provisioned manually, so there will be some lag-time between applying for an account and being able to use the CVL.  I will run a follow-up session to show you how to work within the CVL environment."
-  speakers: [13]
+  speakers: [14]
   hidden: true
 -
   id: 028
   title: "Data transfer methods for CVL"
   description: "In this follow-up session, CVL account holders can work through the steps to move data in and out of the analysis environment.  I will show you how images acquired from instruments can be ingested directly into collections with newly emerging workflows (like Pitschi).  Your data collections will then available within the CVL, ready for analysis.  For those not yet connected with Pitschi, tools like FileZilla for sFTP or Globus can be used to transfer data collections.  We will work through how analysed and annotated data can be exported back to collections, ready for repository storage."
-  speakers: [13]
+  speakers: [14]
   hidden: true
 -
   id: 029
   title: "Research software visible, citable and sustained - ARDC Software Program"
   description: "Across science disciplines, software code is being written by scientists and deemed critical to research conclusions. This is evidenced by an increasing number of papers reporting the use of customised software code to process and analyse data. Although data and code sharing policy exists, publishing the details of bespoke software is not yet a general practice. Accessibility mechanisms for provision of the source code as part of a publication or pre-print are technically a solved problem. For example, we have free access to version control systems, persistent identifiers, archiving tools, licenses and dedicated software repositories. Policy at various levels either recommend or mandate software availability statements. These policies exist in support of validating techniques and results, computational replicability and reproducibility, and the increased likelihood for research peers to use and build on methods. The ARDC is proposing a strategy for culture change, with the greater aim of improving recognition of research software as a first-class research output. To attain this goal we need to coordinate activities with research software authors to See, Shape and Sustain research software. Our target audience are PhDs and EMCRs investing the most of their time writing, testing and maintaining research software. We aim to increase the visibility of research software projects for broadest use and reuse. Boost incentives such as crediting authors for their research efforts and for supporting computational reproducibility. We envision the impact of these activities will encourage more researchers to improve the quality of their code and promote research excellence."
+  speakers: [11]
+  hidden: true
+-
+  id: 030
+  title: "Gold Coast registration in G11 3.56"
+  description: "For Gold Coast one-day event attendees only."
+  hidden: true
+-
+  id: 031
+  title: "Gold Coast Welcome and icebreaker session in G11 3.56"
+  description: "For Gold Coast one-day event attendees only."
+  hidden: true
+-
+  id: 032
+  title: "Text Mining and Analysis in G11 3.56"
+  description: "Workshop"
+  hidden: true
+-
+  id: 033
+  title: "An introduction to digital texts and tools for HASS research G11 4.20"
+  description: "Workshop"
+  hidden: true
+-
+  id: 034
+  title: "Dr Stephanie Chaousis"
+  description: "Key Story by the Partnerships Manager of Datarwe"
   speakers: [12]
+  hidden: true
+-
+  id: 035
+  title: "Introduction to data wrangling with OpenRefine"
+  description: "Hands-on workshop on data cleanup"
+  hidden: true
+-
+  id: 036
+  title: "Data visualisation basics"
+  description: "Hands-on workshop on data visualisation tools and techniques"
   hidden: true
 -
