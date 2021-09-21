@@ -130,3 +130,13 @@
   ribbon:
     - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
 -
+  id: 12
+  name: "Dr Stephanie"
+  surname: "Chaousis"
+  title: "Partnerships Manager, Datarwe"
+  bio: "Dr Chaousis is the Partnerships Manager for Datarwe, a data-driven technology company that provides an acute care medical research data platform as a service."
+  thumbnailUrl: "stephanie-chaousis.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Datarwe", title: "AI", url: "https://datarwe.com/"}
+-
