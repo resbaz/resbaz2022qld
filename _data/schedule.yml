@@ -147,7 +147,7 @@
       endTime: "14:00",
       sessionIds: [105, 024]
     }
-   - {
+    - {
       startTime: "13:30",
       endTime: "14:30",
       sessionIds: [035, 036]
