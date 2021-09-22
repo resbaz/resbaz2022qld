@@ -236,37 +236,38 @@
   hidden: true
 -
   id: 030
-  title: "Gold Coast registration (G11 3.56)"
+  title: "Gold Coast registration - G11 3.56"
   description: "For Gold Coast one-day event attendees only."
   hidden: true
 -
   id: 031
-  title: "Gold Coast Welcome and icebreaker session (G11 3.56)"
+  title: "Gold Coast Welcome and icebreaker session - G11 3.56"
   description: "For Gold Coast one-day event attendees only."
   hidden: true
 -
   id: 032
-  title: "Text Mining and Analysis (G11 3.56)"
+  title: "Text Mining and Analysis - G11 3.56"
   description: "Workshop"
   hidden: true
 -
   id: 033
-  title: "An introduction to digital texts and tools for HASS research (G11 4.29)"
+  title: "An introduction to digital texts and tools for HASS research - G11 4.29"
   description: "Workshop"
   hidden: true
 -
   id: 034
-  title: "Dr Stephanie Chaousis (G11 3.56)"
-  description: "Key Story by the Partnerships Manager of Datarwe"
+  title: "Dr Stephanie Chaousis"
+  description: "Key Story by the Partnerships Manager of Datarwe - G11 3.56"
   speakers: [12]
   hidden: true
 -
   id: 035
-  title: "Introduction to data wrangling with OpenRefine (G11 3.56)"
-  description: "Hands-on workshop on data cleanup"
+  title: "Introduction to data wrangling with OpenRefine - G11 3.56"
+  description: "Hands-on workshop on data cleanup."
   hidden: true
 -
   id: 036
-  title: "Data visualisation basics (G11 4.29)"
+  title: "Data visualisation basics - G11 4.29"
   description: "Hands-on workshop on data visualisation tools and techniques"
   hidden: true
+-
