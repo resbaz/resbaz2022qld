@@ -246,28 +246,28 @@
   hidden: true
 -
   id: 032
-  title: "Text Mining and Analysis - G11 3.56"
+  title: "Gold Coast only: Text Mining and Analysis - G11 3.56"
   description: "Workshop"
   hidden: true
 -
   id: 033
-  title: "An introduction to digital texts and tools for HASS research - G11 4.29"
+  title: "Gold Coast only: An introduction to digital texts and tools for HASS research - G11 4.29"
   description: "Workshop"
   hidden: true
 -
   id: 034
-  title: "Key Story - Dr Stephanie Chaousis"
+  title: "Gold Coast Key Story - Dr Stephanie Chaousis"
   description: "Dr Chaousis is the Partnerships Manager of Datarwe - G11 3.56"
-  speakers: [12]
+  speakers: [13]
   hidden: true
 -
   id: 035
-  title: "Introduction to data wrangling with OpenRefine - G11 3.56"
+  title: "Gold Coast only: Introduction to data wrangling with OpenRefine - G11 3.56"
   description: "Hands-on workshop on data cleanup."
   hidden: true
 -
   id: 036
-  title: "Data visualisation basics - G11 4.29"
+  title: "Gold Coast only: Data visualisation basics - G11 4.29"
   description: "Hands-on workshop on data visualisation tools and techniques"
   hidden: true
 -
