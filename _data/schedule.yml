@@ -105,7 +105,56 @@
     }
 - 
   date: "2021-11-26"
-  dateReadable: "26 November"
+  dateReadable: "26 November - Brisbane"
+  tracks: 
+    - {title: "1", color: "#2E8B57"}
+    - {title: "2", color: "#e91e63"}
+    - {title: "3", color: "#191970"}
+    - {title: "4", color: "#FF00FF"}
+  timeslots:
+    - {
+      startTime: "09:00",
+      endTime: "11:00",
+      sessionIds: [028, 018, 014, 310]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "11:30",
+      sessionIds: [103]
+    }
+    - {
+      startTime: "11:30",
+      endTime: "12:30",
+      sessionIds: [300]
+    }
+    - {
+      startTime: "12:30",
+      endTime: "13:30",
+      sessionIds: [104]
+    }
+    - {
+      startTime: "13:30",
+      endTime: "14:00",
+      sessionIds: [105, 024]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "13:30",
+      sessionIds: [025, 024]
+    }
+    - {
+      startTime: "13:30",
+      endTime: "14:30",
+      sessionIds: [019]
+    }
+    - {
+      startTime: "14:30",
+      endTime: "16:00",
+      sessionIds: [019, 023, 019]
+    }
+- 
+  date: "2021-11-26"
+  dateReadable: "26 November - Gold Coast"
   tracks: 
     - {title: "1", color: "#2E8B57"}
     - {title: "2", color: "#e91e63"}
@@ -125,45 +174,15 @@
     - {
       startTime: "09:00",
       endTime: "11:00",
-      sessionIds: [028, 018, 014, 310, 032, 033]
-    }
-    - {
-      startTime: "11:00",
-      endTime: "11:30",
-      sessionIds: [103]
+      sessionIds: [032, 033]
     }
     - {
       startTime: "11:30",
       endTime: "12:30",
-      sessionIds: [300, 034]
-    }
-    - {
-      startTime: "12:30",
-      endTime: "13:30",
-      sessionIds: [104]
-    }
-    - {
-      startTime: "13:30",
-      endTime: "14:00",
-      sessionIds: [105, 024]
+      sessionIds: [034]
     }
     - {
       startTime: "13:30",
       endTime: "14:30",
       sessionIds: [035, 036]
-    }
-    - {
-      startTime: "13:00",
-      endTime: "13:30",
-      sessionIds: [025, 024]
-    }
-    - {
-      startTime: "13:30",
-      endTime: "14:30",
-      sessionIds: [019]
-    }
-    - {
-      startTime: "14:30",
-      endTime: "16:00",
-      sessionIds: [019, 023, 019]
     }
