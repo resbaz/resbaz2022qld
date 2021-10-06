@@ -141,14 +141,14 @@
     - {abbr: "Datarwe", title: "AI", url: "https://datarwe.com/"}
 -
   id: 14
-  name: "Sharron"
-  surname: "Stapleton"
-  title: "Library Research Specialist"
-  bio: "Sharron is the Library Research Specialist for data management and open research at Griffith University Library."
+  name: "Dr Kathryn"
+  surname: "Hall"
+  title: "Training and Community Engagement Manager"
+  bio: "Kathry is the Training and Community Engagement Manager at the National Imaging Facility."
   thumbnailUrl: "sharron.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "LRS", title: "LRS", url: "https://www.griffith.edu.au/library"}
+    - {abbr: "NIF", title: "NIF", url: "https://anif.org.au/"}
 -
   id: 15
   name: "Ben"
@@ -179,14 +179,4 @@
   rockstar: true
   ribbon:
     - {abbr: "LRS", title: "LRS", url: "https://www.griffith.edu.au/library"}
--
-  id: 18
-  name: "Dr Kathryn"
-  surname: "Hall"
-  title: "Training and Community Engagement Manager"
-  bio: "Kathry is the Training and Community Engagement Manager at the National Imaging Facility."
-  thumbnailUrl: "sharron.jpg"
-  rockstar: true
-  ribbon:
-    - {abbr: "NIF", title: "NIF", url: "https://anif.org.au/"}
 -
