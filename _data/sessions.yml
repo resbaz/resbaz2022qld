@@ -176,17 +176,16 @@
   complexity: "Beginner" 
 -
   id: 020
-  title: "Welcome to Country (Auditorium)"
-  description: "First Peoples' welcome"
+  title: "Acknowledgment of Country and welcome (Auditorium)"
+  description: "Welcome to the event"
   hidden: true
   complexity: "Beginner" 
 -
   id: 021
-  title: "SAGE Research Methods"
-  description: "Introduction to this useful database."
+  title: "SAGE Publishing"
+  description: "Sponsor talk."
   hidden: true
-  subtype: workshop
-  complexity: "Beginner" 
+  subtype: talk
 -
   id: 022
   title: "Introduction to Species Distributions Modelling"
@@ -196,8 +195,8 @@
   complexity: "Beginner" 
 -
   id: 023
-  title: "Hacky Hour"
-  description: "BYO problem or question and be helped by peers."
+  title: "Knowledge Bazaar"
+  description: "Meet your peers."
   hidden: true
   complexity: "Beginner" 
 -
@@ -247,12 +246,14 @@
 -
   id: 032
   title: "Gold Coast only: Text Mining and Analysis - G11 3.56"
+  speakers: [15]
   description: "Workshop"
   hidden: true
 -
   id: 033
   title: "Gold Coast only: An introduction to digital texts and tools for HASS research - G11 4.29"
   description: "Workshop"
+  speakers: [15]
   hidden: true
 -
   id: 034
@@ -265,9 +266,11 @@
   title: "Gold Coast only: Introduction to data wrangling with OpenRefine - G11 3.56"
   description: "Hands-on workshop on data cleanup."
   hidden: true
+  speakers: [17]
 -
   id: 036
   title: "Gold Coast only: Data visualisation basics - G11 4.29"
   description: "Hands-on workshop on data visualisation tools and techniques"
   hidden: true
+  speakers: [17]
 -
