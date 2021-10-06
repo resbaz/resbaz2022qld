@@ -170,3 +170,13 @@
   ribbon:
     - {abbr: "DCA", title: "DCA", url: "https://www.griffith.edu.au/library"}
 -
+  id: 17
+  name: "Sharron"
+  surname: "Stapleton"
+  title: "Library Research Specialist"
+  bio: "Sharron is a Library Research Specialist (LRS) in data management and open research at Griffith University Library."
+  thumbnailUrl: "sharron.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "LRS", title: "LRS", url: "https://www.griffith.edu.au/library"}
+-
