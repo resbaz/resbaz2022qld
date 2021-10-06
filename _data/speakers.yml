@@ -180,3 +180,13 @@
   ribbon:
     - {abbr: "LRS", title: "LRS", url: "https://www.griffith.edu.au/library"}
 -
+  id: 18
+  name: "Dr Kathryn"
+  surname: "Hall"
+  title: "Training and Community Engagement Manager"
+  bio: "Kathry is the Training and Community Engagement Manager at the National Imaging Facility."
+  thumbnailUrl: "sharron.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "NIF", title: "NIF", url: "https://anif.org.au/"}
+-
