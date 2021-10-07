@@ -44,10 +44,10 @@
   id: 4
   name: "Dr Zeinab"
   surname: "Khalil"
-  company: "UQ Institute of Molecular Bioscience"
+  company: "Institute for Molecular Bioscience"
   title: "Soils for Science Program Manager"
   bio: "Dr Zeinab Khalil is a Senior Research Fellow at the Institute for Molecular Bioscience at The University of Queensland and is the Program manager for Soils for Science. She completed my PhD in 2013 and to date her research career has identified and evaluated potential new drugs targeting infectious diseases such as TB."
-  thumbnailUrl: "SoilsforScience.png"
+  thumbnailUrl: "zeinab.jpg"
   rockstar: true
   ribbon:
     - {abbr: "IMB", title: "UQ Institute of Molecular Bioscien", url: "https://imb.uq.edu.au/soilsforscience/"}
