@@ -189,7 +189,7 @@
 -
   id: 022
   title: "Introduction to Species Distributions Modelling with the EcoCommons"
-  description: "Introductoty workshop on using the EcoCommons."
+  description: "Introductory workshop on using the EcoCommons for modelling of species distribution."
   hidden: true
   subtype: workshop
   complexity: "Beginner" 
