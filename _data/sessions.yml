@@ -188,8 +188,8 @@
   subtype: talk
 -
   id: 022
-  title: "Introduction to Species Distributions Modelling"
-  description: "Introduction to the EcCommons for SDM."
+  title: "Introduction to Species Distributions Modelling with the EcoCommons"
+  description: "Introductoty workshop on using the EcoCommons."
   hidden: true
   subtype: workshop
   complexity: "Beginner" 
