@@ -180,3 +180,53 @@
   ribbon:
     - {abbr: "LRS", title: "LRS", url: "https://www.griffith.edu.au/library"}
 -
+  id: 19
+  name: "Brett"
+  surname: "Parker"
+  title: "Library Research Specialist"
+  bio: "Brett is a Senior Functional Analyst in eResearch and Specialised Platforms, Research, Specialised and Data Foundations, at Griffith University."
+  thumbnailUrl: "brett.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Griffith", title: "eResearch", url: "https://www.griffith.edu.au/"}
+-
+  id: 20
+  name: "Fin"
+  surname: "Boyce"
+  title: "Discipline Librarian"
+  bio: "Fin is a Discipline Library at Griffith University."
+  thumbnailUrl: "fin-boyce.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Griffith", title: "Griffith Library", url: "https://www.griffith.edu.au/library"}
+-
+  id: 21
+  name: "Julie"
+  surname: "Somers"
+  title: "Digital Capability Adviser"
+  bio: "Julie is a Digital Capability Adviser at Griffith University Library."
+  thumbnailUrl: "julie-somers.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Griffith", title: "Griffith Library", url: "https://www.griffith.edu.au/library"}
+-
+  id: 22
+  name: "Dr Melissa"
+  surname: "Burke"
+  title: "Digital Capability Adviser"
+  bio: "Melissa is the Training and Communications Officer for the Australian BioCommons."
+  thumbnailUrl: "melissa-burke.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Australian BioCommons", title: "Australian BioCommons", url: "https://www.biocommons.org.au"}
+-
+  id: 23
+  name: "Katya"
+  surname: "Henry"
+  title: "University Copyright Officer"
+  bio: "Katya is the University Copyright Officer at QUT."
+  thumbnailUrl: "katya-henry.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "QUT", title: "QUT", url: "https://www.qut.edu.au"}
+-
