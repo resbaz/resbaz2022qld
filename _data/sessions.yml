@@ -246,14 +246,14 @@
 -
   id: 032
   title: "Gold Coast only: Text Mining and Analysis - G11 3.56"
-  speakers: [15]
+  speakers: [15, 19]
   description: "Workshop"
   hidden: true
 -
   id: 033
   title: "Gold Coast only: An introduction to digital texts and tools for HASS research - G11 4.29"
   description: "Workshop"
-  speakers: [15]
+  speakers: [17, 20]
   hidden: true
 -
   id: 034
@@ -272,5 +272,5 @@
   title: "Gold Coast only: Data visualisation basics - G11 4.29"
   description: "Hands-on workshop on data visualisation tools and techniques"
   hidden: true
-  speakers: [17]
+  speakers: [15, 21]
 -
