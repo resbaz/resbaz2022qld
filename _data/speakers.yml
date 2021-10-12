@@ -211,14 +211,13 @@
     - {abbr: "Griffith", title: "Griffith Library", url: "https://www.griffith.edu.au/library"}
 -
   id: 21
-  name: "Julie"
-  surname: "Somers"
-  title: "Digital Capability Adviser"
-  bio: "Julie is a Digital Capability Adviser at Griffith University Library."
-  thumbnailUrl: "julie-somers.jpg"
+  name: "Dr Ginny"
+  surname: "Barbour"
+  title: "Director, Open Access Australasia"
+  thumbnailUrl: "ginny-barbour.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "Griffith", title: "Griffith Library", url: "https://www.griffith.edu.au/library"}
+    - {abbr: "OAA", title: "OAA", url: "https://oaaustralasia.org/"}
 -
   id: 22
   name: "Dr Melissa"
