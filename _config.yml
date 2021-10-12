@@ -47,7 +47,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
- - {link: "https://www.eventbrite.com.au/e/resbaz-queensland-2021-tickets-185377598387", text: "Register"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
