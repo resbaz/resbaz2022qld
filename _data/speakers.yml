@@ -180,6 +180,16 @@
   ribbon:
     - {abbr: "LRS", title: "LRS", url: "https://www.griffith.edu.au/library"}
 -
+  id: 18
+  name: "Belinda"
+  surname: "Weaver"
+  title: "Library Academic Engagement"
+  bio: "Belinda has taught more than 50 Carpentries workshops around the world. She is the Head of Academic Engagement Services (AES) at Griffith University Library."
+  thumbnailUrl: "belinda-weaver.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "AES", title: "AES", url: "https://twitter.com/cloudaus"}
+-
   id: 19
   name: "Brett"
   surname: "Parker"
