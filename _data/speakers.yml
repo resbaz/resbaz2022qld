@@ -205,7 +205,7 @@
   surname: "Boyce"
   title: "Discipline Librarian"
   bio: "Fin is a Discipline Library at Griffith University."
-  thumbnailUrl: "fin-boyce.jpg"
+  thumbnailUrl: "Fin-Boyce.png"
   rockstar: true
   ribbon:
     - {abbr: "Griffith", title: "Griffith Library", url: "https://www.griffith.edu.au/library"}
