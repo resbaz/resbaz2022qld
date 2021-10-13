@@ -275,3 +275,10 @@
   hidden: true
   speakers: [15, 21]
 -
+  id: 037
+  title: "What is the Australian Biocommons?"
+  description: "Dr Mellissa Burke will introduce the Australian Biocommons, whose mission includes actively supporting life science research communities with community scale digital infrastructure developed and maintained in concert with international peer infrastructures. "
+  hidden: true
+  speakers: [24]
+-
+
