@@ -5,7 +5,7 @@
   company: "The University of Queensland"
   title: Queensland Chief Scientist"
   bio: "Professor Hugh Possingham became Queensland Chief Scientist in September 2020. He is a conservation scientist and mathematician who has held positions in the university, public and not-for profit sectors.  He is a Foreign Associate of the US National Academy of Sciences and a Fellow of the Australian Academy of Science. He completed his PhD at Oxford University in 1987 as a Rhodes Scholar and was most recently the Chief Scientist at The Nature Conservancy, a global conservation organisation operating in 79 countries. A winner of two Eureka Prizes, his most significant contribution to conservation was the co-development of Marxan, software first used to rezone the Great Barrier Reef, and now used in almost every country in the world to inform the expansion of their marine and terrestrial protected area systems. Hugh has worked with all levels of government and many not-for-profit organisations, pro bono, to improve the state of Australia’s threatened species and habitats.  He is currently on the board of directors of BirdLife Australia. He has supervised over 200 honours students, doctoral candidates and postdoctoral fellows. He has published >650 peer-reviewed publications, >30 in Nature and Science."
-  thumbnailUrl: "Headshot_HP.jpg"   
+  thumbnailUrl: "hugh-possingham.jpg"   
   rockstar: true
   ribbon:
     - {abbr: "UQ", title: "Chief Scientist", url: "https://www.chiefscientist.qld.gov.au/about/current-chief-scientist"}
