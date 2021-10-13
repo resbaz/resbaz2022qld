@@ -283,7 +283,8 @@
 -
   id: 038
   title: "Introduction to task automation with the Unix shell"
-  description: "Learn how to automate tasks with the Unix Shell - a Software Carpentry session."
+  description: "Learn how to automate tasks with the Unix Shell - a Software Carpentry session. This is hands on training. Attendees will need to bring their own laptops."
+  description: "Workshop"
   hidden: true
   speakers: [18]
 -
