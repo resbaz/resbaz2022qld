@@ -177,6 +177,7 @@
   description: "Opening talk (includes Acknowledgment of Country)"
   hidden: true
   complexity: "Beginner" 
+  speakers: [28]
 -
   id: 021
   title: "SAGE Publishing"
