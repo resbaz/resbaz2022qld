@@ -249,3 +249,13 @@
   ribbon:
     - {abbr: "Nectar", title: "Nectar", url: "https://ardc.edu.au"}
 -
+  id: 25
+  name: "Betsy"
+  surname: "Alpert"
+  title: "Developer/Data Scientist"
+  bio: "Betsy is a developer and data scientist at the Digital Observatory, a research infrastructure facility at QUT supporting researchers by enabling use of dynamic digital data."
+  thumbnailUrl: "betsy-alpert.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Developer", title: "Data Scientist", url: "https://qut.edu.au"}
+-
