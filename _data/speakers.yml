@@ -269,3 +269,13 @@
   ribbon:
     - {abbr: "Senior Health Informatician", title: "QCIF Bioinformatics", url: "https://www.qcif.edu.au"}
 -
+  id: 27
+  name: "Dr Marlies"
+  surname: "Hankel"
+  title: "Senior Developer & Consulting Manager, Research Computing Centre, UQ"
+  bio: "Marlies provides researchers with advice on HPC."
+  thumbnailUrl: "marlies-hankel.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "HPC", title: "RCC", url: "https://www.uq.edu.au"}
+-
