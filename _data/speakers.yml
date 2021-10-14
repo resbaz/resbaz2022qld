@@ -289,3 +289,13 @@
   ribbon:
     - {abbr: "DES", title: "DES", url: "https://www.des.qld.gov.au/"}
 -
+  id: 29
+  name: "Dr Rob"
+  surname: "Clemens"
+  title: "EcoCommons"
+  bio: "Rob is the Change and Communications Manager of the EcoCommons."
+  thumbnailUrl: "rob-clemens.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "EcoCommons", title: "EcoCommons", url: "https://www.ecocommons.org.au/"}
+-
