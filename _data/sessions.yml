@@ -315,11 +315,11 @@
   speakers: [26]
 -
   id: 043
-  title: "An Open Access Adventure"
-  description: "Dr Ginny Barbour presents."
-  description: "Workshop"
+  title: "Open Access - Open Research - Open Science ... and FAIR"
+  description: "The world of 'open' is changing. Bring your questions on all things open, including FAIR, to our panel."
+  description: "Panel discussion"
   complexity: "Beginner" 
-  speakers: [21]
+  speakers: [21, 18]
 -
   id: 044
   title: "Acquire and visualise Open Street Map data with R"
