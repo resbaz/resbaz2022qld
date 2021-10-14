@@ -290,3 +290,11 @@
   description: "Workshop"
   complexity: "Beginner" 
   speakers: [24]
+-
+  id: 040
+  title: "Oh, no, my data has outgrown my spreadsheet!"
+  description: "How to go beyond Excel and work with large tabular data"
+  description: "Workshop"
+  complexity: "Beginner" 
+  speakers: [25]
+-
