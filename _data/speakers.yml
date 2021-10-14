@@ -279,3 +279,13 @@
   ribbon:
     - {abbr: "HPC", title: "RCC", url: "https://www.uq.edu.au"}
 -
+  id: 28
+  name: "Dr Julia"
+  surname: "Playford"
+  title: "Executive Director"
+  bio: "Julia is the Executive Director of Science development at the Queensland Department of Environment and Science."
+  thumbnailUrl: "julia-playford.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "DES", title: "DES", url: "https://www.des.qld.gov.au/"}
+-
