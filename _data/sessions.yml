@@ -120,9 +120,10 @@
   complexity: "Beginner" 
 -
   id: 010
-  title: "Top tips"
-  description: "A range of talks from participants."
+  title: "What is the Nectar cloud?"
+  description: "What is the Nectar cloud, and why would you use it?"
   complexity: "Beginner" 
+  speakers: [24]
 -
   id: 011
   title: "The Ecocommons: its history, and what is coming"
@@ -288,3 +289,16 @@
   hidden: true
   speakers: [18]
 -
+  id: 038
+  title: "Introduction to task automation with the Unix shell"
+  description: "Learn how to automate tasks with the Unix Shell - a Software Carpentry session. This is hands on training. Attendees will need to bring their own laptops."
+  description: "Workshop"
+  hidden: true
+  speakers: [18]
+-
+  id: 039
+  title: "Introduction to the Nectar cloud: a hands-on workshop"
+  description: "BYO laptop to discover how you can use the Nectar cloud to extend your computer's capabilities."
+  description: "Workshop"
+  complexity: "Beginner" 
+  speakers: [24]
