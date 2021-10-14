@@ -191,6 +191,7 @@
   hidden: true
   subtype: workshop
   complexity: "Beginner" 
+  speakers: [29]
 -
   id: 023
   title: "Knowledge Bazaar"
