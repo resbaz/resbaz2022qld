@@ -239,3 +239,13 @@
   ribbon:
     - {abbr: "QUT", title: "QUT", url: "https://www.qut.edu.au"}
 -
+  id: 24
+  name: "Jo"
+  surname: "Morris"
+  title: "User Support Manager, Cloud and Storage, ARDC"
+  bio: "Jo is the Cloud and Storage, User Support Manager for Nectar within ARDC."
+  thumbnailUrl: "jo-morris.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Nectar", title: "Nectar", url: "https://ardc.edu.au"}
+-
