@@ -303,14 +303,14 @@
   description: "Hands on workshop about accessing HPC."
   description: "Workshop"
   complexity: "Beginner" 
-  speakers: [26]
+  speakers: [27]
 -
   id: 042
   title: "Introduction to sensitive data"
   description: "Mark Hoffman presents the key things you need to know."
   description: "Talk"
   complexity: "Beginner" 
-  speakers: [27]
+  speakers: [26]
 -
   id: 043
   title: "An Open Access Adventure"
