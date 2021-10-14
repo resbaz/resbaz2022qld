@@ -298,3 +298,24 @@
   complexity: "Beginner" 
   speakers: [25]
 -
+  id: 041
+  title: "HPC Carpentry"
+  description: "Hands on workshop about accessing HPC."
+  description: "Workshop"
+  complexity: "Beginner" 
+  speakers: [26]
+-
+  id: 042
+  title: "Introduction to sensitive data"
+  description: "Mark Hoffman presents the key things you need to know."
+  description: "Talk"
+  complexity: "Beginner" 
+  speakers: [27]
+-
+  id: 043
+  title: "An Open Access Adventure"
+  description: "Dr Ginny Barbour presents."
+  description: "Workshop"
+  complexity: "Beginner" 
+  speakers: [27]
+-
