@@ -321,3 +321,10 @@
   complexity: "Beginner" 
   speakers: [21]
 -
+  id: 044
+  title: "Acquire and visualise Open Street Map data with R"
+  description: "Stephane Guillou will show you how how to use a variety of R packages to get and visualise Open Street Map data. As an interactive, open-source, high-level programming language designed for data science, R is a great fit for dealing with OpenStreetMap data and introducing beginners to reproducible scientific computing."
+  description: "Workshop"
+  complexity: "Beginner" 
+  speakers: [30]
+-
