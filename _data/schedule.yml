@@ -145,7 +145,7 @@
     - {
       startTime: "14:30",
       endTime: "16:00",
-      sessionIds: [019, 023, 019]
+      sessionIds: [039, 023, 019]
     }
 - 
   date: "2021-11-26"
