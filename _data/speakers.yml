@@ -300,10 +300,10 @@
     - {abbr: "EcoCommons", title: "EcoCommons", url: "https://www.ecocommons.org.au/"}
 -
   id: 30
-  name: "St&eacute;phane"
+  name: "Stéphane"
   surname: "Guillou"
   title: "Technology Trainer"
-  bio: "St&eacute;phane is the Technology Trainer at The University of Queensland Library."
+  bio: "Stéphane is the Technology Trainer at The University of Queensland Library."
   thumbnailUrl: "guillou.jpg"
   rockstar: true
   ribbon:
