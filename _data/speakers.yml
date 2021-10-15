@@ -23,12 +23,12 @@
   id: 2
   name: "Associate Professor Sama"
   surname: "Low-Choy"
-  company: "Arts Education and Law"
-  bio: "Associate Professor Sama Low-Choy is Senior Statistician at Griffith University, and spends her days helping others to address their research questions, by exploiting data, via: a combination of statistical advising, tailoring statistical methods via research, and convening over 70 training events annually on statistical and mixed (qual and quant) methods. She is keen on an inclusive approach to statistical philosophies and paradigms bordering on mixed methods (though her research focuses on Bayesian priors) as well as the conceptualisation phase." 
+  company: "Arts Education and Law, Griffith University"
+  bio: "Associate Professor Sama Low-Choy is Senior Statistician at Griffith University, and spends her days helping others to address their research questions, by exploiting data, via: a combination of statistical advising, tailoring statistical methods via research, and convening over 70 training events annually on statistical and mixed (qual and quant) methods. She is keen on an inclusive approach to statistical philosophies and paradigms bordering on mixed methods, through her research foci on Bayesian priors as well as the conceptualisation phase of statistical modelling."
   thumbnailUrl: "sama-low-choy.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "Statistics", title: "Arts Education and Law", url: "https://www.griffith.edu.au/arts-education-law"}
+    - {abbr: "Statistics", title: "AEL, Griffith University", url: "https://www.griffith.edu.au/arts-education-law"}
 -
   id: 3
   name: "Dr Sara"
