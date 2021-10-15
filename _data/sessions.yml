@@ -116,9 +116,11 @@
   complexity: "Beginner" 
 -
   id: 009
-  title: "Galaxy workshop "
+  title: "Galaxy Australia - an analytical service for Australian Life Scientists"
   description: "Galaxy Australia is the Bring Your Own Data analytical service for Australian life science researchers. It is a web portal to nationally distributed computer resources for the running of over 1,000 of the latest and best practice tools. It comes loaded with the most commonly accessed reference data to speed up your analyses. This workshop will introduce Galaxy and through two hands-on tutorials showcase how to use the service to rapidly and reproducibly analyse your data. BYO lLaptop, Chrome browser and web access."
   complexity: "Beginner" 
+  subtype: workshop
+  speaker: [32]
 -
   id: 010
   title: "What is the Nectar cloud?"
