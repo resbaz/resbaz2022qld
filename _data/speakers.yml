@@ -329,3 +329,13 @@
   ribbon:
     - {abbr: "Galaxy", title: "Galaxy", url: "https://www.qcif.edu.au/"}
 -
+  id: 33
+  name: "Dr Nicholas"
+  surname: "Condon"
+  title: "Senior Microscopist, Institute for Molecular Bioscience, UQ"
+  bio: "Nicholas Condon has recently completed his PhD in Professor Jennifer Stow’s lab at IMB. During his project Nicholas developed a number of novel image analysis techniques to answer research questions about the cell surface of macrophages. He has a strong background in cell biology and a number of advanced microscopy techniques including Lattice lightsheet, deconvolution, LSM confocal and live cell microscopy."
+  thumbnailUrl: "nick-condon.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "IMB, UQ", title: "Microscopist", url: "https://www.uq.edu.au/"}
+-
