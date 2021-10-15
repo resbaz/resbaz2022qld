@@ -36,6 +36,7 @@
 - 
   id: 106
   title: "Evening Reception"
+  description: "This informal drinks and networking session will include our fun competition, 90 Seconds of Research Impact."
   service: true
   hidden: true
   speakers: 
@@ -86,7 +87,7 @@
 -
   id: 004
   title: "Create an Open CV"
-  description: "How to use GitHub Pages to create a version controlled, open CV"
+  description: "How to use GitHub Pages to create a version controlled, open CV."
   speakers: [8]
 -
   id: 005
@@ -122,7 +123,7 @@
   speaker: [32]
 -
   id: 010
-  title: "What is the Nectar cloud?"
+  title: "What is the Nectar Cloud?"
   description: "What is the Nectar cloud, and why would you use it?"
   complexity: "Beginner" 
   speakers: [24]
@@ -158,7 +159,7 @@
   speakers: [7]
 -  
   id: 017
-  title: "Advanced image processing and analysis with FIJI"
+  title: "Advanced Image Processing and Analysis with FIJI"
   description: "Presented by Nick Condon and Deborah Barkauskas"
   hidden: true
   complexity: "Intermediate" 
@@ -199,7 +200,7 @@
 -
   id: 023
   title: "Knowledge Bazaar"
-  description: "Meet your peers."
+  description: "Meet and network with your peers."
   hidden: true
   complexity: "Beginner" 
 -
@@ -209,7 +210,7 @@
   hidden: true
 -
   id: 025
-  title: "Key Story - Dr Peter Binks: Engagement"
+  title: "Key Story - Dr Peter Binks: The Importance of Engagement"
   speakers: [9]
   hidden: true
 -
@@ -220,19 +221,19 @@
   hidden: true
 -
   id: 027
-  title: "Setting up an account to access CVL"
+  title: "Setting up an Account to Access CVL"
   description: "In this presentation, I will provide explicit instructions on how to decide which node of CVL is right for you, and then how to access the CVL and set up your account.  This will be a hands-on session and I will be stepping you through the pathway to establish your account and integrate your data collection.  Accounts to CVL are provisioned manually, so there will be some lag-time between applying for an account and being able to use the CVL.  I will run a follow-up session to show you how to work within the CVL environment."
   speakers: [14]
   hidden: true
 -
   id: 028
-  title: "Data transfer methods for CVL"
+  title: "Data Transfer Methods for CVL"
   description: "In this follow-up session, CVL account holders can work through the steps to move data in and out of the analysis environment.  I will show you how images acquired from instruments can be ingested directly into collections with newly emerging workflows (like Pitschi).  Your data collections will then available within the CVL, ready for analysis.  For those not yet connected with Pitschi, tools like FileZilla for sFTP or Globus can be used to transfer data collections.  We will work through how analysed and annotated data can be exported back to collections, ready for repository storage."
   speakers: [14]
   hidden: true
 -
   id: 029
-  title: "Research software visible, citable and sustained - ARDC Software Program"
+  title: "Research Software Visible, Citable and Sustained - ARDC Software Program"
   description: "Across science disciplines, software code is being written by scientists and deemed critical to research conclusions. This is evidenced by an increasing number of papers reporting the use of customised software code to process and analyse data. Although data and code sharing policy exists, publishing the details of bespoke software is not yet a general practice. Accessibility mechanisms for provision of the source code as part of a publication or pre-print are technically a solved problem. For example, we have free access to version control systems, persistent identifiers, archiving tools, licenses and dedicated software repositories. Policy at various levels either recommend or mandate software availability statements. These policies exist in support of validating techniques and results, computational replicability and reproducibility, and the increased likelihood for research peers to use and build on methods. The ARDC is proposing a strategy for culture change, with the greater aim of improving recognition of research software as a first-class research output. To attain this goal we need to coordinate activities with research software authors to See, Shape and Sustain research software. Our target audience are PhDs and EMCRs investing the most of their time writing, testing and maintaining research software. We aim to increase the visibility of research software projects for broadest use and reuse. Boost incentives such as crediting authors for their research efforts and for supporting computational reproducibility. We envision the impact of these activities will encourage more researchers to improve the quality of their code and promote research excellence."
   speakers: [12]
   hidden: true
@@ -284,21 +285,22 @@
   speakers: [22]
 -
   id: 038
-  title: "Introduction to task automation with the Unix shell"
-  description: "Learn how to automate tasks with the Unix Shell - a Software Carpentry session. This is hands on training. Attendees will need to bring their own laptops."
+  title: "Software Carpentry session: Introduction to Task Automation with the Unix shell"
+  description: "Learn how to automate tasks with the Unix Shell. This is hands on training. Attendees will need to bring their own laptops."
   description: "Workshop"
+  complexity: "Beginner" 
   hidden: true
   speakers: [18]
 -
   id: 039
-  title: "Introduction to the Nectar cloud: a hands-on workshop"
+  title: "Introduction to the Nectar Cloud: a hands-on workshop"
   description: "BYO laptop to discover how you can use the Nectar cloud to extend your computer's capabilities."
   description: "Workshop"
   complexity: "Beginner" 
   speakers: [24]
 -
   id: 040
-  title: "Oh, no, my data has outgrown my spreadsheet!"
+  title: "Oh, No, My data Has Outgrown My Spreadsheet!"
   description: "How to go beyond Excel and work with large tabular data"
   description: "Workshop"
   complexity: "Beginner" 
@@ -306,9 +308,9 @@
 -
   id: 041
   title: "HPC Carpentry"
-  description: "Hands on workshop about accessing HPC."
+  description: "Hands on Workshop about using and accessing HPC."
   description: "Workshop"
-  complexity: "Beginner" 
+  complexity: "Intermediate" 
   speakers: [27]
 -
   id: 042
@@ -327,9 +329,9 @@
   link: "https://padlet.com/gbarbour2/rfaxmqb50hgbdo0s"
 -
   id: 044
-  title: "Acquire and visualise Open Street Map data with R"
-  description: "Stephane Guillou will show you how how to use a variety of R packages to get and visualise Open Street Map data. As an interactive, open-source, high-level programming language designed for data science, R is a great fit for dealing with OpenStreetMap data and introducing beginners to reproducible scientific computing."
+  title: "Acquire and Visualise OpenStreetMap Data with R"
+  description: "Stephane Guillou will show you how how to use a variety of R packages to get and visualise OpenStreetMap (OSM) data. As an interactive, open-source, high-level programming language designed for data science, R is a great fit for dealing with OpenStreetMap data and introducing beginners to reproducible scientific computing."
   description: "Workshop"
-  complexity: "Beginner" 
+  complexity: "Intermediate" 
   speakers: [30]
 -
