@@ -155,7 +155,7 @@
   surname: "McRae"
   title: "Library Research Specialist"
   bio: "Ben is the Library Research Specialist for data wrangling at Griffith University Library."
-  thumbnailUrl: "benmcrae.jpg"
+  thumbnailUrl: "ben-mcrae.jpg"
   rockstar: true
   ribbon:
     - {abbr: "LRS", title: "LRS", url: "https://www.griffith.edu.au/library"}
