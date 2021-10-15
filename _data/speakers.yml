@@ -309,3 +309,13 @@
   ribbon:
     - {abbr: "Library", title: "Technology Trainer", url: "https://www.uq.edu.au/library"}
 -
+  id: 31
+  name: "Dr Francis"
+  surname: "Gacenga"
+  title: "Manager (eResearch), USQ"
+  bio: "Francis is the Manager (eResearch) at the University of Southern Queensland. He is an IT Service Manager with over 20 years' professional and teaching experience in IT services leadership, management, development, support and training."
+  thumbnailUrl: "francis-gacenga.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Library", title: "Technology Trainer", url: "https://www.uq.edu.au/library"}
+-
