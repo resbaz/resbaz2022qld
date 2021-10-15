@@ -306,7 +306,7 @@
   speakers: [24]
 -
   id: 040
-  title: "Oh, No, My data Has Outgrown My Spreadsheet!"
+  title: "Oh, No, My Data Has Outgrown My Spreadsheet!"
   description: "How to go beyond Excel and work with large tabular data"
   description: "Workshop"
   complexity: "Beginner" 
