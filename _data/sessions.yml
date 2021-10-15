@@ -325,6 +325,7 @@
   description: "Panel discussion"
   complexity: "Beginner" 
   speakers: [21, 18]
+  link: "https://padlet.com/gbarbour2/rfaxmqb50hgbdo0s"
 -
   id: 044
   title: "Acquire and visualise Open Street Map data with R"
