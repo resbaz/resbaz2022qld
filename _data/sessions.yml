@@ -148,7 +148,7 @@
   description: "This session will cover considerations on high performance computing and what you need to know to use a HPC. It will introduce attendees to the uses of HPC and answer entry level questions."
   hidden: true
   complexity: "Beginner" 
-  speaker: [31]
+  speakers: [31]
 -
   id: 016
   title: "Topic Modelling for Qualitative Content Analysis"
