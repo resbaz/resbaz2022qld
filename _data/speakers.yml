@@ -304,7 +304,7 @@
   surname: "Guillou"
   title: "Technology Trainer"
   bio: "Stéphane is the Technology Trainer at The University of Queensland Library."
-  thumbnailUrl: "guillou.png"
+  thumbnailUrl: "guillou.jpg"
   rockstar: true
   ribbon:
     - {abbr: "Library", title: "Technology Trainer", url: "https://www.uq.edu.au/library"}
