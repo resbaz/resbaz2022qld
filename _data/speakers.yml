@@ -319,3 +319,13 @@
   ribbon:
     - {abbr: "Library", title: "Technology Trainer", url: "https://www.uq.edu.au/library"}
 -
+  id: 32
+  name: "Dr Gareth"
+  surname: "Price"
+  title: "Head of Computational Biology, QCIF Facility for Advanced Bioinformatics"
+  bio: "Gareth Price has been a Genomics Scientist for over 15 years now. His view is that research, clinical research, and healthcare are at their best when coupled with the most accurate, highest throughput and innovative technology and analysis."
+  thumbnailUrl: "gareth-price.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Galaxy", title: "Galaxy", url: "https://www.qcif.edu.au/"}
+-
