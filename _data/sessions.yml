@@ -64,7 +64,7 @@
   service: true
   hidden: true
   complexity: "Beginner" 
-  speaker: [5]
+  speakers: [5]
 -
   id: 001
   title: "Software Carpentry with Python"
