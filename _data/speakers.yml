@@ -52,7 +52,7 @@
   ribbon:
     - {abbr: "IMB", title: "UQ Institute of Molecular Bioscien", url: "https://imb.uq.edu.au/soilsforscience/"}
 -
-  id: 5
+  id: 28
   name: "Dr Steffen"
   surname: "Bollmann"
   company: "Centre for Advanced Imaging, UQ"
@@ -279,7 +279,7 @@
   ribbon:
     - {abbr: "HPC", title: "RCC", url: "https://www.uq.edu.au"}
 -
-  id: 28
+  id: 5
   name: "Associate Professor Sama"
   surname: "Low-Choy"
   company: "Arts Education and Law, Griffith University"
