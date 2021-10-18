@@ -15,13 +15,13 @@
   id: 201
   title: "The Life of Survey Data: From conception, to birth then graduation, culminating in its life purpose"
   description: "In this talk, Professor Low-Choy will introduce the lifecycle of designing surveys, through to implementation and analysing."
-  speakers: [2]
+  speakers: [28]
   hidden: true
 -
   id: 202
   title: "Doing Surveys Well, By Design"
   description: "In this talk, Professor Low-Choy will cover the dos and don'ts of survey design and how to avoid the pitfalls of poorly designed surveys."
-  speakers: [2]
+  speakers: [28]
   hidden: true
 -
   id: 200
@@ -189,7 +189,7 @@
   description: "Opening talk (includes Acknowledgment of Country)"
   hidden: true
   complexity: "Beginner" 
-  speakers: [28]
+  speakers: [2]
 -
   id: 021
   title: "SAGE Publishing"
