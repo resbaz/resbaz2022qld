@@ -96,17 +96,17 @@
     - {
       startTime: "13:30",
       endTime: "14:00",
-      sessionIds: [201, 001, 037, 040]
+      sessionIds: [201, 001, 037, 040, 008]
     }
     - {
       startTime: "14:00",
       endTime: "14:30",
-      sessionIds: [202, 001, 008, 040]
+      sessionIds: [202, 001, 008, 040, 019]
     }
     - {
       startTime: "14:30",
       endTime: "16:30",
-      sessionIds: [001, 005, 022, 004]
+      sessionIds: [004, 001, 005, 022, 019]
     }
 - 
   date: "2021-11-26"
