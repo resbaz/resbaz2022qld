@@ -15,13 +15,13 @@
   id: 201
   title: "The Life of Survey Data: From conception, to birth then graduation, culminating in its life purpose"
   description: "In this talk, Professor Low-Choy will introduce the lifecycle of designing surveys, through to implementation and analysing."
-  speakers: [28]
+  speakers: [5]
   hidden: true
 -
   id: 202
   title: "Doing Surveys Well, By Design"
   description: "In this talk, Professor Low-Choy will cover the dos and don'ts of survey design and how to avoid the pitfalls of poorly designed surveys."
-  speakers: [28]
+  speakers: [5]
   hidden: true
 -
   id: 200
@@ -70,7 +70,7 @@
   description: "This course will introduce software containers for reproducible data analysis. We will first introduce what containers are (you might have heard of Docker or Singularity already?). Then we will show examples from the neuroimaging domain how such containers can be built and used on different operating systems and high-performance computing environments. We will close with showing our open-source project `neurodesk` which combines all these technologies in a user-friendly way and makes reproducible neuroimaging accessible for a wide audience. Some command line and linux experience is of advantage, but we will cover everything that's needed.Bring a laptop with Docker installed."
   hidden: true
   complexity: "Beginner" 
-  speakers: [5]
+  speakers: [28]
 -
   id: 001
   title: "Software Carpentry with Python"
