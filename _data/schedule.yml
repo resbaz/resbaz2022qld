@@ -1,6 +1,6 @@
 - 
   date: "2021-11-24"
-  dateReadable: "24 November"
+  dateReadable: "Wednesday, 24 November"
   tracks: 
     - {title: "1", color: "#2E8B57"}
     - {title: "2", color: "#e91e63"}
@@ -65,7 +65,7 @@
     }
 - 
   date: "2021-11-25"
-  dateReadable: "25 November"
+  dateReadable: "Thursday, 25 November"
   tracks: 
     - {title: "1", color: "#2E8B57"}
     - {title: "2", color: "#e91e63"}
@@ -110,7 +110,7 @@
     }
 - 
   date: "2021-11-26"
-  dateReadable: "26 November - Brisbane"
+  dateReadable: "Friday, 26 November - Brisbane"
   tracks: 
     - {title: "1", color: "#2E8B57"}
     - {title: "2", color: "#e91e63"}
@@ -149,7 +149,7 @@
     }
 - 
   date: "2021-11-26"
-  dateReadable: "26 November - Gold Coast"
+  dateReadable: "Friday, 26 November - Gold Coast"
   tracks: 
     - {title: "1", color: "#2E8B57"}
     - {title: "2", color: "#e91e63"}
