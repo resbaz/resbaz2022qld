@@ -2,11 +2,11 @@
   date: "2021-11-24"
   dateReadable: "Wednesday, 24 November"
   tracks: 
-    - {title: "1", color: "#2E8B57"}
-    - {title: "2", color: "#e91e63"}
-    - {title: "3", color: "#48D1CC"}
-    - {title: "4", color: "#FF00FF"}
-    - {title: "5", color: "#FF8C00"}
+    - {title: "Auditorium", color: "#2E8B57"}
+    - {title: "301", color: "#e91e63"}
+    - {title: "313A", color: "#48D1CC"}
+    - {title: "316", color: "#FF00FF"}
+    - {title: "316A", color: "#FF8C00"}
   timeslots:
     - {
       startTime: "08:00",
