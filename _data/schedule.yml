@@ -147,6 +147,11 @@
       endTime: "16:00",
       sessionIds: [019, 039, 044, 017]
     }
+   - {
+      startTime: "16:00",
+      endTime: "16:15",
+      sessionIds: [050]
+    }
 - 
   date: "2021-11-26"
   dateReadable: "Friday, 26 November - Gold Coast"
