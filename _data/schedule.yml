@@ -156,31 +156,47 @@
   date: "2021-11-26"
   dateReadable: "Friday, 26 November - Gold Coast"
   tracks: 
+    - {title: "G11.3.64", color: "#48D1CC"}
     - {title: "G11.3.56", color: "#2E8B57"}
     - {title: "G11.4.29", color: "#e91e63"}
   timeslots:
     - {
       startTime: "08:00",
       endTime: "8:30",
-      sessionIds: [030, 012]
+      sessionIds: [030, , 012, 012]
     }
     - {
       startTime: "08:30",
       endTime: "9:00",
-      sessionIds: [031, 012]
+      sessionIds: [031, , 012, 012]
     }
     - {
       startTime: "09:00",
       endTime: "11:00",
-      sessionIds: [032, 033]
+      sessionIds: [012, 032, 033]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "11:30",
+      sessionIds: [046]
     }
     - {
       startTime: "11:30",
       endTime: "12:30",
-      sessionIds: [034, 012]
+      sessionIds: [012, 034, 012]
+    }
+    - {
+      startTime: "12:30",
+      endTime: "1:30",
+      sessionIds: [047]
     }
     - {
       startTime: "13:30",
       endTime: "15:00",
-      sessionIds: [035, 036]
+      sessionIds: [012, 035, 036]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "15:30",
+      sessionIds: [012, 012, 048]
     }
