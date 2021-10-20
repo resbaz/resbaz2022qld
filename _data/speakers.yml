@@ -339,3 +339,13 @@
   ribbon:
     - {abbr: "IMB, UQ", title: "Microscopist", url: "https://www.uq.edu.au/"}
 -
+  id: 34
+  name: "Mark"
+  surname: "Crowe"
+  title: "Manager, Skills Development, QCIF"
+  bio: "Mark is the Manager of skills development at QCIF and has been a key organiser of 2021 ResBaz Qld."
+  thumbnailUrl: "mark-crowe.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "QCIF", title: "Skills Development", url: "https://www.qcif.edu.au/"}
+-
