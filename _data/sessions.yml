@@ -2,33 +2,33 @@
   id: 300
   title: "Key Story - Nature conservation"
   description: "Moving around from a global, environmental NGO (the Nature Conservancy), to government (Queensland's Chief Scientist) to academia and all the science involved."
+  description: "Talk"
   speakers: [0]
-  hidden: true
   img: key_icons/speaking.png
 - 
   id: 100
   title: "Key Story - Exploring Australian GLAM data"
   description: "More and more institutions in the GLAM sector (Galleries, Libraries, Archives, and Museums) are sharing their collection data online, but what is it, and how do you use it? In this talk, I'll survey the types of data available – including metadata, images, OCRd text, and transcriptions – and explore possible research topics. Using tools and examples from the GLAM Workbench, I’ll show how GLAM data can be harvested, aggregated, analysed, and visualised. What can GLAM data tell us about Australian history, society, and culture?"
+  description: "Talk"
   speakers: [1]
-  hidden: true
 -
   id: 201
   title: "The Life of Survey Data: From conception, to birth then graduation, culminating in its life purpose"
   description: "In this talk, Professor Low-Choy will introduce the lifecycle of designing surveys, through to implementation and analysing."
+  description: "Talk"
   speakers: [5]
-  hidden: true
 -
   id: 202
   title: "Doing Surveys Well, By Design"
   description: "In this talk, Professor Low-Choy will cover the dos and don'ts of survey design and how to avoid the pitfalls of poorly designed surveys."
+  description: "Talk"
   speakers: [5]
-  hidden: true
 -
   id: 200
   title: "Key Story - Soils 4 Science"
   description: "Soils 4 Science is a citizen science project based at UQ's IMB that is dedicated to finding new antibiotics needed in the fight against the scourge of drug-resistant infections, better known as superbugs. Microbe-inspired products are the source of >50% of all antibiotics in use today. Healthcare systems are increasingly confronted by multi-drug resistant pathogens such as methicillin-resistant Staphylococcus aureus (MRSA) that are resistant to most, even all, existing antibiotics. Illustrative of the risk posed by infectious diseases, the COVID-19 pandemic infected >120 million people leading to ~2.7M deaths worldwide. Our ability to deploy new approaches to vaccine development, including mRNA platform technology, enabled a swift response to this healthcare crisis. Similar investment in antibiotic preparedness is essential if we are to be ready for an even bigger infectious disease tsunami in the years ahead. Confronted by the loss of existing antibiotic treatments, and rising incidences of morbidity and mortality, the case for the identification of new antibiotics is clearly paramount to the current national and global healthcare priorities. Therefore, we established the FIRST Soils for Science Citizen Science Australian Program, including equipments, APP & website, that gave the general public a unique opportunity to work with scientists to discover new antibiotics from soil bacteria. This program engaged the public with the global issue of antimicrobial resistance through a practical soil-based activity, to address the challenges associated with the discovery of novel antibiotics."
+  description: "Talk"
   speakers: [4]
-  hidden: true
 -
   id: 101
   title: "Registration (in the foyer)"
@@ -38,7 +38,7 @@
   id: 102
   title: "Welcome by Professor Joe Shapter (Auditorium)"
   speakers: [10]
-  hidden: true
+  description: "Talk"
 - 
   id: 106
   title: "Evening Reception"
@@ -62,13 +62,11 @@
   id: 105                                     
   title: "Knowledge Bazaar (in the foyer)"
   description: "The Knowledge Bazaar is an open networking session where attendees can find like-minded people."
-  complexity: "Beginner" 
+  hidden: true
 -
   id: 310
   title: "Software Containers for Reproducible (Neuro) Science"
   subtype: workshop
-  description: "This course will introduce software containers for reproducible data analysis. We will first introduce what containers are (you might have heard of Docker or Singularity already?). Then we will show examples from the neuroimaging domain how such containers can be built and used on different operating systems and high-performance computing environments. We will close with showing our open-source project `neurodesk` which combines all these technologies in a user-friendly way and makes reproducible neuroimaging accessible for a wide audience. Some command line and linux experience is of advantage, but we will cover everything that's needed.Bring a laptop with Docker installed."
-  hidden: true
   complexity: "Beginner" 
   speakers: [28]
 -
@@ -83,7 +81,7 @@
   title: "Introduction to Jupyter Notebooks"
   description: "This workshop will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data. You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research. By the end of the workshop you will have a good understanding of what Notebooks can do, how to open one up, perform some basic tasks and save it for later. If you are really into it, you will also be able to continue to experiment after the workshop by using other people’s notebooks as springboards for your own adventures! This workshop is targeted at those who are absolute beginners or ‘tech-curious’. It includes a hands-on component, using basic programming commands, but requires no previous knowledge of programming."
   speakers: [3]
-  hidden: true
+  subtype: workshop
 -
   id: 003
   title: "The Gale Digital Scholar Lab: 3 years on, what's new?"
@@ -94,6 +92,7 @@
   id: 004
   title: "Create an Open CV"
   description: "How to use GitHub Pages to create a version controlled, open CV."
+  subtype: workshop
   speakers: [8]
 -
   id: 005
@@ -138,15 +137,18 @@
   title: "Free"
   description: "Free time to network"
   subtype: workshop
+  hidden: true
 -
   id: 013
   title: "Research Profiles: working hard or hard work?"
   description: "This is a 'Bring your own device' session. What will people find when they Google you? Learn about different research profiles available and start creating your professional online identity. Use researcher IDs (e.g. ORCiD) to claim and link your publications."
+  subtype: workshop
   speakers: [15]
 -
   id: 014
   title: "Network Know-how & Data Handling"
   description: "This workshop will cover topics such as jargon busting, network literacy and data movement solutions. The workshop will also provide a peek at some collaborative research tools such as Jupyter Notebooks and CloudStor. You will learn about networks, integrated tools, data and storage and where all these things fit in the researcher’s toolkit."
+  subtype: workshop
   speakers: [3]
   hidden: true
 -
@@ -167,14 +169,13 @@
   id: 017
   title: "Advanced Image Processing and Analysis with FIJI"
   description: "Presented by Nick Condon and Deborah Barkauskas."
-  hidden: true
+  subtype: workshop
   complexity: "Intermediate" 
   speakers: [33]
 -
   id: 018
   title: "Copyright Considerations for Researchers"
   description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
-  hidden: true
   speakers: [23]
   complexity: "Beginner" 
 -
@@ -187,20 +188,17 @@
   id: 020
   title: "Opening Address: Julia Playford, Executive Director of Science Development, Queensland Department of Environment and Science (Auditorium)"
   description: "Opening talk (includes Acknowledgment of Country)"
-  hidden: true
   complexity: "Beginner" 
   speakers: [2]
 -
   id: 021
   title: "SAGE Publishing"
   description: "Sponsor talk."
-  hidden: true
   subtype: talk
 -
   id: 022
   title: "Introduction to Species Distributions Modelling with the EcoCommons"
   description: "Introductory workshop on using the EcoCommons for modelling of species distribution."
-  hidden: true
   subtype: workshop
   complexity: "Beginner" 
   speakers: [29]
@@ -208,7 +206,6 @@
   id: 023
   title: "Knowledge Bazaar"
   description: "Meet and network with your peers."
-  hidden: true
   complexity: "Beginner" 
 -
   id: 024
@@ -225,7 +222,6 @@
   title: "What is the Characterisation Virtual Laboratory (CVL)?"
   description: "An introduction to the Characterisation Virtual Laboratory (CVL) for processing large imaging and characterisation data sets using GPU processing on HPC. The rate, quantity and quality of imaging science data acquisition is increasing exponentially.  Researchers need defined, reliable and rapid pathways that they can use to process these data.  The ACCS (Australian Characterisation Commons at Scale) Project offers solutions to this critical need.  The flagship capability of the ACCS Project is the CVL (Characterisation Virtual Laboratory) (www.cvl.org.au).  The CVL offers a unique virtual space where researchers can access HPC capabilities and analyse their datasets using graphical interfaces for dozens of specialist LINUX packages.  CVL is available to all Australian researchers working in imaging and characterisation sciences using their AAF login.  Via the Strudel2 deployment over a web interface, researchers can access multiple deployments of CVL across Australia, depending on their specific tool needs and/or institutional affiliation.  The CVL enables researchers to easily access HPC setups from their own PCs over the internet for processing large volumes of imaging data on remote systems.  With 3 preset virtual desktop configurations, researchers can opt for basic, intermediate or heavy compute setups, enabling rapid analysis of terabyte-sized datasets.  CVL comes preinstalled with dozens of imaging tools, and through the ACCS, has a team ready to install new packages in response to the changing needs of the community.  The ACCS project aims to show researchers how they acquire data, move it into the CVL, and then export it back to their collections, completing a fully integrated workflow.  In this way, CVL and ACCS bring data full circle from acquisition to final FAIR deposition."
   speakers: [14]
-  hidden: true
 -
   id: 027
   title: "Setting up an Account to Access the Characterisation Virtual Laboratory (CVL)"
@@ -288,35 +284,33 @@
   id: 037
   title: "What is the Australian Biocommons?"
   description: "Dr Melissa Burke will introduce the Australian Biocommons, whose mission includes actively supporting life science research communities with community scale digital infrastructure developed and maintained in concert with international peer infrastructures. "
-  hidden: true
   speakers: [22]
 -
   id: 038
   title: "Software Carpentry session: Introduction to Task Automation with the Unix shell"
   description: "Learn how to automate tasks with the Unix Shell. This is hands on training. Attendees will need to bring their own laptops."
-  description: "Workshop"
+  subtype: workshop
   complexity: "Beginner" 
-  hidden: true
   speakers: [18]
 -
   id: 039
   title: "Introduction to the Nectar Cloud: a hands-on workshop"
   description: "BYO laptop to discover how you can use the Nectar cloud to extend your computer's capabilities."
-  description: "Workshop"
+  subtype: workshop
   complexity: "Beginner" 
   speakers: [24]
 -
   id: 040
   title: "Oh, No, My Data Has Outgrown My Spreadsheet!"
   description: "How to go beyond Excel and work with large tabular data"
-  description: "Workshop"
+  subtype: workshop
   complexity: "Beginner" 
   speakers: [25]
 -
   id: 041
   title: "HPC Carpentry"
   description: "Hands on Workshop about using and accessing HPC."
-  description: "Workshop"
+  subtype: workshop
   complexity: "Intermediate" 
   speakers: [27]
 -
@@ -338,7 +332,7 @@
   id: 044
   title: "Acquire and Visualise OpenStreetMap Data with R"
   description: "Stephane Guillou will show you how how to use a variety of R packages to get and visualise OpenStreetMap (OSM) data. As an interactive, open-source, high-level programming language designed for data science, R is a great fit for dealing with OpenStreetMap data and introducing beginners to reproducible scientific computing."
-  description: "Workshop"
+  subtype: workshop
   complexity: "Intermediate" 
   speakers: [30]
 -
