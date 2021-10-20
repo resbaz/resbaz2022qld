@@ -112,10 +112,10 @@
   date: "2021-11-26"
   dateReadable: "Friday, 26 November - Brisbane"
   tracks: 
-    - {title: "1", color: "#2E8B57"}
-    - {title: "2", color: "#e91e63"}
-    - {title: "3", color: "#191970"}
-    - {title: "4", color: "#FF00FF"}
+    - {title: "Auditorium", color: "#2E8B57"}
+    - {title: "Room 301", color: "#e91e63"}
+    - {title: "Room 313A", color: "#48D1CC"}
+    - {title: "Room 316", color: "#FF00FF"}
   timeslots:
     - {
       startTime: "09:00",
