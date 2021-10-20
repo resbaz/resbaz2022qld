@@ -249,6 +249,7 @@
   id: 031
   title: "Gold Coast Welcome and icebreaker session"
   description: "For Gold Coast one-day event attendees."
+  speaker: [35]
   hidden: true
 -
   id: 032
@@ -341,4 +342,20 @@
   description: "Wrap-up and feedback session."
   speakers: [34, 18]
 -
-
+  id: 046
+  title: "Morning tea (Level 4 Sky Lounge)"
+  service: true
+  hidden: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 047
+  title: "Lunch (Level 4 Sky Lounge)"
+  service: true
+  hidden: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 048
+  title: "Closing Ceremony"
+  description: "Wrap-up and feedback session."
+  speakers: [35]
+-
