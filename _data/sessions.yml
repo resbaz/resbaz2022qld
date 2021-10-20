@@ -339,5 +339,6 @@
   id: 045
   title: "Closing Ceremony"
   description: "Wrap-up and feedback session."
+  speakers: [34, 18]
 -
 
