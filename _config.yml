@@ -194,7 +194,7 @@ footerBlocks:
  -    
   title: "Silver Sponsor"
   links:
-    - {link: "https://cloud.google.com/", text: "Google Cloud", imageUrl: "googlecloud.png"}
+    - {link: "https://cloud.google.com/edu/researchers/", text: "Google Cloud", imageUrl: "googlecloud.png"}
  -  
   title: "Contacts"
   links:
