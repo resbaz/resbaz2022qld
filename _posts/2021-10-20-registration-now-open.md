@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Registration for ResBaz now open"
+title:  "Registration for ResBaz is now open"
 date:   2021-10-20 
 isStaticPost: false
 image: balloons.jpg
 ---
 
-## BIG NEWS!
+## It's on!
 
 Spread the word !
 
