@@ -349,3 +349,13 @@
   ribbon:
     - {abbr: "QCIF", title: "Skills Development", url: "https://www.qcif.edu.au/"}
 -
+  id: 35
+  name: "Alex"
+  surname: "Williams"
+  title: "Co-ordinator, Researcher Services, Griffith University Library"
+  bio: "Alex co-ordinates the work of the Researcher Services team within Academic Engagement Services, Griffith University Library. She is one of the key organisers of Gold Coast ResBaz."
+  thumbnailUrl: "alex-williams.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Griffith", title: "Researcher Services", url: "https://www.griffith.edu.au/library"}
+-
