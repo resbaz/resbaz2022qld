@@ -253,7 +253,7 @@
   hidden: true
 -
   id: 032
-  title: "Text Mining and Analysis"
+  title: "Introduction to Web-Scraping"
   speakers: [15, 19]
   description: "Workshop"
   hidden: true
@@ -338,7 +338,7 @@
   speakers: [30]
 -
   id: 045
-  title: "Closing Ceremony"
+  title: "Brisbane Closing Ceremony"
   description: "Wrap-up and feedback session."
   speakers: [34, 18]
 -
@@ -355,7 +355,7 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 048
-  title: "Closing Ceremony"
+  title: "Gold Coast Closing Ceremony"
   description: "Wrap-up and feedback session."
   speakers: [35]
 -
