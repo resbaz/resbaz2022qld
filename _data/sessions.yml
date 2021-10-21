@@ -7,19 +7,19 @@
   img: key_icons/speaking.png
 - 
   id: 100
-  title: "Ass Prof Tim Sherratt: Key Story - Exploring Australian Galleries, Libraries, Archives, and Museums (GLAM) data"
+  title: "A/Prof Tim Sherratt: Key Story - Exploring Australian Galleries, Libraries, Archives, and Museums (GLAM) data"
   description: "More and more institutions in the GLAM sector (Galleries, Libraries, Archives, and Museums) are sharing their collection data online, but what is it, and how do you use it? In this talk, I'll survey the types of data available – including metadata, images, OCRd text, and transcriptions – and explore possible research topics. Using tools and examples from the GLAM Workbench, I’ll show how GLAM data can be harvested, aggregated, analysed, and visualised. What can GLAM data tell us about Australian history, society, and culture?"
   description: "Talk"
   speakers: [1]
 -
   id: 201
-  title: "Ass Prof Sama Low-Choy: Key Story - The Life of Survey Data: From conception, to birth then graduation, culminating in its life purpose"
+  title: "A/Prof Sama Low-Choy: Key Story - The Life of Survey Data: From conception, to birth then graduation, culminating in its life purpose"
   description: "In this talk, Professor Low-Choy will introduce the lifecycle of designing surveys, through to implementation and analysing."
   description: "Talk"
   speakers: [5]
 -
   id: 202
-  title: "Ass Prof Sama Low-Choy: Key Story - Doing Surveys Well, By Design"
+  title: "A/Prof Sama Low-Choy: Key Story - Doing Surveys Well, By Design"
   description: "In this talk, Professor Low-Choy will cover the dos and don'ts of survey design and how to avoid the pitfalls of poorly designed surveys."
   description: "Talk"
   speakers: [5]
