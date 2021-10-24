@@ -8,9 +8,9 @@ image: balloons.jpg
 
 ## It's on!
 
-Spread the word !
+### Spread the word !
 
-Registrations for [ResBazQld](https://resbaz.github.io/resbaz2021qld/) are now OPEN!
+### Registrations for [ResBazQld](https://resbaz.github.io/resbaz2021qld/) are now OPEN!
 
 Cost for attendance on all three days, which includes all workshops, and lunch and morning tea each day will be a mere $25 for [Brisbane/Queensland](https://www.eventbrite.com.au/e/resbaz-queensland-2021-tickets-185377598387) and $12 for the [Gold Coast one-day event](https://www.eventbrite.com.au/e/resbaz-gold-coast-2021-tickets-192062111947). 
 
