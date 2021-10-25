@@ -78,10 +78,11 @@
   complexity: "Beginner"
 -
   id: 002
-  title: "Introduction to Jupyter Notebooks with Dr Sara King"
-  description: "This workshop will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data. You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research. By the end of the workshop you will have a good understanding of what Notebooks can do, how to open one up, perform some basic tasks and save it for later. If you are really into it, you will also be able to continue to experiment after the workshop by using other people’s notebooks as springboards for your own adventures! This workshop is targeted at those who are absolute beginners or ‘tech-curious’. It includes a hands-on component, using basic programming commands, but requires no previous knowledge of programming."
+  title: "Introduction to Jupyter Notebooks"
+  description: "Dr Sara King from AARNet will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data. You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research. By the end of the workshop you will have a good understanding of what Notebooks can do, how to open one up, perform some basic tasks and save it for later. If you are really into it, you will also be able to continue to experiment after the workshop by using other people’s notebooks as springboards for your own adventures! This workshop is targeted at those who are absolute beginners or ‘tech-curious’. It includes a hands-on component, using basic programming commands, but requires no previous knowledge of programming."
   speakers: [3]
   subtype: workshop
+  presentation: "https://www.eventbrite.com.au/e/introduction-to-jupyter-notebooks-tickets-194834012777"
 -
   id: 003
   title: "The Gale Digital Scholar Lab: 3 years on, what's new?"
@@ -148,10 +149,11 @@
 -
   id: 014
   title: "Network Know-how & Data Handling"
-  description: "This workshop will cover topics such as jargon busting, network literacy and data movement solutions. The workshop will also provide a peek at some collaborative research tools such as Jupyter Notebooks and CloudStor. You will learn about networks, integrated tools, data and storage and where all these things fit in the researcher’s toolkit."
+  description: "Dr Sara King from AARNet will show you how to: 1) Understand the basic differences between the different Internet technologies and connection types and in Australia and how to make the most of them. 2) Describe and define different network and data movement concepts (jargon busting). 3) Perform speed, ping and traceroute tests to check your Internet connection. 4) Calculate data transfer times. 5) Understand various network and connectivity constraints. 6) Transfer large amounts of data via the network. 7) Sync, store and share your research data safely. 8 0 Search for more advanced options for data movement and know where to go for help."
   subtype: workshop
   speakers: [3]
   hidden: true
+  presentation: "https://www.eventbrite.com.au/e/network-know-how-and-data-handling-tickets-198059149247"
 -
   id: 015
   title: "Getting started with HPC"
