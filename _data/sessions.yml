@@ -114,6 +114,7 @@
   subtype: workshop
   complexity: "Beginner" 
   speakers: [11]
+  presentation: "https://www.eventbrite.com.au/e/collecting-data-from-the-web-tickets-194110388397"
 -
   id: 008
   title: "Graduate Digital Research Fellows"
