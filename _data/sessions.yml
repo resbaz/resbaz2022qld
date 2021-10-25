@@ -69,6 +69,7 @@
   subtype: workshop
   complexity: "Beginner" 
   speakers: [28]
+  presentation: "https://www.eventbrite.com.au/e/software-containers-for-reproducible-neuro-science-tickets-194847483067"
 -
   id: 001
   title: "Software Carpentry with Python"
@@ -108,6 +109,7 @@
   subtype: workshop
   complexity: "Intermediate" 
   speakers: [6]
+  presentation: "https://www.eventbrite.com.au/e/introduction-to-machine-learning-for-imaging-tickets-194830763057"
 -
   id: 007
   title: "Collecting Data from the Web"
@@ -128,11 +130,13 @@
   complexity: "Intermediate" 
   subtype: workshop
   speakers: [32]
+  presentation: "https://www.eventbrite.com.au/e/galaxy-australia-an-analytical-service-for-australian-life-scientists-tickets-194835938537"
 -
   id: 010
   title: "What is the Nectar Cloud?"
   description: "What is the Nectar cloud, and why would you use it?"
   complexity: "Beginner" 
+  subtype: talk
   speakers: [24]
 -
   id: 012
@@ -205,6 +209,7 @@
   subtype: workshop
   complexity: "Beginner" 
   speakers: [29]
+  presentation: "https://www.eventbrite.com.au/e/introduction-to-species-distributions-modelling-with-the-ecocommons-tickets-194846871237"
 -
   id: 023
   title: "Knowledge Bazaar"
@@ -231,12 +236,14 @@
   description: "In this presentation, I will provide explicit instructions on how to decide which node of CVL is right for you, and then how to access the CVL and set up your account.  This will be a hands-on session and I will be stepping you through the pathway to establish your account and integrate your data collection.  Accounts to CVL are provisioned manually, so there will be some lag-time between applying for an account and being able to use the CVL.  I will run a follow-up session to show you how to work within the CVL environment."
   speakers: [14]
   hidden: true
+  presentation: "https://www.eventbrite.com.au/e/setting-up-an-account-to-access-the-cvl-tickets-194841114017"
 -
   id: 028
   title: "Data Transfer Methods for the Characterisation Virtual Laboratory (CVL)"
   description: "In this follow-up session, CVL account holders can work through the steps to move data in and out of the analysis environment.  I will show you how images acquired from instruments can be ingested directly into collections with newly emerging workflows (like Pitschi).  Your data collections will then available within the CVL, ready for analysis.  For those not yet connected with Pitschi, tools like FileZilla for sFTP or Globus can be used to transfer data collections.  We will work through how analysed and annotated data can be exported back to collections, ready for repository storage."
   speakers: [14]
   hidden: true
+  presentation: "https://www.eventbrite.com.au/e/data-transfer-methods-for-the-characterisation-virtual-laboratory-cvl-tickets-194848466007"
 -
   id: 029
   title: "Research Software Visible, Citable and Sustained: the ARDC Software Program"
@@ -260,12 +267,14 @@
   speakers: [15, 19]
   description: "Workshop"
   hidden: true
+  presentation: "https://www.eventbrite.com.au/e/introduction-to-web-scraping-tickets-195541067597"
 -
   id: 033
   title: "An Introduction to Digital Texts and Tools for HASS Research"
   description: "Workshop"
   speakers: [17, 20]
   hidden: true
+  presentation: "https://www.eventbrite.com.au/e/introduction-to-digital-texts-and-tools-for-hass-research-tickets-195542521947"
 -
   id: 034
   title: "Key Story - Dr Stephanie Chaousis"
@@ -278,12 +287,14 @@
   description: "Hands-on workshop on data cleanup."
   hidden: true
   speakers: [17]
+  presentation: "https://www.eventbrite.com.au/e/introduction-to-data-wrangling-with-openrefine-tickets-195543284227"
 -
   id: 036
   title: "Data Visualisation Basics"
   description: "Hands-on workshop on data visualisation tools and techniques"
   hidden: true
   speakers: [15, 16]
+  presentation: "https://www.eventbrite.com.au/e/data-visualisation-basics-tickets-195546273167"
 -
   id: 037
   title: "What is the Australian Biocommons?"
@@ -296,6 +307,7 @@
   subtype: workshop
   complexity: "Beginner" 
   speakers: [18]
+  presentation: "https://www.eventbrite.com.au/e/software-carpentry-introduction-to-task-automation-with-the-unix-shell-tickets-195555049417"
 -
   id: 039
   title: "Introduction to the Nectar Cloud: a hands-on workshop"
@@ -331,7 +343,7 @@
   description: "Panel discussion"
   complexity: "Beginner" 
   speakers: [21, 18, 23]
-  link: "https://padlet.com/gbarbour2/rfaxmqb50hgbdo0s"
+  presentation: "https://padlet.com/gbarbour2/rfaxmqb50hgbdo0s"
 -
   id: 044
   title: "Acquire and Visualise OpenStreetMap Data with R"
@@ -339,6 +351,7 @@
   subtype: workshop
   complexity: "Intermediate" 
   speakers: [30]
+  presentation: "https://www.eventbrite.com.au/e/acquire-and-visualise-openstreetmap-data-with-r-tickets-194850431887"
 -
   id: 045
   title: "Brisbane Closing Ceremony"
