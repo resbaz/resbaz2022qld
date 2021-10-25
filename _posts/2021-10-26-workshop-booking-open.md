@@ -1,12 +1,16 @@
 ---
 layout: post
 title:  "Book your workshop place"
-date:   2021-10-27
+date:   2021-10-26
 isStaticPost: false
 image: balloons.jpg
 ---
 
 ### Workshop bookings are open
+
+If you have registered for ResBaz, you can now book into workshops.
+
+All workshop bookings are **free of charge**, but you will need your **ResBaz ticket number** to proceed with booking any workshops. More workshops may be added but this is the list so far.
 
 
 |Event location |Workshop Title | Date  | Time| Capacity | Booking link |
