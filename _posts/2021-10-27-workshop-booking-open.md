@@ -11,7 +11,6 @@ image: balloons.jpg
 
 |Workshop Title | Date  | Time| Capacity | Booking link |
 --- | --- | --- | --- |--- |
-
 | Collecting Data From the Web | 	Wednesday, 24 November 2021 | 9:30 am	| 25	| https://www.eventbrite.com.au/e/collecting-data-from-the-web-tickets-194110388397|
 | Software Carpentry: Introduction to Task Automation with the Unix Shell | Wednesday, 24 November 2021 | 2:15 pm	| 40	| https://www.eventbrite.com.au/e/software-carpentry-introduction-to-task-automation-with-the-unix-shell-tickets-195555049417|
 | Introduction to Machine Learning for Imaging | Wednesday, 24 November 2021 | 1:30 pm	| 25	| https://www.eventbrite.com.au/e/introduction-to-machine-learning-for-imaging-tickets-194830763057|
