@@ -382,3 +382,9 @@
   speakers: [30]
   subtype: workshop
 -
+  id: 050
+  title: "Creating a Sustained Movement for Social Change in Academia (Project Free Our Knowledge)"
+  description: "Dr Cooper Smout, a postdoc at the Queensland Brain Institute, will discuss his plans to help researchers organise grassroots action in support of open and reproducible research practices."
+  speakers: [36]
+  subtype: talk
+-
