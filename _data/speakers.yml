@@ -31,15 +31,13 @@
     - {abbr: "DES", title: "DES", url: "https://www.des.qld.gov.au/"}
 -
   id: 3
-  name: "Dr Sara"
-  surname: "King"
-  company: "AARNet"
-  title: "Training and Engagement Lead"
-  bio: "Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is currently working on creating reusable guidance information for Jupyter Notebooks and other AARNet services to be adapted for Carpentry training workshops. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone."
-  thumbnailUrl: "saraking.jpg"
-  rockstar: true 
+  name: "Dr Peter"
+  surname: "Binks"
+  title: "Vice-President, Industry and External Engagement, Griffith University"
+  thumbnailUrl: "peter-binks.jpg"
+  rockstar: true
   ribbon:
-    - {abbr: "AARNet", title: "Training and Engagement Lead", url: "https://www.aarnet.edu.au/"}
+    - {abbr: "Griffith University", title: "Vice-President, Industry and External Engagement", url: "https://www.griffith.edu.au/engage"}
 -
   id: 4
   name: "Dr Zeinab"
@@ -73,14 +71,15 @@
     - {abbr: "IMB", title: "UQ Institute of Molecular Bioscience", url: "http://www.imb.uq.edu.au/nick-hamilton"}
 -
   id: 7
-  name: "Dr Aneesha"
-  surname: "Bakharia"
-  title: "Learning Analytics Manager, Institute for Teaching and Learning Innovation"
-  bio: "Aneesha began her career as an electronics engineer but quickly transitioned to an educational software developer. Aneesha has worked in the higher education and vocational educational sectors in a variety of technical, innovation and project management roles. In her most recent role before commencing at UQ, Aneesha was a project manager for a large OLT Teaching and Learning grant on Learning Analytics at QUT."
-  thumbnailUrl: "aneesha-bakharia.jpg"
-  rockstar: true
+  name: "Dr Sara"
+  surname: "King"
+  company: "AARNet"
+  title: "Training and Engagement Lead"
+  bio: "Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is currently working on creating reusable guidance information for Jupyter Notebooks and other AARNet services to be adapted for Carpentry training workshops. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone."
+  thumbnailUrl: "saraking.jpg"
+  rockstar: true 
   ribbon:
-    - {abbr: "ITaLI", title: "Learning Analytics Manager", url: "https://itali.uq.edu.au/profile/554/aneesha-bakharia"}
+    - {abbr: "AARNet", title: "Training and Engagement Lead", url: "https://www.aarnet.edu.au/"}
 -
   id: 8
   name: "Amanda"
@@ -93,13 +92,14 @@
      - {abbr: "Griffith", title: "eResearch Analyst", url: "https://www.griffith.edu.au"}
 -
   id: 9
-  name: "Dr Peter"
-  surname: "Binks"
-  title: "VP, Industry and External Engagement"
-  thumbnailUrl: "peter-binks.jpg"
+  name: "Dr Aneesha"
+  surname: "Bakharia"
+  title: "Learning Analytics Manager, Institute for Teaching and Learning Innovation"
+  bio: "Aneesha began her career as an electronics engineer but quickly transitioned to an educational software developer. Aneesha has worked in the higher education and vocational educational sectors in a variety of technical, innovation and project management roles. In her most recent role before commencing at UQ, Aneesha was a project manager for a large OLT Teaching and Learning grant on Learning Analytics at QUT."
+  thumbnailUrl: "aneesha-bakharia.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "Griffith", title: "VPIEE", url: "https://www.griffith.edu.au"}
+    - {abbr: "ITaLI", title: "Learning Analytics Manager", url: "https://itali.uq.edu.au/profile/554/aneesha-bakharia"}
 -
   id: 10
   name: "Professor Joe"
