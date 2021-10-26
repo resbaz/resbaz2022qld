@@ -376,3 +376,9 @@
   description: "Wrap-up and feedback session."
   speakers: [35]
 -
+  id: 049
+  title: "Introduction to R"
+  description: "Introduction to the R programming language."
+  speakers: [30]
+  subtype: workshop
+-
