@@ -75,7 +75,7 @@
   title: "Software Carpentry with Python"
   description: "The workshop will cover task automation in the Unix shell, version control with Git and introduce programming in Python."
   subtype: workshop
-  speakers: [8]
+  speakers: [13]
   complexity: "Beginner"
 -
   id: 002
@@ -95,7 +95,7 @@
   title: "Create an Open CV"
   description: "How to use GitHub Pages to create a version controlled, open CV."
   subtype: workshop
-  speakers: [8]
+  speakers: [13]
 -
   id: 005
   title: "The Gale Digital Scholar Lab: Getting started with your research"
@@ -108,7 +108,7 @@
   description: "A short hands on training workshop introducing machine learning for imaging. In the first part of the workshop a brief introduction to the ideas of machine learning as they apply to image classification and segmentation is given. In the second part, the Trainable WEKA framework available in ImageJ/Fiji is introduced, and the participants are led through a series of hands on exercises on creating and applying classifiers for segmentation."
   subtype: workshop
   complexity: "Intermediate" 
-  speakers: [13]
+  speakers: [8]
   presentation: "https://www.eventbrite.com.au/e/introduction-to-machine-learning-for-imaging-tickets-194830763057"
 -
   id: 007
