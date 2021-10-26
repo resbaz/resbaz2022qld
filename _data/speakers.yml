@@ -359,3 +359,13 @@
   ribbon:
     - {abbr: "Griffith", title: "Researcher Services", url: "https://www.griffith.edu.au/library"}
 -
+  id: 36
+  name: "Dr Cooper"
+  surname: "Smout"
+  title: "Postdoc at the Queensland Brain Institute"
+  bio: "Cooper plans to help researchers organise grassroots action in support of open and reproducible research practices."
+  thumbnailUrl: "cooper-smout.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "QBI", title: "Project Free Our Knowledge", url: "https://coopersmout.com/about/"}
+-
