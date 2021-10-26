@@ -108,7 +108,7 @@
   description: "A short hands on training workshop introducing machine learning for imaging. In the first part of the workshop a brief introduction to the ideas of machine learning as they apply to image classification and segmentation is given. In the second part, the Trainable WEKA framework available in ImageJ/Fiji is introduced, and the participants are led through a series of hands on exercises on creating and applying classifiers for segmentation."
   subtype: workshop
   complexity: "Intermediate" 
-  speakers: [6]
+  speakers: [13]
   presentation: "https://www.eventbrite.com.au/e/introduction-to-machine-learning-for-imaging-tickets-194830763057"
 -
   id: 007
@@ -279,7 +279,7 @@
   id: 034
   title: "Key Story - Dr Stephanie Chaousis"
   description: "Dr Chaousis is the Partnerships Manager of Datarwe"
-  speakers: [13]
+  speakers: [6]
   hidden: true
 -
   id: 035
