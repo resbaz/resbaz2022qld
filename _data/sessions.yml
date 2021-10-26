@@ -81,7 +81,7 @@
   id: 002
   title: "Introduction to Jupyter Notebooks"
   description: "Dr Sara King from AARNet will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data. You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research. By the end of the workshop you will have a good understanding of what Notebooks can do, how to open one up, perform some basic tasks and save it for later. If you are really into it, you will also be able to continue to experiment after the workshop by using other people’s notebooks as springboards for your own adventures! This workshop is targeted at those who are absolute beginners or ‘tech-curious’. It includes a hands-on component, using basic programming commands, but requires no previous knowledge of programming."
-  speakers: [3]
+  speakers: [7]
   subtype: workshop
   presentation: "https://www.eventbrite.com.au/e/introduction-to-jupyter-notebooks-tickets-194834012777"
 -
@@ -123,7 +123,7 @@
   title: "Graduate Digital Research Fellows"
   description: "Participants in this UQ-run program will talk about how the program has enhanced their research skills."
   complexity: "Beginner" 
--
+  subtype: talk
   id: 009
   title: "Galaxy Australia: an analytical service for Australian Life Scientists"
   description: "Galaxy Australia is the 'Bring Your Own Data' analytical service for Australian life science researchers. It is a web portal to nationally distributed computer resources for the running of over 1,000 of the latest and best practice tools. It comes loaded with the most commonly accessed reference data to speed up your analyses. This workshop will introduce Galaxy and through two hands-on tutorials showcase how to use the service to rapidly and reproducibly analyse your data. BYO laptop, Chrome browser and web access."
@@ -155,7 +155,7 @@
   title: "Network Know-how & Data Handling"
   description: "Dr Sara King from AARNet will show you how to: 1) Understand the basic differences between the different Internet technologies and connection types and in Australia and how to make the most of them. 2) Describe and define different network and data movement concepts (jargon busting). 3) Perform speed, ping and traceroute tests to check your Internet connection. 4) Calculate data transfer times. 5) Understand various network and connectivity constraints. 6) Transfer large amounts of data via the network. 7) Sync, store and share your research data safely. 8 0 Search for more advanced options for data movement and know where to go for help."
   subtype: workshop
-  speakers: [3]
+  speakers: [7]
   hidden: true
   presentation: "https://www.eventbrite.com.au/e/network-know-how-and-data-handling-tickets-198059149247"
 -
@@ -171,7 +171,7 @@
   description: "Talk by Dr Aneesha Bakharia."
   hidden: true
   complexity: "Beginner" 
-  speakers: [7]
+  speakers: [9]
 -  
   id: 017
   title: "Advanced Image Processing and Analysis with FIJI"
@@ -193,7 +193,7 @@
   complexity: "Beginner" 
 -
   id: 020
-  title: "Opening Address: Julia Playford, Executive Director of Science Development, Queensland Department of Environment and Science (Auditorium)"
+  title: "Opening Address: Julia Playford, Executive Director of Science Development, Queensland Department of Environment and Science"
   description: "Opening talk (includes Acknowledgment of Country)"
   complexity: "Beginner" 
   speakers: [2]
@@ -223,7 +223,7 @@
 -
   id: 025
   title: "Key Story - Dr Peter Binks: The Importance of Engagement"
-  speakers: [9]
+  speakers: [3]
   hidden: true
 -
   id: 026
