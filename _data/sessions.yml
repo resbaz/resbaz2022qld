@@ -333,8 +333,8 @@
 -
   id: 042
   title: "Introduction to Sensitive Data"
-  description: "Mark Hoffman presents the key things you need to know."
-  description: "Talk"
+  description: "Mark Hoffman presents the key things you need to know in this hands-on session."
+  subtype: workshop
   complexity: "Beginner" 
   speakers: [26]
 -
