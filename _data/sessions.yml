@@ -339,9 +339,9 @@
   speakers: [26]
 -
   id: 043
-  title: "Open Access - Open Research - Open Science ... All the shades of open: ask us anything!"
+  title: "Panel: Open Access - Open Research - Open Science ... All the shades of open: ask us anything!"
   description: "Not sure what open access, open research and open science mean? Heard some myths that have left you confused? This panel will help you to navigate this complex but exciting world, give you pointers to tools and resources and slay some myths along the way. Join us for an interactive session where no question is out of bounds. Submit a question for discussion beforehand or ask it on the day."
-  description: "Panel discussion"
+  subtype: panel
   complexity: "Beginner" 
   speakers: [21, 18, 23]
   presentation: "https://padlet.com/gbarbour2/rfaxmqb50hgbdo0s"
