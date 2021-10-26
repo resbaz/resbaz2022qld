@@ -82,14 +82,14 @@
     - {abbr: "AARNet", title: "Training and Engagement Lead", url: "https://www.aarnet.edu.au/"}
 -
   id: 8
-  name: "Amanda"
-  surname: "Miotto"
-  title: "eResearch Analyst"
-  bio: "Amanda Miotto is an eResearch Analyst, within eResearch and Specialised Advisory, Research, Specialised and Data Foundations, Griffith University."
-  thumbnailUrl: "manda.jpg"
+  name: "Dr Nicholas"
+  surname: "Hamilton"
+  title: "Institute BioMathematician"
+  bio: "Dr Nick is the Institute Bio-Mathematician at the Institute for Molecular Bioscience (IMB), The University of Queensland, and holds a co-appointment as Senior Machine Learning Consultant with the Research Computing Centre at UQ. At IMB he leads a group in machine learning, bio-image informatics, mathematical modelling, and data visualisation."
+  thumbnailUrl: "dr-nick.jpg"
   rockstar: true
   ribbon:
-     - {abbr: "Griffith", title: "eResearch Analyst", url: "https://www.griffith.edu.au"}
+    - {abbr: "IMB", title: "UQ Institute of Molecular Bioscience", url: "http://www.imb.uq.edu.au/nick-hamilton"}
 -
   id: 9
   name: "Dr Aneesha"
@@ -130,14 +130,14 @@
     - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
 -
   id: 13
-  name: "Dr Nicholas"
-  surname: "Hamilton"
-  title: "Institute BioMathematician"
-  bio: "Dr Nick is the Institute Bio-Mathematician at the Institute for Molecular Bioscience (IMB), The University of Queensland, and holds a co-appointment as Senior Machine Learning Consultant with the Research Computing Centre at UQ. At IMB he leads a group in machine learning, bio-image informatics, mathematical modelling, and data visualisation."
-  thumbnailUrl: "dr-nick.jpg"
+  name: "Amanda"
+  surname: "Miotto"
+  title: "eResearch Analyst"
+  bio: "Amanda Miotto is an eResearch Analyst, within eResearch and Specialised Advisory, Research, Specialised and Data Foundations, Griffith University."
+  thumbnailUrl: "manda.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "IMB", title: "UQ Institute of Molecular Bioscience", url: "http://www.imb.uq.edu.au/nick-hamilton"}
+     - {abbr: "Griffith", title: "eResearch Analyst", url: "https://www.griffith.edu.au"}
 -
   id: 14
   name: "Dr Kathryn"
