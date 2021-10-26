@@ -61,14 +61,14 @@
     - {abbr: "Statistics", title: "AEL, Griffith University", url: "https://www.griffith.edu.au/arts-education-law"}
 -
   id: 6
-  name: "Dr Nicholas"
-  surname: "Hamilton"
-  title: "Institute BioMathematician"
-  bio: "Dr Nick is the Institute Bio-Mathematician at the Institute for Molecular Bioscience (IMB), The University of Queensland, and holds a co-appointment as Senior Machine Learning Consultant with the Research Computing Centre at UQ. At IMB he leads a group in machine learning, bio-image informatics, mathematical modelling, and data visualisation."
-  thumbnailUrl: "dr-nick.jpg"
+  name: "Dr Stephanie"
+  surname: "Chaousis"
+  title: "Partnerships Manager, Datarwe"
+  bio: "Dr Chaousis is the Partnerships Manager for Datarwe, a data-driven technology company that provides an acute care medical research data platform as a service."
+  thumbnailUrl: "stephanie-chaousis.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "IMB", title: "UQ Institute of Molecular Bioscience", url: "http://www.imb.uq.edu.au/nick-hamilton"}
+    - {abbr: "Datarwe", title: "AI", url: "https://datarwe.com/"}
 -
   id: 7
   name: "Dr Sara"
@@ -130,14 +130,14 @@
     - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
 -
   id: 13
-  name: "Dr Stephanie"
-  surname: "Chaousis"
-  title: "Partnerships Manager, Datarwe"
-  bio: "Dr Chaousis is the Partnerships Manager for Datarwe, a data-driven technology company that provides an acute care medical research data platform as a service."
-  thumbnailUrl: "stephanie-chaousis.jpg"
+  name: "Dr Nicholas"
+  surname: "Hamilton"
+  title: "Institute BioMathematician"
+  bio: "Dr Nick is the Institute Bio-Mathematician at the Institute for Molecular Bioscience (IMB), The University of Queensland, and holds a co-appointment as Senior Machine Learning Consultant with the Research Computing Centre at UQ. At IMB he leads a group in machine learning, bio-image informatics, mathematical modelling, and data visualisation."
+  thumbnailUrl: "dr-nick.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "Datarwe", title: "AI", url: "https://datarwe.com/"}
+    - {abbr: "IMB", title: "UQ Institute of Molecular Bioscience", url: "http://www.imb.uq.edu.au/nick-hamilton"}
 -
   id: 14
   name: "Dr Kathryn"
