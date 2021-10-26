@@ -73,7 +73,7 @@
 -
   id: 001
   title: "Software Carpentry with Python"
-  description: "The workshop will cover task automation in the Unix shell, version control with Git and introduce programming in Python."
+  description: "The two-day, hands-on, code-along workshop will introduce programming in Python. BYO laptop."
   subtype: workshop
   speakers: [13]
   complexity: "Beginner"
