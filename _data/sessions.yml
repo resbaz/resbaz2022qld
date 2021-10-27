@@ -333,7 +333,7 @@
 -
   id: 041
   title: "HPC Carpentry"
-  description: "Hands on Workshop about using and accessing HPC. BYO laptop."
+  description: "This is a full day, hands-on Workshop about using and accessing HPC. BYO laptop."
   subtype: workshop
   complexity: "Intermediate" 
   speakers: [27]
