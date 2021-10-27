@@ -96,17 +96,17 @@
     - {
       startTime: "13:30",
       endTime: "14:00",
-      sessionIds: [201, 037, 008, 001, 040]
+      sessionIds: [201, 037, 040, 001, 041]
     }
     - {
       startTime: "14:00",
       endTime: "14:30",
-      sessionIds: [202, 008, 050, 001, 040]
+      sessionIds: [202, 050, 040, 001, 041]
     }
     - {
       startTime: "14:30",
       endTime: "16:30",
-      sessionIds: [019, 005, 004, 001, 022]
+      sessionIds: [005, 022, 004, 001, 041]
     }
 - 
   date: "2021-11-26"
@@ -121,7 +121,7 @@
     - {
       startTime: "09:00",
       endTime: "11:00",
-      sessionIds: [018, 014, 028, 049, 019]
+      sessionIds: [018, 014, 028, 049, 008]
     }
     - {
       startTime: "11:00",
