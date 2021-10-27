@@ -27,7 +27,7 @@
   id: 200
   title: "Dr Zeinab Khalil: Key Story - Soils 4 Science"
   description: "Soils 4 Science is a citizen science project based at UQ's IMB that is dedicated to finding new antibiotics needed in the fight against the scourge of drug-resistant infections, better known as superbugs. Microbe-inspired products are the source of >50% of all antibiotics in use today. Healthcare systems are increasingly confronted by multi-drug resistant pathogens such as methicillin-resistant Staphylococcus aureus (MRSA) that are resistant to most, even all, existing antibiotics. Illustrative of the risk posed by infectious diseases, the COVID-19 pandemic infected >120 million people leading to ~2.7M deaths worldwide. Our ability to deploy new approaches to vaccine development, including mRNA platform technology, enabled a swift response to this healthcare crisis. Similar investment in antibiotic preparedness is essential if we are to be ready for an even bigger infectious disease tsunami in the years ahead. Confronted by the loss of existing antibiotic treatments, and rising incidences of morbidity and mortality, the case for the identification of new antibiotics is clearly paramount to the current national and global healthcare priorities. Therefore, we established the FIRST Soils for Science Citizen Science Australian Program, including equipments, APP & website, that gave the general public a unique opportunity to work with scientists to discover new antibiotics from soil bacteria. This program engaged the public with the global issue of antimicrobial resistance through a practical soil-based activity, to address the challenges associated with the discovery of novel antibiotics."
-  description: "Talk"
+  subtype: talk
   speakers: [4]
 -
   id: 101
@@ -93,7 +93,7 @@
 -
   id: 004
   title: "Create an Open CV"
-  description: "How to use GitHub Pages to create a version controlled, open CV."
+  description: "How to use GitHub Pages to create a version controlled, open CV. BYO laptop for this hands-on session."
   subtype: workshop
   speakers: [13]
 -
@@ -105,7 +105,7 @@
 -
   id: 006
   title: "Introduction to Machine Learning for Imaging"
-  description: "A short hands on training workshop introducing machine learning for imaging. In the first part of the workshop a brief introduction to the ideas of machine learning as they apply to image classification and segmentation is given. In the second part, the Trainable WEKA framework available in ImageJ/Fiji is introduced, and the participants are led through a series of hands on exercises on creating and applying classifiers for segmentation."
+  description: "BYO laptop for this hands-on training workshop introducing machine learning for imaging. In the first part of the workshop a brief introduction to the ideas of machine learning as they apply to image classification and segmentation is given. In the second part, the Trainable WEKA framework available in ImageJ/Fiji is introduced, and the participants are led through a series of hands on exercises on creating and applying classifiers for segmentation."
   subtype: workshop
   complexity: "Intermediate" 
   speakers: [8]
@@ -113,7 +113,7 @@
 -
   id: 007
   title: "Collecting Data from the Web"
-  description: "A short hands on training workshop by Sam Hames."
+  description: "A short hands on training workshop by Sam Hames. BYO laptop so you can follow along."
   subtype: workshop
   complexity: "Beginner" 
   speakers: [11]
@@ -135,7 +135,7 @@
 -
   id: 010
   title: "What is the Nectar Cloud?"
-  description: "What is the Nectar cloud, and why would you use it?"
+  description: "What is the Australian research cloud, and why would you use it?"
   complexity: "Beginner" 
   subtype: talk
   speakers: [24]
@@ -154,7 +154,7 @@
 -
   id: 014
   title: "Network Know-how & Data Handling"
-  description: "Dr Sara King from AARNet will show you how to: 1) Understand the basic differences between the different Internet technologies and connection types and in Australia and how to make the most of them. 2) Describe and define different network and data movement concepts (jargon busting). 3) Perform speed, ping and traceroute tests to check your Internet connection. 4) Calculate data transfer times. 5) Understand various network and connectivity constraints. 6) Transfer large amounts of data via the network. 7) Sync, store and share your research data safely. 8 0 Search for more advanced options for data movement and know where to go for help."
+  description: "Dr Sara King from AARNet will show you how to: 1) Understand the basic differences between the different Internet technologies and connection types and in Australia and how to make the most of them. 2) Describe and define different network and data movement concepts (jargon busting). 3) Perform speed, ping and traceroute tests to check your Internet connection. 4) Calculate data transfer times. 5) Understand various network and connectivity constraints. 6) Transfer large amounts of data via the network. 7) Sync, store and share your research data safely. 8 0 Search for more advanced options for data movement and know where to go for help. BYO laptop."
   subtype: workshop
   speakers: [7]
   hidden: true
@@ -162,7 +162,7 @@
 -
   id: 015
   title: "Getting started with HPC"
-  description: "This session will cover considerations on high performance computing and what you need to know to use a HPC. It will introduce attendees to the uses of HPC and answer entry level questions."
+  description: "This session will cover considerations on high performance computing and what you need to know to use a HPC. It will introduce attendees to the uses of HPC and answer entry level questions. BYO laptop to participate."
   hidden: true
   complexity: "Beginner" 
   speakers: [31]
@@ -176,7 +176,7 @@
 -  
   id: 017
   title: "Advanced Image Processing and Analysis with FIJI"
-  description: "Presented by Nick Condon and Deborah Barkauskas."
+  description: "Presented by Nick Condon and Deborah Barkauskas. BYO laptop."
   subtype: workshop
   complexity: "Intermediate" 
   speakers: [33]
@@ -185,16 +185,17 @@
   title: "Copyright Considerations for Researchers"
   description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
   speakers: [23]
+  subtype: talk
   complexity: "Beginner" 
 -
   id: 019
   title: "Open Mic"
-  description: "Free space for attendees to speak or teach"
+  description: "Free session for attendees to speak or teach."
   hidden: true
   complexity: "Beginner" 
 -
   id: 020
-  title: "Opening Address: Julia Playford, Executive Director of Science Development, Queensland Department of Environment and Science"
+  title: "Opening Address: Dr Julia Playford, Executive Director of Science Development, Queensland Department of Environment and Science"
   description: "Opening talk (includes Acknowledgment of Country)"
   complexity: "Beginner" 
   speakers: [2]
@@ -225,17 +226,20 @@
   id: 025
   title: "Key Story - Dr Peter Binks: The Importance of Engagement"
   speakers: [3]
+  subtype: talk
   hidden: true
 -
   id: 026
   title: "What is the Characterisation Virtual Laboratory (CVL)?"
   description: "An introduction to the Characterisation Virtual Laboratory (CVL) for processing large imaging and characterisation data sets using GPU processing on HPC. The rate, quantity and quality of imaging science data acquisition is increasing exponentially.  Researchers need defined, reliable and rapid pathways that they can use to process these data.  The ACCS (Australian Characterisation Commons at Scale) Project offers solutions to this critical need.  The flagship capability of the ACCS Project is the CVL (Characterisation Virtual Laboratory) (www.cvl.org.au).  The CVL offers a unique virtual space where researchers can access HPC capabilities and analyse their datasets using graphical interfaces for dozens of specialist LINUX packages.  CVL is available to all Australian researchers working in imaging and characterisation sciences using their AAF login.  Via the Strudel2 deployment over a web interface, researchers can access multiple deployments of CVL across Australia, depending on their specific tool needs and/or institutional affiliation.  The CVL enables researchers to easily access HPC setups from their own PCs over the internet for processing large volumes of imaging data on remote systems.  With 3 preset virtual desktop configurations, researchers can opt for basic, intermediate or heavy compute setups, enabling rapid analysis of terabyte-sized datasets.  CVL comes preinstalled with dozens of imaging tools, and through the ACCS, has a team ready to install new packages in response to the changing needs of the community.  The ACCS project aims to show researchers how they acquire data, move it into the CVL, and then export it back to their collections, completing a fully integrated workflow.  In this way, CVL and ACCS bring data full circle from acquisition to final FAIR deposition."
+  subtype: talk
   speakers: [14]
 -
   id: 027
   title: "Setting up an Account to Access the Characterisation Virtual Laboratory (CVL)"
   description: "In this presentation, I will provide explicit instructions on how to decide which node of CVL is right for you, and then how to access the CVL and set up your account.  This will be a hands-on session and I will be stepping you through the pathway to establish your account and integrate your data collection.  Accounts to CVL are provisioned manually, so there will be some lag-time between applying for an account and being able to use the CVL.  I will run a follow-up session to show you how to work within the CVL environment."
   speakers: [14]
+  subtype: workshop
   hidden: true
   presentation: "https://www.eventbrite.com.au/e/setting-up-an-account-to-access-the-cvl-tickets-194841114017"
 -
@@ -243,6 +247,7 @@
   title: "Data Transfer Methods for the Characterisation Virtual Laboratory (CVL)"
   description: "In this follow-up session, CVL account holders can work through the steps to move data in and out of the analysis environment.  I will show you how images acquired from instruments can be ingested directly into collections with newly emerging workflows (like Pitschi).  Your data collections will then available within the CVL, ready for analysis.  For those not yet connected with Pitschi, tools like FileZilla for sFTP or Globus can be used to transfer data collections.  We will work through how analysed and annotated data can be exported back to collections, ready for repository storage."
   speakers: [14]
+  subtype: workshop
   hidden: true
   presentation: "https://www.eventbrite.com.au/e/data-transfer-methods-for-the-characterisation-virtual-laboratory-cvl-tickets-194848466007"
 -
@@ -250,6 +255,7 @@
   title: "Research Software Visible, Citable and Sustained: the ARDC Software Program"
   description: "Across science disciplines, software code is being written by scientists and deemed critical to research conclusions. This is evidenced by an increasing number of papers reporting the use of customised software code to process and analyse data. Although data and code sharing policy exists, publishing the details of bespoke software is not yet a general practice. Accessibility mechanisms for provision of the source code as part of a publication or pre-print are technically a solved problem. For example, we have free access to version control systems, persistent identifiers, archiving tools, licenses and dedicated software repositories. Policy at various levels either recommend or mandate software availability statements. These policies exist in support of validating techniques and results, computational replicability and reproducibility, and the increased likelihood for research peers to use and build on methods. The ARDC is proposing a strategy for culture change, with the greater aim of improving recognition of research software as a first-class research output. To attain this goal we need to coordinate activities with research software authors to See, Shape and Sustain research software. Our target audience are PhDs and EMCRs investing the most of their time writing, testing and maintaining research software. We aim to increase the visibility of research software projects for broadest use and reuse. Boost incentives such as crediting authors for their research efforts and for supporting computational reproducibility. We envision the impact of these activities will encourage more researchers to improve the quality of their code and promote research excellence."
   speakers: [12]
+  subtype: talk
   hidden: true
 -
   id: 030
@@ -279,13 +285,13 @@
 -
   id: 034
   title: "Key Story - Dr Stephanie Chaousis"
-  description: "Dr Chaousis is the Partnerships Manager of Datarwe"
+  description: "Dr Chaousis is the Partnerships Manager of Datarwe."
   speakers: [6]
   hidden: true
 -
   id: 035
   title: "Introduction to Data Wrangling with OpenRefine"
-  description: "Hands-on workshop on data cleanup."
+  description: "Hands-on workshop on using OpenRefine with messy, missing or inconsistent data and data cleanup."
   hidden: true
   speakers: [17]
   presentation: "https://www.eventbrite.com.au/e/introduction-to-data-wrangling-with-openrefine-tickets-195543284227"
@@ -301,10 +307,11 @@
   title: "What is the Australian Biocommons?"
   description: "Dr Melissa Burke will introduce the Australian Biocommons, whose mission includes actively supporting life science research communities with community scale digital infrastructure developed and maintained in concert with international peer infrastructures. "
   speakers: [22]
+  subtype: talk
 -
   id: 038
   title: "Software Carpentry session: Introduction to Task Automation with the Unix shell"
-  description: "Learn how to automate tasks with the Unix Shell. This is hands on training. Attendees will need to bring their own laptops."
+  description: "Learn how to automate tasks with the Unix Shell. This is hands-on training. Attendees will need to bring their own laptops."
   subtype: workshop
   complexity: "Beginner" 
   speakers: [18]
@@ -319,21 +326,21 @@
 -
   id: 040
   title: "Oh, No, My Data Has Outgrown My Spreadsheet!"
-  description: "How to go beyond Excel and work with large tabular data"
+  description: "How to go beyond Excel and work with large tabular data. BYO laptop."
   subtype: workshop
   complexity: "Beginner" 
   speakers: [25]
 -
   id: 041
   title: "HPC Carpentry"
-  description: "Hands on Workshop about using and accessing HPC."
+  description: "Hands on Workshop about using and accessing HPC. BYO laptop."
   subtype: workshop
   complexity: "Intermediate" 
   speakers: [27]
 -
   id: 042
   title: "Introduction to Sensitive Data"
-  description: "Mark Hoffman presents the key things you need to know in this hands-on session."
+  description: "Mark Hoffman presents the key things you need to know in this hands-on session. BYO laptop."
   subtype: workshop
   complexity: "Beginner" 
   speakers: [26]
@@ -348,7 +355,7 @@
 -
   id: 044
   title: "Acquire and Visualise OpenStreetMap Data with R"
-  description: "Stephane Guillou will show you how how to use a variety of R packages to get and visualise OpenStreetMap (OSM) data. As an interactive, open-source, high-level programming language designed for data science, R is a great fit for dealing with OpenStreetMap data and introducing beginners to reproducible scientific computing."
+  description: "Stéphane Guillou will show you how how to use a variety of R packages to get and visualise OpenStreetMap (OSM) data. As an interactive, open-source, high-level programming language designed for data science, R is a great fit for dealing with OpenStreetMap data and introducing beginners to reproducible scientific computing."
   subtype: workshop
   complexity: "Intermediate" 
   speakers: [30]
@@ -378,7 +385,7 @@
 -
   id: 049
   title: "Introduction to R"
-  description: "Introduction to the R programming language."
+  description: "Introduction to the R programming language with Stéphane Guillou. BYO laptop."
   speakers: [30]
   subtype: workshop
 -
