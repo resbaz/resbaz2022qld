@@ -24,7 +24,7 @@
   name: "Dr Julia"
   surname: "Playford"
   title: "Executive Director"
-  bio: "Julia is the Executive Director of Science development at the Queensland Department of Environment and Science."
+  bio: "Julia is the Executive Director of Science Development at the Queensland Department of Environment and Science."
   thumbnailUrl: "julia-playford.jpg"
   rockstar: true
   ribbon:
@@ -34,6 +34,7 @@
   name: "Dr Peter"
   surname: "Binks"
   title: "Vice-President, Industry and External Engagement, Griffith University"
+  bio: "Peter is a former CEO of the Business Higher Education Round Table (BHERT), of the General Sir John Monash Foundation, of the Garnet Passe & Rodney Williams Memorial Foundation, and of Nanotechnology Victoria. Peter studied quantum mechanics at the University of Tasmania, and completed a Doctor of Philosophy at Oxford University, addressing the structure of galaxies. He retains a commitment to science education, and has served on the Advisory Boards of In2science and the Institute of Railway Technology. He is a Director of Engagement Australia, and an advisor to the Centre for Policy Development."
   thumbnailUrl: "peter-binks.jpg"
   rockstar: true
   ribbon:
@@ -143,7 +144,7 @@
   name: "Dr Kathryn"
   surname: "Hall"
   title: "Training and Community Engagement Manager"
-  bio: "Kathry is the Training and Community Engagement Manager at the National Imaging Facility."
+  bio: "Kathryn is the Training and Community Engagement Manager at the National Imaging Facility."
   thumbnailUrl: "kathryn-hall.jpg"
   rockstar: true
   ribbon:
@@ -163,7 +164,7 @@
   name: "Julie"
   surname: "Somers"
   title: "Digital Capability Adviser"
-  bio: "Julie is a DCA at Griffith University Library."
+  bio: "Julie is a Digital Capability Adviser at Griffith University Library."
   thumbnailUrl: "julie-somers.jpg"
   rockstar: true
   ribbon:
@@ -183,7 +184,7 @@
   name: "Belinda"
   surname: "Weaver"
   title: "Library Academic Engagement"
-  bio: "Belinda has taught more than 50 Carpentries workshops around the world. She is the Head of Academic Engagement Services (AES) at Griffith University Library."
+  bio: "Belinda Weaver is the Head of Academic Engagement Services (AES) at Griffith University Library. She has taught more than 50 Carpentries workshops around the world. She recently completed an MPhil at UQ on the efficacy and usefulness of Software Carpentry training."
   thumbnailUrl: "belinda-weaver.jpg"
   rockstar: true
   ribbon:
@@ -192,7 +193,7 @@
   id: 19
   name: "Brett"
   surname: "Parker"
-  title: "Library Research Specialist"
+  title: "Senior Functional Analyst"
   bio: "Brett is a Senior Functional Analyst in eResearch and Specialised Platforms, Research, Specialised and Data Foundations, at Griffith University."
   thumbnailUrl: "brett-parker.jpg"
   rockstar: true
@@ -213,6 +214,7 @@
   name: "Professor Ginny"
   surname: "Barbour"
   title: "Director, Open Access Australasia"
+  bio: "Virginia (Ginny) Barbour is Co-Lead, Office for Scholarly Communications, Queensland University of Technology (QUT). She is Director of Open Access Australasia (previously Australasian Open Access Strategy Group) . She has a medical degree from Cambridge University, and a DPhil from the University of Oxford.  In 2004, she was one of the three founding editors of PLOS Medicine. She then became Chief Editor of PLOS Medicine, and then Medicine Editorial Director, finally becoming Medicine and Biology Editorial Director of PLOS from 2014 until 2015. She has been involved with many Open Access, publishing, and ethics initiatives including Chair of COPE (2012-2017), Chair of DORA Advisory Group, Chair of Cochrane Library Oversight Committee, and as a Plan S Ambassador. She is on the NHMRC's Research Quality Steering Committee."
   thumbnailUrl: "ginny-barbour.jpg"
   rockstar: true
   ribbon:
@@ -232,7 +234,7 @@
   name: "Katya"
   surname: "Henry"
   title: "University Copyright Officer"
-  bio: "Katya Henry is the University Copyright Officer at Queensland University of Technology and the Creative Commons Global Network Representative for the CC Australia Chapter. She is a passionate advocate for open access and open education, and is deeply committed to the role librarians play in enabling access to information.  "
+  bio: "Katya Henry is the University Copyright Officer at Queensland University of Technology (QUT) and the Creative Commons Global Network Representative for the Creative Commons Australia Chapter. She is a passionate advocate for open access and open education, and is deeply committed to the role librarians play in enabling access to information."
   thumbnailUrl: "katya-henry-cropped.jpg"
   rockstar: true
   ribbon:
@@ -333,7 +335,7 @@
   name: "Dr Nicholas"
   surname: "Condon"
   title: "Senior Microscopist, Institute for Molecular Bioscience, UQ"
-  bio: "Nicholas Condon has recently completed his PhD in Professor Jennifer Stow’s lab at IMB. During his project Nicholas developed a number of novel image analysis techniques to answer research questions about the cell surface of macrophages. He has a strong background in cell biology and a number of advanced microscopy techniques including Lattice lightsheet, deconvolution, LSM confocal and live cell microscopy."
+  bio: "Dr Nicholas Condon has recently completed his PhD in Professor Jennifer Stow’s lab at UQ's IMB. During his project, Nicholas developed a number of novel image analysis techniques to answer research questions about the cell surface of macrophages. He has a strong background in cell biology and a number of advanced microscopy techniques including Lattice lightsheet, deconvolution, LSM confocal and live cell microscopy."
   thumbnailUrl: "nick-condon.jpg"
   rockstar: true
   ribbon:
