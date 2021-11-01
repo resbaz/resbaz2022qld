@@ -31,7 +31,8 @@ All workshop bookings are **free of charge**, but you will need your **ResBaz ti
 |Brisbane | Introduction to the Nectar Cloud	| Fri, 26 Nov | 2:30 pm	|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-the-nectar-cloud-tickets-194849830087)|
 |Brisbane | Advanced Image Processing and Analysis with FIJI | Fri, 26 Nov &nbsp;| 1:30 pm &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/advanced-image-processing-and-analysis-with-fiji-tickets-194848937417)|
 | &nbsp; | &nbsp;| &nbsp;| &nbsp;	| &nbsp;	| &nbsp;|
-|Gold Coast | Introduction to Digital Texts and Tools for HASS Research	| Fri, 26 Nov &nbsp;| 9:00 am	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-digital-texts-and-tools-for-hass-research-tickets-195542521947)|
+|Gold Coast | Introduction to Data Wrangling with OpenRefine| 	Fri, 26 Nov &nbsp;|  9:00 am &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/introduction-to-data-wrangling-with-openrefine-tickets-195543284227)|
 |Gold Coast | Introduction to Web-Scraping	| Fri, 26 Nov &nbsp;| 9:00 am &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-web-scraping-tickets-195541067597)|
+|Gold Coast | Introduction to Digital Texts and Tools for HASS Research	| Fri, 26 Nov &nbsp;| 1:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-digital-texts-and-tools-for-hass-research-tickets-195542521947)|
 |Gold Coast | Data Visualisation Basics	| Fri, 26 Nov &nbsp; | 1:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/data-visualisation-basics-tickets-195546273167)|
-|Gold Coast | Introduction to Data Wrangling with OpenRefine| 	Fri, 26 Nov &nbsp;|  1:30 pm &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/introduction-to-data-wrangling-with-openrefine-tickets-195543284227)|
+
