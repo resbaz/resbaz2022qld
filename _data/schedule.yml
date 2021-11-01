@@ -174,7 +174,7 @@
     - {
       startTime: "09:00",
       endTime: "11:00",
-      sessionIds: [012, 032, 033]
+      sessionIds: [012, 032, 035]
     }
     - {
       startTime: "11:00",
@@ -194,7 +194,7 @@
     - {
       startTime: "13:30",
       endTime: "15:00",
-      sessionIds: [012, 035, 036]
+      sessionIds: [012, 033, 036]
     }
     - {
       startTime: "15:00",
