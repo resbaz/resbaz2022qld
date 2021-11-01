@@ -15,7 +15,7 @@ All workshop bookings are **free of charge**, but you will need to have your **R
 
 | Event location | Workshop Title | Date  | Time|  Link |
 |--- | --- | --- | --- |--- |
-|Brisbane | Collecting Data From the Web | 	Wed, 24 Nov&nbsp;| | 9:30 am	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/collecting-data-from-the-web-tickets-194110388397)|
+|Brisbane | Collecting Data From the Web | 	Wed, 24 Nov &nbsp; | 9:30 am	 |  [Book a place](https://www.eventbrite.com.au/e/collecting-data-from-the-web-tickets-194110388397)|
 |Brisbane | Software Carpentry With Python (2 days) | Wed, 24 Nov &nbsp;|9:30 am	 &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/203440575237)|
 |Brisbane | Software Carpentry: Introduction to Task Automation with the Unix Shell | Wed, 24 Nov &nbsp;| 2:15 pm	| [Book a place](https://www.eventbrite.com.au/e/software-carpentry-introduction-to-task-automation-with-the-unix-shell-tickets-195555049417)|
 |Brisbane | Introduction to Machine Learning for Imaging | Wed, 24 Nov &nbsp; | 1:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-machine-learning-for-imaging-tickets-194830763057)|
@@ -26,7 +26,7 @@ All workshop bookings are **free of charge**, but you will need to have your **R
 |Brisbane | Setting up an account to access the CVL	| Thurs, 25 Nov &nbsp; | 9:00 am &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/setting-up-an-account-to-access-the-cvl-tickets-194841114017)|
 |Brisbane | Introduction to species distributions modelling with the EcoCommons	| Thurs, 25 Nov &nbsp;| 2:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-species-distributions-modelling-with-the-ecocommons-tickets-194846871237)|
 |Brisbane | Oh, No, My Data has Outgrown my Spreadsheet	| Thurs, 25 Nov &nbsp; | 1:30 pm &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/oh-no-my-data-has-outgrown-my-spreadsheet-tickets-194846098927)|
-|Brisbane | Create an Open CV	| Thurs, 25 Nov &nbsp; | 2:30 pm &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/203435249307 |
+|Brisbane | Create an Open CV	| Thurs, 25 Nov &nbsp; | 2:30 pm 	|  [Book a place](https://www.eventbrite.com.au/e/203435249307) |
 |Brisbane | Data Transfer Methods for the Characterisation Virtual Laboratory (CVL)	| Fri, 26 Nov &nbsp;| 9:00 am	 &nbsp;| [Book a place](https://www.eventbrite.com.au/e/data-transfer-methods-for-the-characterisation-virtual-laboratory-cvl-tickets-194848466007)|
 |Brisbane | Network Know-How and Data Handling	| Fri, 26 Nov &nbsp;| 9:00 am &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/network-know-how-and-data-handling-tickets-198059149247)|
 |Brisbane | Introduction to R	| Fri, 26 Nov &nbsp;| 9:00 am &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/203441748747) |
