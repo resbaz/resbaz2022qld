@@ -22,7 +22,7 @@
     - {
       startTime: "09:30",
       endTime: "11:00",
-      sessionIds: [015, 007, 013, 001, 026]
+      sessionIds: [019, 015, 007, 013, 001, 026]
     }
     - {
       startTime: "11:00",
@@ -42,7 +42,7 @@
     - {
       startTime: "13:30",
       endTime: "14:00",
-      sessionIds: [010, 029, 016, 001, 006]
+      sessionIds: [019, 010, 029, 016, 001, 006]
     }
     - {
       startTime: "14:00",
@@ -52,12 +52,12 @@
     - {
       startTime: "14:15",
       endTime: "14:30",
-      sessionIds: [019, 008, 038, 001, 006]
+      sessionIds: [008, 019, 008, 038, 001, 006]
     }
     - {
       startTime: "14:30",
       endTime: "16:30",
-      sessionIds: [003, 042, 038, 001, 006]
+      sessionIds: [019, 003, 042, 038, 001, 006]
     }
     - {
       startTime: "16:30",
@@ -103,17 +103,17 @@
     - {
       startTime: "13:30",
       endTime: "14:00",
-      sessionIds: [201, 037, 040, 001, 041]
+      sessionIds: [201, 037, 040, 001, 041, 019]
     }
     - {
       startTime: "14:00",
       endTime: "14:30",
-      sessionIds: [202, 050, 040, 001, 041]
+      sessionIds: [202, 050, 040, 001, 041, 008]
     }
     - {
       startTime: "14:30",
       endTime: "16:30",
-      sessionIds: [005, 022, 004, 001, 041]
+      sessionIds: [005, 022, 004, 001, 041, 019]
     }
 - 
   date: "2021-11-26"
