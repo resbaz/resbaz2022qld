@@ -148,7 +148,7 @@
   thumbnailUrl: "kathryn-hall.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "NIF", title: "NIF", url: "https://anif.org.au/"}
+    - {abbr: "NIF", title: "National Imaging Facility", url: "https://anif.org.au/"}
 -
   id: 15
   name: "Ben"
