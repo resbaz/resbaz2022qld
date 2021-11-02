@@ -117,7 +117,7 @@
     - {title: "Room 313A", color: "#48D1CC"}
     - {title: "Room 316", color: "#FF00FF"}
     - {title: "Room 316A", color: "#FF8C00"}
-    - {title: "Room TBA", color: "#48D1CC"}
+    - {title: "Room 502", color: "#48D1CC"}
   timeslots:
     - {
       startTime: "09:00",
@@ -142,7 +142,7 @@
     - {
       startTime: "13:30",
       endTime: "14:30",
-      sessionIds: [025, 043, 017, 024, 019, 008]
+      sessionIds: [025, 043, 017, 019, 008, 019]
     }
     - {
       startTime: "14:30",
