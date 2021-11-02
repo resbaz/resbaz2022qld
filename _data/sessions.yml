@@ -77,6 +77,7 @@
   subtype: workshop
   speakers: [13]
   complexity: "Beginner"
+  presentation: "https://www.eventbrite.com.au/e/203440575237"
 -
   id: 002
   title: "Introduction to Jupyter Notebooks"
@@ -96,6 +97,7 @@
   description: "How to use GitHub Pages to create a version controlled, open CV. BYO laptop for this hands-on session."
   subtype: workshop
   speakers: [13]
+  presentation: "https://www.eventbrite.com.au/e/203435249307"
 -
   id: 005
   title: "The Gale Digital Scholar Lab: Getting started with your research"
@@ -323,6 +325,7 @@
   subtype: workshop
   complexity: "Beginner" 
   speakers: [24]
+  presentation: "https://www.eventbrite.com.au/e/194849830087"
 -
   id: 040
   title: "Oh, No, My Data Has Outgrown My Spreadsheet!"
@@ -337,6 +340,7 @@
   subtype: workshop
   complexity: "Intermediate" 
   speakers: [27]
+  presentation: "https://www.eventbrite.com.au/e/194845045777"
 -
   id: 042
   title: "Introduction to Sensitive Data"
@@ -344,6 +348,7 @@
   subtype: workshop
   complexity: "Beginner" 
   speakers: [26]
+  presentation: "https://www.eventbrite.com.au/e/203438218187"
 -
   id: 043
   title: "Panel: Open Access - Open Research - Open Science ... All the shades of open: ask us anything!"
@@ -388,6 +393,7 @@
   description: "Introduction to the R programming language with Stéphane Guillou. BYO laptop."
   speakers: [30]
   subtype: workshop
+  presentation: "https://www.eventbrite.com.au/e/203435249307"
 -
   id: 050
   title: "Creating a Sustained Movement for Social Change in Academia (Project Free Our Knowledge)"
