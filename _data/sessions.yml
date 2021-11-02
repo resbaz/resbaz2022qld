@@ -333,6 +333,7 @@
   subtype: workshop
   complexity: "Beginner" 
   speakers: [25]
+  presentation: "https://www.eventbrite.com.au/e/194846098927"
 -
   id: 041
   title: "HPC Carpentry"
