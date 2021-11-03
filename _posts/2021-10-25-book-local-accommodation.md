@@ -10,13 +10,13 @@ image: balloons.jpg
 
 If you are travelling to Brisbane to attend ResBaz Qld, you can book accommodation at St Leo's College at UQ - this residential college is 5 minutes' walk from the ResBaz Qld venue.
 
-Accommodation in a single room with shared bathroom starts at $80 per night, and includes breakfast. There are also other more private options (i.e. your oen bathroom) at a higher cost.
+Accommodation in a single room with shared bathroom starts at $80 per night, and includes breakfast. There are also other more private options (i.e. your own bathroom) at a higher cost.
 
 [Get more information.](https://stleoscatering.com.au/venues-accommodation/) 
 
 If you are keen to come to ResBaz from places like Toowoomba, the Gold Coast, the Sunshine Coast - or even further afield! - you can apply for financial support when you register for ResBaz. 
 
-[Resgiter for ResBazQld](https://resbaz.github.io/resbaz2021qld/).
+[Register for ResBazQld](https://resbaz.github.io/resbaz2021qld/).
 
 Cost for attendance in Brisbane for all three days - the price includes all workshops, and lunch and morning tea each day - is a mere $25. [Get tickets](https://www.eventbrite.com.au/e/resbaz-queensland-2021-tickets-185377598387).
 
