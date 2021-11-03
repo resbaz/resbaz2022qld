@@ -275,13 +275,13 @@
   id: 032
   title: "Introduction to Web-Scraping (workshop)"
   speakers: [15, 19]
-  description: "Workshop"
+  description: "This is a workshop that introduces web scraping, including the legal and ethical concerns around web scraping. It will be a hands-on, practical session on using APIs and Python packages to obtain web data. Through the session, we will demonstrate the best practice for gathering web data using APIs and Python packages. We will introduce a set of Python packages commonly used to scrape data from websites for your research. The Python section will assume that you have a basic Python knowledge. If you don't, that is ok, it will be explained in simple terms. If you need more, you can sign up for the two-day Software Carpentry with Python workshop running on days one and two at ResBazQld."
   hidden: true
   presentation: "https://www.eventbrite.com.au/e/introduction-to-web-scraping-tickets-195541067597"
 -
   id: 033
   title: "An Introduction to Digital Texts and Tools for HASS Research (workshop)"
-  description: "Workshop"
+  description: "Looking for ways to gather, capture or transcribe a set of digital works for further analysis? Does your digital text collection need preparation to be understood by software? Do you need a tool to conduct sentiment, discourse, content analysis or mapping with newspaper, literature or historical texts you’ve gathered for a research project?  This session looks at commonly used digital methods, tools and workflows used to build, prepare and analyse digital texts for HASS research. BYO device to explore locations of textual data such as Trove for building datasets, tools that prepare text data and, text analysis and visualisation tools such as Voyant to interrogate content and visualise research outputs."
   speakers: [17, 20]
   hidden: true
   presentation: "https://www.eventbrite.com.au/e/introduction-to-digital-texts-and-tools-for-hass-research-tickets-195542521947"
@@ -294,14 +294,14 @@
 -
   id: 035
   title: "Introduction to Data Wrangling with OpenRefine (workshop)"
-  description: "Hands-on workshop on using OpenRefine with messy, missing or inconsistent data and data cleanup."
+  description: "Data wrangling prepares raw or messy data and transforms or maps it into a structured and organised format to enable processing and analysis. BYO a laptop with OpenRefine and Chrome installed to this hands-on workshop and 1) explore tabular data through facets and filters 2) implement 'tidy data' principles 3) clean, organise, and prepare data for analysis 4) use basic features of OpenRefine 5) extract and reuse a reproducible script to repeat processing on similar data. Pre-workshop set up instructions will be provided one week prior to the event."
   hidden: true
   speakers: [17]
   presentation: "https://www.eventbrite.com.au/e/introduction-to-data-wrangling-with-openrefine-tickets-195543284227"
 -
   id: 036
   title: "Data Visualisation Basics (workshop)"
-  description: "Hands-on workshop on data visualisation tools and techniques"
+  description: "Explore methods and tools to create publication quality visualisations of structured, tabular data.  Tools covered include MS Excel, along with open-source software Voyant and Raw Graphs. BYO a laptop with MS Excel installed and learn how to: 1) apply an appropriate visualisation model for a dataset 2) create a visualisation from tabular data and 3) export or save a visualisation in a publication quality file format. "
   hidden: true
   speakers: [15, 16]
   presentation: "https://www.eventbrite.com.au/e/data-visualisation-basics-tickets-195546273167"
