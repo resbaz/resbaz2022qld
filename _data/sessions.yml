@@ -66,14 +66,14 @@
   description: "The Knowledge Bazaar is an open networking session where attendees can find like-minded people - people working in the same discipline, researching similar problems, or using the same tools."
 -
   id: 310
-  title: "Software Containers for Reproducible (Neuro) Science"
+  title: "Software Containers for Reproducible (Neuro) Science (workshop)"
   subtype: workshop
   complexity: "Beginner" 
   speakers: [28]
   presentation: "https://www.eventbrite.com.au/e/software-containers-for-reproducible-neuro-science-tickets-194847483067"
 -
   id: 001
-  title: "Software Carpentry with Python"
+  title: "Software Carpentry with Python (workshop)"
   description: "The two-day, hands-on, code-along workshop will introduce programming in Python. BYO laptop."
   subtype: workshop
   speakers: [13]
@@ -81,33 +81,33 @@
   presentation: "https://www.eventbrite.com.au/e/203440575237"
 -
   id: 002
-  title: "Introduction to Jupyter Notebooks"
+  title: "Introduction to Jupyter Notebooks (workshop)"
   description: "Dr Sara King from AARNet will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data. You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research. By the end of the workshop you will have a good understanding of what Notebooks can do, how to open one up, perform some basic tasks and save it for later. If you are really into it, you will also be able to continue to experiment after the workshop by using other people’s notebooks as springboards for your own adventures! This workshop is targeted at those who are absolute beginners or ‘tech-curious’. It includes a hands-on component, using basic programming commands, but requires no previous knowledge of programming."
   speakers: [7]
   subtype: workshop
   presentation: "https://www.eventbrite.com.au/e/introduction-to-jupyter-notebooks-tickets-194834012777"
 -
   id: 003
-  title: "The Gale Digital Scholar Lab: 3 years on, what's new?"
+  title: "The Gale Digital Scholar Lab: 3 years on, what's new? (workshop)"
   description: "The Gale Digital Scholar Lab officially released in 2018 and has continued to grow in popularity with Academics and Institutions across the world. Researching primary sources/text and data mining have become more intuitive and easier to access without having the prerequisite skills in digital humanities. Starting 2021 Gale began the upgrading the Digital Scholar Lab platform to include new technologies and bring the Gale Digital Scholar Lab design in line with other Gale primary source platforms.  This presentation will focus on the new experience for the Gale Digital Scholar Lab, exploring the new tools and functionality being added (Officially Launching in December 2021) for a better user experience."
   subtype: workshop
   complexity: "beginner" 
 -
   id: 004
-  title: "Create an Open CV"
+  title: "Create an Open CV (workshop)"
   description: "How to use GitHub Pages to create a version controlled, open CV. BYO laptop for this hands-on session."
   subtype: workshop
   speakers: [13]
   presentation: "https://www.eventbrite.com.au/e/203435249307"
 -
   id: 005
-  title: "The Gale Digital Scholar Lab: Getting started with your research"
+  title: "The Gale Digital Scholar Lab: Getting started with your research (workshop)"
   description: "This Presentation will showcase how to get started with using the Gale Digital Scholar Lab, starting with a research question we will explore how Students/Academics/ Researchers and Librarians can use the Gale Digital Scholar Lab to search through the institution's primary source holdings from Gale, or upload their own content to build their content sets using articles from various historical newspapers etc. Analyse this content using the TDM tools available in the Lab and finally exporting the visualizations out of the lab."
   subtype: workshop
   complexity: "beginner" 
 -
   id: 006
-  title: "Introduction to Machine Learning for Imaging"
+  title: "Introduction to Machine Learning for Imaging (workshop)"
   description: "BYO laptop for this hands-on training workshop introducing machine learning for imaging. In the first part of the workshop a brief introduction to the ideas of machine learning as they apply to image classification and segmentation is given. In the second part, the Trainable WEKA framework available in ImageJ/Fiji is introduced, and the participants are led through a series of hands on exercises on creating and applying classifiers for segmentation."
   subtype: workshop
   complexity: "Intermediate" 
@@ -115,7 +115,7 @@
   presentation: "https://www.eventbrite.com.au/e/introduction-to-machine-learning-for-imaging-tickets-194830763057"
 -
   id: 007
-  title: "Collecting Data from the Web"
+  title: "Collecting Data from the Web (workshop)"
   description: "A short hands on training workshop by Sam Hames. BYO laptop so you can follow along."
   subtype: workshop
   complexity: "Beginner" 
@@ -123,13 +123,13 @@
   presentation: "https://www.eventbrite.com.au/e/collecting-data-from-the-web-tickets-194110388397"
 -
   id: 008
-  title: "Graduate Digital Research Fellows"
+  title: "Graduate Digital Research Fellows (talk)"
   description: "Participants in this UQ-run program will talk about how the program has enhanced their research skills."
   complexity: "Beginner" 
   subtype: talk
 -
   id: 009
-  title: "Galaxy Australia: an analytical service for Australian Life Scientists"
+  title: "Galaxy Australia: an analytical service for Australian Life Scientists (workshop)"
   description: "Galaxy Australia is the 'Bring Your Own Data' analytical service for Australian life science researchers. It is a web portal to nationally distributed computer resources for the running of over 1,000 of the latest and best practice tools. It comes loaded with the most commonly accessed reference data to speed up your analyses. This workshop will introduce Galaxy and through two hands-on tutorials showcase how to use the service to rapidly and reproducibly analyse your data. BYO laptop, Chrome browser and web access."
   complexity: "Intermediate" 
   subtype: workshop
@@ -137,7 +137,7 @@
   presentation: "https://www.eventbrite.com.au/e/galaxy-australia-an-analytical-service-for-australian-life-scientists-tickets-194835938537"
 -
   id: 010
-  title: "What is the Nectar Cloud?"
+  title: "What is the Nectar Cloud? (talk)"
   description: "What is the Australian research cloud, and why would you use it?"
   complexity: "Beginner" 
   subtype: talk
@@ -150,13 +150,13 @@
   hidden: true
 -
   id: 013
-  title: "Research Profiles: working hard or hard work?"
+  title: "Research Profiles: working hard or hard work? (workshop)"
   description: "This is a 'Bring your own device' session. What will people find when they Google you? Learn about different research profiles available and start creating your professional online identity. Use researcher IDs (e.g. ORCiD) to claim and link your publications."
   subtype: workshop
   speakers: [15]
 -
   id: 014
-  title: "Network Know-how & Data Handling"
+  title: "Network Know-how & Data Handling (workshop)"
   description: "Dr Sara King from AARNet will show you how to: 1) Understand the basic differences between the different Internet technologies and connection types and in Australia and how to make the most of them. 2) Describe and define different network and data movement concepts (jargon busting). 3) Perform speed, ping and traceroute tests to check your Internet connection. 4) Calculate data transfer times. 5) Understand various network and connectivity constraints. 6) Transfer large amounts of data via the network. 7) Sync, store and share your research data safely. 8 0 Search for more advanced options for data movement and know where to go for help. BYO laptop."
   subtype: workshop
   speakers: [7]
@@ -164,28 +164,28 @@
   presentation: "https://www.eventbrite.com.au/e/network-know-how-and-data-handling-tickets-198059149247"
 -
   id: 015
-  title: "Getting started with HPC"
+  title: "Getting started with HPC (talk)"
   description: "This session will cover considerations on high performance computing and what you need to know to use a HPC. It will introduce attendees to the uses of HPC and answer entry level questions. BYO laptop to participate."
   hidden: true
   complexity: "Beginner" 
   speakers: [31]
 -
   id: 016
-  title: "Topic Modelling for Qualitative Content Analysis"
+  title: "Topic Modelling for Qualitative Content Analysis (talk)"
   description: "Talk by Dr Aneesha Bakharia."
   hidden: true
   complexity: "Beginner" 
   speakers: [9]
 -  
   id: 017
-  title: "Advanced Image Processing and Analysis with FIJI"
+  title: "Advanced Image Processing and Analysis with FIJI (workshop)"
   description: "Presented by Nick Condon and Deborah Barkauskas. BYO laptop."
   subtype: workshop
   complexity: "Intermediate" 
   speakers: [33]
 -
   id: 018
-  title: "Copyright Considerations for Researchers"
+  title: "Copyright Considerations for Researchers (talk)"
   description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
   speakers: [23]
   subtype: talk
@@ -204,12 +204,12 @@
   speakers: [2]
 -
   id: 021
-  title: "SAGE Publishing"
+  title: "SAGE Publishing (talk)"
   description: "Sponsor talk."
   subtype: talk
 -
   id: 022
-  title: "Introduction to Species Distributions Modelling with the EcoCommons"
+  title: "Introduction to Species Distributions Modelling with the EcoCommons (workshop)"
   description: "Introductory workshop on using the EcoCommons for modelling of species distribution."
   subtype: workshop
   complexity: "Beginner" 
@@ -233,13 +233,13 @@
   hidden: true
 -
   id: 026
-  title: "What is the Characterisation Virtual Laboratory (CVL)?"
+  title: "What is the Characterisation Virtual Laboratory (CVL)? (talk)"
   description: "An introduction to the Characterisation Virtual Laboratory (CVL) for processing large imaging and characterisation data sets using GPU processing on HPC. The rate, quantity and quality of imaging science data acquisition is increasing exponentially.  Researchers need defined, reliable and rapid pathways that they can use to process these data.  The ACCS (Australian Characterisation Commons at Scale) Project offers solutions to this critical need.  The flagship capability of the ACCS Project is the CVL (Characterisation Virtual Laboratory) (www.cvl.org.au).  The CVL offers a unique virtual space where researchers can access HPC capabilities and analyse their datasets using graphical interfaces for dozens of specialist LINUX packages.  CVL is available to all Australian researchers working in imaging and characterisation sciences using their AAF login.  Via the Strudel2 deployment over a web interface, researchers can access multiple deployments of CVL across Australia, depending on their specific tool needs and/or institutional affiliation.  The CVL enables researchers to easily access HPC setups from their own PCs over the internet for processing large volumes of imaging data on remote systems.  With 3 preset virtual desktop configurations, researchers can opt for basic, intermediate or heavy compute setups, enabling rapid analysis of terabyte-sized datasets.  CVL comes preinstalled with dozens of imaging tools, and through the ACCS, has a team ready to install new packages in response to the changing needs of the community.  The ACCS project aims to show researchers how they acquire data, move it into the CVL, and then export it back to their collections, completing a fully integrated workflow.  In this way, CVL and ACCS bring data full circle from acquisition to final FAIR deposition."
   subtype: talk
   speakers: [14]
 -
   id: 027
-  title: "Setting up an Account to Access the Characterisation Virtual Laboratory (CVL)"
+  title: "Setting up an Account to Access the CVL (workshop)"
   description: "In this presentation, I will provide explicit instructions on how to decide which node of CVL is right for you, and then how to access the CVL and set up your account.  This will be a hands-on session and I will be stepping you through the pathway to establish your account and integrate your data collection.  Accounts to CVL are provisioned manually, so there will be some lag-time between applying for an account and being able to use the CVL.  I will run a follow-up session to show you how to work within the CVL environment."
   speakers: [14]
   subtype: workshop
@@ -247,7 +247,7 @@
   presentation: "https://www.eventbrite.com.au/e/setting-up-an-account-to-access-the-cvl-tickets-194841114017"
 -
   id: 028
-  title: "Data Transfer Methods for the Characterisation Virtual Laboratory (CVL)"
+  title: "Data Transfer Methods for the CVL (workshop)"
   description: "In this follow-up session, CVL account holders can work through the steps to move data in and out of the analysis environment.  I will show you how images acquired from instruments can be ingested directly into collections with newly emerging workflows (like Pitschi).  Your data collections will then available within the CVL, ready for analysis.  For those not yet connected with Pitschi, tools like FileZilla for sFTP or Globus can be used to transfer data collections.  We will work through how analysed and annotated data can be exported back to collections, ready for repository storage."
   speakers: [14]
   subtype: workshop
@@ -255,7 +255,7 @@
   presentation: "https://www.eventbrite.com.au/e/data-transfer-methods-for-the-characterisation-virtual-laboratory-cvl-tickets-194848466007"
 -
   id: 029
-  title: "Research Software Visible, Citable and Sustained: the ARDC Software Program"
+  title: "Research Software Visible, Citable and Sustained: the ARDC Software Program (talk)"
   description: "Across science disciplines, software code is being written by scientists and deemed critical to research conclusions. This is evidenced by an increasing number of papers reporting the use of customised software code to process and analyse data. Although data and code sharing policy exists, publishing the details of bespoke software is not yet a general practice. Accessibility mechanisms for provision of the source code as part of a publication or pre-print are technically a solved problem. For example, we have free access to version control systems, persistent identifiers, archiving tools, licenses and dedicated software repositories. Policy at various levels either recommend or mandate software availability statements. These policies exist in support of validating techniques and results, computational replicability and reproducibility, and the increased likelihood for research peers to use and build on methods. The ARDC is proposing a strategy for culture change, with the greater aim of improving recognition of research software as a first-class research output. To attain this goal we need to coordinate activities with research software authors to See, Shape and Sustain research software. Our target audience are PhDs and EMCRs investing the most of their time writing, testing and maintaining research software. We aim to increase the visibility of research software projects for broadest use and reuse. Boost incentives such as crediting authors for their research efforts and for supporting computational reproducibility. We envision the impact of these activities will encourage more researchers to improve the quality of their code and promote research excellence."
   speakers: [12]
   subtype: talk
@@ -273,14 +273,14 @@
   hidden: true
 -
   id: 032
-  title: "Introduction to Web-Scraping"
+  title: "Introduction to Web-Scraping (workshop)"
   speakers: [15, 19]
   description: "Workshop"
   hidden: true
   presentation: "https://www.eventbrite.com.au/e/introduction-to-web-scraping-tickets-195541067597"
 -
   id: 033
-  title: "An Introduction to Digital Texts and Tools for HASS Research"
+  title: "An Introduction to Digital Texts and Tools for HASS Research (workshop)"
   description: "Workshop"
   speakers: [17, 20]
   hidden: true
@@ -293,27 +293,27 @@
   hidden: true
 -
   id: 035
-  title: "Introduction to Data Wrangling with OpenRefine"
+  title: "Introduction to Data Wrangling with OpenRefine (workshop)"
   description: "Hands-on workshop on using OpenRefine with messy, missing or inconsistent data and data cleanup."
   hidden: true
   speakers: [17]
   presentation: "https://www.eventbrite.com.au/e/introduction-to-data-wrangling-with-openrefine-tickets-195543284227"
 -
   id: 036
-  title: "Data Visualisation Basics"
+  title: "Data Visualisation Basics (workshop)"
   description: "Hands-on workshop on data visualisation tools and techniques"
   hidden: true
   speakers: [15, 16]
   presentation: "https://www.eventbrite.com.au/e/data-visualisation-basics-tickets-195546273167"
 -
   id: 037
-  title: "What is the Australian Biocommons?"
+  title: "What is the Australian Biocommons? (talk)"
   description: "Dr Melissa Burke will introduce the Australian Biocommons, whose mission includes actively supporting life science research communities with community scale digital infrastructure developed and maintained in concert with international peer infrastructures. "
   speakers: [22]
   subtype: talk
 -
   id: 038
-  title: "Software Carpentry session: Introduction to Task Automation with the Unix shell"
+  title: "Software Carpentry session: Introduction to Task Automation with the Unix shell (workshop)"
   description: "Learn how to automate tasks with the Unix Shell. This is hands-on training. Attendees will need to bring their own laptops."
   subtype: workshop
   complexity: "Beginner" 
@@ -321,7 +321,7 @@
   presentation: "https://www.eventbrite.com.au/e/software-carpentry-introduction-to-task-automation-with-the-unix-shell-tickets-195555049417"
 -
   id: 039
-  title: "Introduction to the Nectar Cloud: a hands-on workshop"
+  title: "Introduction to the Nectar Cloud (workshop)"
   description: "BYO laptop to discover how you can use the Nectar cloud to extend your computer's capabilities."
   subtype: workshop
   complexity: "Beginner" 
@@ -329,7 +329,7 @@
   presentation: "https://www.eventbrite.com.au/e/194849830087"
 -
   id: 040
-  title: "Oh, No, My Data Has Outgrown My Spreadsheet!"
+  title: "Oh, No, My Data Has Outgrown My Spreadsheet! (workshop)"
   description: "How to go beyond Excel and work with large tabular data. BYO laptop."
   subtype: workshop
   complexity: "Beginner" 
@@ -337,7 +337,7 @@
   presentation: "https://www.eventbrite.com.au/e/194846098927"
 -
   id: 041
-  title: "HPC Carpentry"
+  title: "HPC Carpentry (workshop)"
   description: "This is a full day, hands-on Workshop about using and accessing HPC. BYO laptop."
   subtype: workshop
   complexity: "Intermediate" 
@@ -345,7 +345,7 @@
   presentation: "https://www.eventbrite.com.au/e/194845045777"
 -
   id: 042
-  title: "Introduction to Sensitive Data"
+  title: "Introduction to Sensitive Data (workshop)"
   description: "Mark Hoffman presents the key things you need to know in this hands-on session. BYO laptop."
   subtype: workshop
   complexity: "Beginner" 
@@ -361,7 +361,7 @@
   presentation: "https://padlet.com/gbarbour2/rfaxmqb50hgbdo0s"
 -
   id: 044
-  title: "Acquire and Visualise OpenStreetMap Data with R"
+  title: "Acquire and Visualise OpenStreetMap Data with R (workshop)"
   description: "Stéphane Guillou will show you how how to use a variety of R packages to get and visualise OpenStreetMap (OSM) data. As an interactive, open-source, high-level programming language designed for data science, R is a great fit for dealing with OpenStreetMap data and introducing beginners to reproducible scientific computing."
   subtype: workshop
   complexity: "Intermediate" 
@@ -391,20 +391,20 @@
   speakers: [35]
 -
   id: 049
-  title: "Introduction to R"
+  title: "Introduction to R (workshop)"
   description: "Introduction to the R programming language with Stéphane Guillou. BYO laptop."
   speakers: [30]
   subtype: workshop
   presentation: "https://www.eventbrite.com.au/e/203435249307"
 -
   id: 050
-  title: "Creating a Sustained Movement for Social Change in Academia (Project Free Our Knowledge)"
+  title: "Creating a Sustained Movement for Social Change in Academia (Project Free Our Knowledge) (talk)"
   description: "Dr Cooper Smout, a postdoc at the Queensland Brain Institute, will discuss his plans to help researchers organise grassroots action in support of open and reproducible research practices."
   speakers: [36]
   subtype: talk
 -
   id: 051
-  title: "Talk: Discover EcoCommons – your platform of choice for ecological and environmental modelling"
+  title: "Discover EcoCommons – your platform of choice for ecological and environmental modelling (talk)"
   description: "Dr Elisa Bayraktarov: EcoCommons Program Manager, at Griffith University will give an introdutory talk on this modelling platform."
   speakers: [37]
   subtype: talk
