@@ -371,3 +371,13 @@
   ribbon:
     - {abbr: "QBI", title: "Project Free Our Knowledge", url: "https://coopersmout.com/about/"}
 -
+  id: 37
+  name: "Dr Elisa"
+  surname: "Bayraktarov"
+  title: "EcoCommons Program Manager, Griffith Universit"
+  bio: "Elisa is a conservation scientist and data diplomat. She did her PhD in Ecology in 2013, and led the development of Australia’s Threatened Species Index from 2016 – 2020. As a Program Manager, Elisa oversees the work of a team of agile software engineers (DevOps), scientists, science communicators, trainers and analysts to make EcoCommons the platform of choice for environmental and ecological modelling."
+  thumbnailUrl: "elisa.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "EcoCommons", title: "EcoCommons", url: "https://www.ecocommons.org.au/"}
+-
