@@ -10,7 +10,7 @@ image: balloons.jpg
 
 If you are travelling to Brisbane to attend ResBaz Qld, you can now book accommodation at St Leo's College at UQ - this residential college is 5 minutes' walk from the ResBaz Qld venue.
 
-Accommodation in a single room with shared bathroom starts at $80 per night, and includes breakfast. There are also other more private options (i.e. your oen bathroom) at a higher cost.
+Accommodation in a single room with shared bathroom starts at $80 per night, and includes breakfast. There are also other more private options (i.e. your own bathroom) at a higher cost.
 
 Download the booking form in either [Word](https://github.com/resbaz/resbaz2021qld/blob/e3eca3eda4bb8238cd8e790e601e1d9c24a81912/leosbooking%20form.doc) or as a [PDF](https://github.com/resbaz/resbaz2021qld/blob/e3eca3eda4bb8238cd8e790e601e1d9c24a81912/leosbookingform.pdf). Instructions and pricing information are on the form.
 
