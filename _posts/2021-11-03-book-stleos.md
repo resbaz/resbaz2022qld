@@ -12,7 +12,7 @@ If you are travelling to Brisbane to attend ResBaz Qld, you can now book accommo
 
 Accommodation in a single room with shared bathroom starts at $80 per night, and includes breakfast. There are also other more private options (i.e. your oen bathroom) at a higher cost.
 
-Download the booking form in either [Word](leosbookingform.doc) or as a [PDF](leosbookingform.pdf). Instructions and pricing information are on the form.
+Download the booking form in either [Word](https://github.com/resbaz/resbaz2021qld/blob/e3eca3eda4bb8238cd8e790e601e1d9c24a81912/leosbooking%20form.doc) or as a [PDF](https://github.com/resbaz/resbaz2021qld/blob/e3eca3eda4bb8238cd8e790e601e1d9c24a81912/leosbookingform.pdf). Instructions and pricing information are on the form.
 
 Or [get more information here.](https://stleoscatering.com.au/venues-accommodation/).
 
