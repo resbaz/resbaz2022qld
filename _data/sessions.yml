@@ -15,13 +15,13 @@
   id: 201
   title: "A/Prof Sama Low-Choy: Key Story - The Life of Survey Data: From conception, to birth then graduation, culminating in its life purpose"
   description: "In this talk, Professor Low-Choy will introduce the lifecycle of designing surveys, through to implementation and analysing."
-  description: "Talk"
+  subtype: talk
   speakers: [5]
 -
   id: 202
   title: "A/Prof Sama Low-Choy: Key Story - Doing Surveys Well, By Design"
   description: "In this talk, Professor Low-Choy will cover the dos and don'ts of survey design and how to avoid the pitfalls of poorly designed surveys."
-  description: "Talk"
+  subtype: talk
   speakers: [5]
 -
   id: 200
@@ -91,7 +91,7 @@
   title: "The Gale Digital Scholar Lab: 3 years on, what's new? (workshop)"
   description: "The Gale Digital Scholar Lab officially released in 2018 and has continued to grow in popularity with Academics and Institutions across the world. Researching primary sources/text and data mining have become more intuitive and easier to access without having the prerequisite skills in digital humanities. Starting 2021 Gale began the upgrading the Digital Scholar Lab platform to include new technologies and bring the Gale Digital Scholar Lab design in line with other Gale primary source platforms.  This presentation will focus on the new experience for the Gale Digital Scholar Lab, exploring the new tools and functionality being added (Officially Launching in December 2021) for a better user experience."
   subtype: workshop
-  complexity: "beginner" 
+  complexity: "Beginner" 
 -
   id: 004
   title: "Create an Open CV (workshop)"
@@ -201,7 +201,7 @@
   id: 020
   title: "Opening Address: Dr Julia Playford, Executive Director of Science Development, Queensland Department of Environment and Science"
   description: "Opening talk (includes Acknowledgment of Country)"
-  description: "Talk"
+  subtype: talk
   speakers: [2]
 -
   id: 021
