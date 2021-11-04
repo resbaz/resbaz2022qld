@@ -49,7 +49,7 @@
   thumbnailUrl: "zeinab.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "IMB", title: "UQ Institute of Molecular Bioscien", url: "https://imb.uq.edu.au/soilsforscience/"}
+    - {abbr: "IMB", title: "UQ Institute for Molecular Bioscience", url: "https://imb.uq.edu.au/soilsforscience/"}
 -
   id: 5
   name: "Associate Professor Sama"
