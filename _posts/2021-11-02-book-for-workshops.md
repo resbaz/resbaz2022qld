@@ -17,7 +17,8 @@ All workshop bookings are **free of charge**, but you will need to have your **R
 |--- | --- | --- | --- |--- |
 |Brisbane | Collecting Data From the Web | 	Wed, 24 Nov &nbsp; | 9:30 am	 |  [Book a place](https://www.eventbrite.com.au/e/collecting-data-from-the-web-tickets-194110388397)|
 |Brisbane | Software Carpentry With Python (2 days) | Wed, 24 Nov &nbsp;|9:30 am	 &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/203440575237)|
-|Brisbane | Software Carpentry: Introduction to Task Automation with the Unix Shell | Wed, 24 Nov &nbsp;| 2:15 pm	| [Book a place](https://www.eventbrite.com.au/e/software-carpentry-introduction-to-task-automation-with-the-unix-shell-tickets-195555049417)|
+|Brisbane | Software Carpentry With Python (2 days) | Wed, 24 Nov &nbsp;|9:30 am	 &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/203440575237)|
+|Brisbane | Research Profiles: Working Hard or Hard Work? | Wed, 24 Nov &nbsp;| 9.30 am	&nbsp; | [Book a place](https://www.eventbrite.com.au/e/204794454727)|
 |Brisbane | Introduction to Machine Learning for Imaging | Wed, 24 Nov &nbsp; | 1:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-machine-learning-for-imaging-tickets-194830763057)|
 |Brisbane | Introduction to Sensitive Data | Wed, 24 Nov &nbsp; | 2:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/203438218187)|
 |Brisbane | Galaxy Australia: an analytical service for Australian Life Scientists	| Thurs, 25 Nov &nbsp;| 9:00 am &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/galaxy-australia-an-analytical-service-for-australian-life-scientists-tickets-194835938537)|
