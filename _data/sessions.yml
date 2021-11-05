@@ -173,7 +173,7 @@
 -
   id: 016
   title: "Topic Modelling for Qualitative Content Analysis (talk)"
-  description: "Talk by Dr Aneesha Bakharia."
+  description: "Dr Aneesha Bakharia will present this talk. Algorithms such as Latent Dirichlet Allocation (LDA), Non Negative Matrix Factorisation (NMF), and the more recent neural network inspired Contextual Topic Model (CTM) are able to find the latent topics within a document collection. Both algorithms map documents to topics and topics to words and perform soft clustering (i.e., documents and words can belong to multiple topics), making them particularly suitable as qualitative content analysis aids. In this presentation user-friendly Jupyter Notebooks in Python to perform topic modeling will be introduced and shared. The main focus of the presentation however will address issues that qualitative researchers encounter when using topic modeling algorithms which include trust, topic quality/coherence, topic interpretation, evidence gathering, and model parameter selection."
   hidden: true
   complexity: "Beginner" 
   speakers: [9]
