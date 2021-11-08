@@ -116,7 +116,7 @@
 -
   id: 007
   title: "Collecting Data from the Web (workshop)"
-  description: "A short hands on training workshop by Sam Hames. BYO laptop so you can follow along."
+  description: "This workshop will provide a starting point for working with data collected from the web, including social media. This will include: 1) an overview of different approaches to collecting data from the web 2) - what to think about before you start collecting 3) - worked example of making your own web archive 4) - working with existing web archives 5) extracting structured data from archives. Everyone is welcome to attend! To make the most of the practical parts of this session, you will need to bring a laptop along, and to have some Python programming experience."
   subtype: workshop
   complexity: "Beginner" 
   speakers: [11]
