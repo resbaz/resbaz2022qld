@@ -265,7 +265,7 @@
   surname: "Hoffmann"
   title: "Senior Health Informatician"
   bio: "Mark provides researchers with advice on sensitive data management and REDCap."
-  thumbnailUrl: "mark-hoffmann.jpg"
+  thumbnailUrl: "mark.hoffmann.jpg"
   rockstar: true
   ribbon:
     - {abbr: "Senior Health Informatician", title: "QCIF Bioinformatics", url: "https://www.qcif.edu.au"}
