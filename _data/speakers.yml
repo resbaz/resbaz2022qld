@@ -115,10 +115,11 @@
   name: "Sam"
   surname: "Hames"
   title: "Data Scientist"
+  bio: "Sam is a software developer/data scientist with QUT's Digital Observatory where he supports researchers to collect, transform and analyse dynamic digital data."
   thumbnailUrl: "sam-hames.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "QUT", title: "QUT", url: "https://qut.edu.au"}
+    - {abbr: "Digital Observatory", title: "QUT", url: "https://qut.edu.au"}
 -
   id: 12
   name: "Dr Paula Andrea"
