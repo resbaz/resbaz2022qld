@@ -12,6 +12,8 @@ Once you have registered for ResBaz, you can book into the workshops of your cho
 
 All workshop bookings are **free of charge**, but you will need to have your **ResBaz ticket number** handy to be able to register for any workshops. 
 
+If a session is not listed below, bookings are not required - just turn up and join in!
+
 
 | Event location | Workshop | Date  | Time|  Link |
 |--- | --- | --- | --- |--- |
