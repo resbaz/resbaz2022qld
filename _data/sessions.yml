@@ -330,8 +330,8 @@
   presentation: "https://www.eventbrite.com.au/e/194849830087"
 -
   id: 040
-  title: "Oh, No, My Data Has Outgrown My Spreadsheet! (workshop)"
-  description: "How to go beyond Excel and work with large tabular data. BYO laptop."
+  title: "Oh No, My Data Has Outgrown My Spreadsheet! (workshop)"
+  description: "Spreadsheets are incredibly useful and versatile tools, but have you ever found yourself hitting their limitations? Maybe despite all your spreadsheet expertise, you're finding it awkward to model, navigate, or manipulate your data? In this session, we'll talk about a few other tools and techniques that suit data and methods which have outgrown Excel. You can share your experiences and issues, and maybe together we can find a way for you to store and use your data when spreadsheets are failing you."
   subtype: workshop
   complexity: "Beginner" 
   speakers: [25]
