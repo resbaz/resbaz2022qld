@@ -19,7 +19,6 @@ If a session is not listed below, bookings are not required - just turn up and j
 |--- | --- | --- | --- |--- |
 |Brisbane | Collecting Data From the Web | 	Wed, 24 Nov &nbsp; | 9:30 am	 |  [Book a place](https://www.eventbrite.com.au/e/collecting-data-from-the-web-tickets-194110388397)|
 |Brisbane | Software Carpentry With Python (2 days) | Wed, 24 Nov &nbsp;|9:30 am	 &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/203440575237)|
-|Brisbane | Software Carpentry With Python (2 days) | Wed, 24 Nov &nbsp;|9:30 am	 &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/203440575237)|
 |Brisbane | Research Profiles: Working Hard or Hard Work? | Wed, 24 Nov &nbsp;| 9.30 am	&nbsp; | [Book a place](https://www.eventbrite.com.au/e/204794454727)|
 |Brisbane | Introduction to Machine Learning for Imaging | Wed, 24 Nov &nbsp; | 1:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-machine-learning-for-imaging-tickets-194830763057)|
 |Brisbane | Introduction to Sensitive Data | Wed, 24 Nov &nbsp; | 2:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/203438218187)|
