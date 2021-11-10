@@ -387,7 +387,7 @@
   surname: "Kim"
   title: "Postdoctoral Associate/Library Technology Trainer at The University of Queensland"
   bio: "Catherine completed her PhD in Biological Sciences at UQ earlier this year and now splits her time between research and teaching R at the Library. Her research focuses on coral reef ecology and conservation and she is continually developing her R and data science skills."
-  thumbnailUrl: "catherine.kim.jpg"
+  thumbnailUrl: "catherine-kim.jpg"
   rockstar: true
   ribbon:
     - {abbr: "Technology Trainer", title: "Postdoc", url: "https://www.uq.edu.au/"}
