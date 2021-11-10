@@ -115,6 +115,11 @@
       endTime: "16:30",
       sessionIds: [005, 022, 004, 001, 041, 051]
     }
+   - {
+      startTime: "18:00",
+      endTime: "19:00",
+      sessionIds: [053]
+    }
 - 
   date: "2021-11-26"
   dateReadable: "Friday, 26 November - Brisbane"
