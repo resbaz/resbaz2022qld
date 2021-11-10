@@ -189,7 +189,8 @@
   title: "Copyright Considerations for Researchers (workshop)"
   description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
   speakers: [23]
-  subtype: talk
+  presentation: "https://www.eventbrite.com.au/e/copyright-considerations-for-researchers-tickets-208346248237"
+  subtype: workshop
   complexity: "Beginner" 
 -
   id: 019
