@@ -412,14 +412,14 @@
   subtype: talk
 -
   id: 052
-  title: "Blogging with R (workshop)"
-  description: "Catherine Kim will present a 'how to'."
+  title: "Run a Community of Practice Blog with Git and R (workshop)"
+  description: "Grassroots communities of practice are a great way to build communities and skill share – creating an online presence and repository for knowledge, tutorials, and code can be a useful tool. We will introduce a workflow using Git and R to run a community of practice blog by forking a GitHub repository, creating a blogpost in R, and pushing the post back to GitHub. This workshop will feature the UQ Geospatial Analysis Community Group and use their new community of practice R blog as an example. Basic understanding of Git + GitHub and R + RStudio is helpful but the workshop will be aimed at beginners with no prior knowledge."
   speakers: [38]
   subtype: workshop
 -
   id: 053
-  title: "**Satellite event**: Brisbane RLadies meetup via **Zoom**: Writing Your Manuscript in R markdown"
-  description: "This talk will highlight the basic knowledge required to write manuscripts in R markdown and the advantages. Presenter Gayathri Thillaiyampalam completed her PhD in 2020 from The University of Queensland. She is currently working as a Research Fellow at Griffith Institute for Drug Discovery. Her areas of interest are bioinformatics, immunology and drug discovery."
+  title: "**Satellite event**: Brisbane RLadies meetup via Zoom: Writing Your Manuscript in R Markdown"
+  description: "This talk will highlight the basic knowledge required to write manuscripts in R Markdown and the advantages. Presenter Gayathri Thillaiyampalam completed her PhD in 2020 from The University of Queensland. She is currently working as a Research Fellow at Griffith Institute for Drug Discovery. Her areas of interest are bioinformatics, immunology and drug discovery."
   subtype: talk
   presentation: "https://www.meetup.com/rladies-brisbane/events/281938190"
 -
