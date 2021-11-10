@@ -14,7 +14,7 @@ All workshop bookings are **free of charge**, but you will need to have your **R
 
 We are not taking bookings for talks. If a session is not listed below, bookings are not required - just turn up and join in!
 
-### Brisbane workshops
+#### Brisbane workshops
 | Workshop | Time|  Link |
 | --- | --- | --- | 
  | Copyright Considerations for Researchers	|  9.00 am	 &nbsp;| [Book a place](https://www.eventbrite.com.au/e/copyright-considerations-for-researchers-tickets-208346248237)|
@@ -26,7 +26,7 @@ We are not taking bookings for talks. If a session is not listed below, bookings
  | Introduction to the Nectar Cloud	| 2:30 pm	|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-the-nectar-cloud-tickets-194849830087)|
 | Advanced Image Processing and Analysis with FIJI |  1:30 pm &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/advanced-image-processing-and-analysis-with-fiji-tickets-194848937417)|
 
-### Gold Coast workshops
+#### Gold Coast workshops
 | Workshop | Time|  Link |
 | --- | --- | --- | 
 | Introduction to Data Wrangling with OpenRefine| 	  9:00 am &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/introduction-to-data-wrangling-with-openrefine-tickets-195543284227)|
