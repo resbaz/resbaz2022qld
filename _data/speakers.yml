@@ -375,10 +375,20 @@
   id: 37
   name: "Dr Elisa"
   surname: "Bayraktarov"
-  title: "EcoCommons Program Manager, Griffith Universit"
+  title: "EcoCommons Program Manager, Griffith University"
   bio: "Elisa is a conservation scientist and data diplomat. She did her PhD in Ecology in 2013, and led the development of Australia’s Threatened Species Index from 2016 – 2020. As a Program Manager, Elisa oversees the work of a team of agile software engineers (DevOps), scientists, science communicators, trainers and analysts to make EcoCommons the platform of choice for environmental and ecological modelling."
   thumbnailUrl: "elisa.jpg"
   rockstar: true
   ribbon:
     - {abbr: "EcoCommons", title: "EcoCommons", url: "https://www.ecocommons.org.au/"}
+-
+  id: 37
+  name: "Dr Catherine"
+  surname: "Kim"
+  title: "Postdoctoral Associate/Library Technology Trainer at The University of Queensland"
+  bio: "Catherine completed her PhD in Biological Sciences at UQ earlier this year and now splits her time between research and teaching R at the Library. Her research focuses on coral reef ecology and conservation and she is continually developing her R and data science skills."
+  thumbnailUrl: "catherine.kim.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Technology Trainer", title: "Postdoc", url: "https://www.uq.edu.au/"}
 -
