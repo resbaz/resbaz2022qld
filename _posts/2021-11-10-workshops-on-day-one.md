@@ -18,9 +18,9 @@ These are the workshops being offered on Day One in Brisbane - **Wednesday, 24 N
 
 | Workshop | Time |  Link |
 |--- | --- |--- |
-| Collecting Data From the Web  | 9:30 am	 |  [Book a place](https://www.eventbrite.com.au/e/collecting-data-from-the-web-tickets-194110388397)|
-| Research Profiles: Working Hard or Hard Work? |  9.30 am	&nbsp; | [Book a place](https://www.eventbrite.com.au/e/204794454727)|
-| Software Carpentry With Python (2 days) | 9:30 am	 &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/203440575237)|
-| Introduction to Machine Learning for Imaging |  1:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-machine-learning-for-imaging-tickets-194830763057)|
-| Software Carpentry: The Unix shell  | 2:15 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/software-carpentry-introduction-to-task-automation-with-the-unix-shell-tickets-195555049417)|
-| Introduction to Sensitive Data |  2:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/203438218187)
+| Collecting Data From the Web  &nbsp;	 | 9:30 am	  &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/collecting-data-from-the-web-tickets-194110388397)|
+| Research Profiles: Working Hard or Hard Work? &nbsp;	 |  9.30 am	&nbsp; | [Book a place](https://www.eventbrite.com.au/e/204794454727)|
+| Software Carpentry With Python (Day 1 of 2)  &nbsp;	| 9:30 am	 &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/203440575237)|
+| Introduction to Machine Learning for Imaging  &nbsp;	|  1:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-machine-learning-for-imaging-tickets-194830763057)|
+| Software Carpentry: The Unix shell  &nbsp;	 | 2:15 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/software-carpentry-introduction-to-task-automation-with-the-unix-shell-tickets-195555049417)|
+| Introduction to Sensitive Data &nbsp;	 |  2:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/203438218187)
