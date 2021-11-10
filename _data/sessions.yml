@@ -186,7 +186,7 @@
   speakers: [33]
 -
   id: 018
-  title: "Copyright Considerations for Researchers (talk)"
+  title: "Copyright Considerations for Researchers (workshop)"
   description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
   speakers: [23]
   subtype: talk
@@ -409,4 +409,10 @@
   description: "Dr Elisa Bayraktarov: EcoCommons Program Manager, at Griffith University will give an introdutory talk on this modelling platform."
   speakers: [37]
   subtype: talk
+-
+  id: 052
+  title: "Blogging with R (workshop)"
+  description: "Catherine Kim, from the UQ Geospatial Analysis Community of Practice, will present this workshop on using R to blog."
+  speakers: [38]
+  subtype: workshop
 -
