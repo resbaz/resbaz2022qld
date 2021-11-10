@@ -410,8 +410,14 @@
   speakers: [37]
   subtype: talk
 -
+  id: 052
+  title: "Blogging with R (workshop)"
+  description: "Catherine Kim will present a 'how to'."
+  speakers: [38]
+  subtype: workshop
+-
   id: 053
-  title: "Satellite event: Brisbane RLadies meetup via Zoom: Writing your manuscript in R markdown"
+  title: "**Satellite event**: Brisbane RLadies meetup via **Zoom**: Writing Your Manuscript in R markdown"
   description: "This talk will highlight the basic knowledge required to write manuscripts in R markdown and the advantages. Presenter Gayathri Thillaiyampalam completed her PhD in 2020 from The University of Queensland. She is currently working as a Research Fellow at Griffith Institute for Drug Discovery. Her areas of interest are bioinformatics, immunology and drug discovery."
   subtype: talk
   presentation: "https://www.meetup.com/rladies-brisbane/events/281938190"
