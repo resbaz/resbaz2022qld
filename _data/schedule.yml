@@ -103,17 +103,17 @@
     - {
       startTime: "13:30",
       endTime: "14:00",
-      sessionIds: [201, 037, 040, 001, 041, 052]
+      sessionIds: [201, 037, 040, 001, 041, 051]
     }
     - {
       startTime: "14:00",
       endTime: "14:30",
-      sessionIds: [202, 050, 040, 001, 041, 008]
+      sessionIds: [202, 050, 040, 001, 041, 051]
     }
     - {
       startTime: "14:30",
       endTime: "16:30",
-      sessionIds: [005, 022, 004, 001, 041, 051]
+      sessionIds: [005, 022, 004, 001, 041, 052]
     }
     - {
       startTime: "18:00",
