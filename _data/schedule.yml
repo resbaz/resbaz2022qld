@@ -149,7 +149,12 @@
     - {
       startTime: "12:30",
       endTime: "13:30",
-      sessionIds: [104, 024]
+      sessionIds: [104]
+    }
+    - {
+      startTime: "12:30",
+      endTime: "14:30",
+      sessionIds: [024]
     }
     - {
       startTime: "13:30",
