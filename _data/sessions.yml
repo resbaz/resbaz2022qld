@@ -423,3 +423,9 @@
   subtype: talk
   presentation: "https://www.meetup.com/rladies-brisbane/events/281938190"
 -
+  id: 054
+  title: "One Health Data Management System with Data Analytics"
+  description: "Establishing One Health management system for human, animal and environment is significant in the current pandemic situation. High-performance cloud computing and Big Data Analytics can be used in gathering, processing, and analysing human and animal disease data. The talk aims at the available digital research platform to engineer the one health system. Australian Research Data Commons (ARDC) offers national data set for Health Studies Australian National Data Asset (HeSANDA) at ARDC. Similarly creating another National Data Asset for One Health systems would have many benefits for the research, Veterinary Sciences, Australian Cancer Research, pharmaceutical and Drug Discovery fields. Further, ARDC’s Nectar Cloud would host the data analytical platform for the predictive analysis of the data. The recent advancements in Machine learning, Natural Language Processing, Text Analytics and Artificial Intelligence can be used in filling the gaps between the biological sciences and information technology."
+  subtype: talk
+  speakers: [39]
+-
