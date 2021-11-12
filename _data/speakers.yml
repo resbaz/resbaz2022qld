@@ -393,13 +393,12 @@
     - {abbr: "Technology Trainer", title: "Postdoc", url: "https://www.uq.edu.au/"}
 -
  id: 39
-  name: "Dr Rajyalakshmi"
-  surname: "Gaddipati"
-  title: "Business Analyst/Software Engineer at One Health surveillance and analytics, The University of Queensland"
-  bio: "Dr Rajyalakshmi Gaddipati (Raji) graduated from Swinburne University, Melbourne for Graduate Diploma in Biotechnology in the year 2010. She received PhD award from Victoria University- Melbourne in 2015. From 2015 Oct till 2021 Oct, she worked as a lecturer for Master of Information Technology course for Charles Sturt University and Federation University."
-  thumbnailUrl: "rajyalakshmi.jpg"
-  rockstar: true
-  ribbon:
+ name: "Dr Rajyalakshmi"
+ surname: "Gaddipati"
+ title: "Business Analyst/Software Engineer at One Health surveillance and analytics, The University of Queensland"
+ bio: "Dr Rajyalakshmi Gaddipati (Raji) graduated from Swinburne University, Melbourne for Graduate Diploma in Biotechnology in the year 2010. She received PhD award from Victoria University- Melbourne in 2015. From 2015 Oct till 2021 Oct, she worked as a lecturer for Master of Information Technology course for Charles Sturt University and Federation University."
+ thumbnailUrl: "rajyalakshmi.jpg"
+ rockstar: true
+ ribbon:
     - {abbr: "Business Analyst/Software Engineer", title: "Business Analyst/Software Engineer", url: "https://www.uq.edu.au/"}
 -
-
