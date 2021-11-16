@@ -292,8 +292,8 @@
   presentation: "https://www.eventbrite.com.au/e/introduction-to-digital-texts-and-tools-for-hass-research-tickets-195542521947"
 -
   id: 034
-  title: "Dr Stephanie Chaousis: Key Story - The Real Deal: Leveraging research ready real-world data to make a real impact on healthcare"
-  description: "Dr Chaousis, the Partnerships Manager of Datarwe, will introduce the topic of real-world data research in the context of healthcare, and what the benefits and current challenges are of using this data for clinical research are. She will explain the amazing ways which this data can be used to save lives through providing a foundation for quality AI/ML tools implemented at the bedside and how researchers can get involved in this exciting space."
+  title: "Dr Meghan McConnell: Key Story - The Real Deal: Leveraging research ready real-world data to make a real impact on healthcare"
+  description: "Dr McConnell, Data Scientist at Datarwe, will introduce the topic of real-world data research in the context of healthcare, and what the benefits and current challenges are of using this data for clinical research are. She will explain the amazing ways which this data can be used to save lives through providing a foundation for quality AI/ML tools implemented at the bedside and how researchers can get involved in this exciting space."
   speakers: [6]
   hidden: true
 -
