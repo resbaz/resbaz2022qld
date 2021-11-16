@@ -90,8 +90,9 @@
   id: 003
   title: "The Gale Digital Scholar Lab: 3 years on, what's new? (workshop)"
   description: "The Gale Digital Scholar Lab officially released in 2018 and has continued to grow in popularity with Academics and Institutions across the world. Researching primary sources/text and data mining have become more intuitive and easier to access without having the prerequisite skills in digital humanities. Starting 2021 Gale began the upgrading the Digital Scholar Lab platform to include new technologies and bring the Gale Digital Scholar Lab design in line with other Gale primary source platforms.  This presentation will focus on the new experience for the Gale Digital Scholar Lab, exploring the new tools and functionality being added (Officially Launching in December 2021) for a better user experience."
+  speakers: [41]
   subtype: workshop
-  complexity: "Beginner" 
+  complexity: "beginner" 
 -
   id: 004
   title: "Create an Open CV (workshop)"
@@ -103,6 +104,7 @@
   id: 005
   title: "The Gale Digital Scholar Lab: Getting started with your research (workshop)"
   description: "This Presentation will showcase how to get started with using the Gale Digital Scholar Lab, starting with a research question we will explore how Students/Academics/ Researchers and Librarians can use the Gale Digital Scholar Lab to search through the institution's primary source holdings from Gale, or upload their own content to build their content sets using articles from various historical newspapers etc. Analyse this content using the TDM tools available in the Lab and finally exporting the visualizations out of the lab."
+  speakers: [41]
   subtype: workshop
   complexity: "beginner" 
 -
