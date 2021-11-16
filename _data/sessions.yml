@@ -180,7 +180,7 @@
 -  
   id: 017
   title: "Advanced Image Processing and Analysis with FIJI (workshop)"
-  description: "Presented by Nick Condon and Deborah Barkauskas. BYO laptop."
+  description: "Presented by Nick Condon and Deborah Barkauskas. BYO laptop. More information can be found on FIJI at https://osf.io/6q78e/wiki/home/ and https://osf.io/x2nyk/."
   subtype: workshop
   complexity: "Intermediate" 
   speakers: [33]
