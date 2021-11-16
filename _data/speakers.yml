@@ -62,14 +62,14 @@
     - {abbr: "Statistics", title: "AEL, Griffith University", url: "https://www.griffith.edu.au/arts-education-law"}
 -
   id: 6
-  name: "Dr Stephanie"
-  surname: "Chaousis"
-  title: "Partnerships Manager, Datarwe"
-  bio: "Dr Chaousis is the Partnerships Manager for Datarwe, a data-driven technology company that provides an acute care medical research data platform as a service."
-  thumbnailUrl: "stephanie-chaousis.jpg"
+  name: "Dr Meghan"
+  surname: "McConnell"
+  title: "Data Scientist, Datarwe"
+  bio: "Dr Meghan McConnell is a recent Biomedical Engineering PhD graduate, currently working as a data scientist with Datarwe. During PhD candidature, she specialised on improving the reliability of various heart rate variability metrics, and their subsequent use in predictive healthcare analytics. Within her role at Datarwe, Meg is now looking into measures to both record and improve the general quality of the patient healthcare data collected, whilst continuing to expand her work in the area of predictive healthcare analytics. A true woman of data, she has also been involved in the Young Women Leaders in AI, and Griffith Women in Engineering programs as a mentor."
+  thumbnailUrl: "megan.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "Datarwe", title: "AI", url: "https://datarwe.com/"}
+    - {abbr: "Datarwe", title: "Data Scientist", url: "https://datarwe.com/"}
 -
   id: 7
   name: "Dr Sara"
