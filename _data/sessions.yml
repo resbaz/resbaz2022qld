@@ -206,9 +206,10 @@
   speakers: [2]
 -
   id: 021
-  title: "SAGE Publishing (talk)"
-  description: "Sponsor talk."
+  title: "SAGE Research Methods: Making Research Easy"
+  description: "SAGE Research Methods supports research at all levels by providing material to guide users through every step of the research process. Nearly everyone at a university is involved in research, from students learning how to conduct research to faculty conducting research for publication to librarians delivering research skills training and doing research on the efficacy of library services. In this session, Dr. Lim will walk us through this comprehensive resource and explain how it can help to make the research journey easier."
   subtype: talk
+  speakers: [40]
 -
   id: 022
   title: "Introduction to Species Distributions Modelling with the EcoCommons (workshop)"
