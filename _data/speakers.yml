@@ -412,3 +412,13 @@
  ribbon:
     - {abbr: "SAGE Publishing", title: "Customer Relations Training Manager", url: "https://au.sagepub.com/en-gb/oce/home/"}
 -
+ id: 41
+ name: "Damian"
+ surname: "Almeida"
+ title: ""
+ bio: ""
+ thumbnailUrl: ""
+ rockstar: true
+ ribbon:
+    - {abbr: "Gale", title: "Training Executive", url: "https://www.gale.com/intl"}
+-
