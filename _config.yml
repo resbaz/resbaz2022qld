@@ -50,10 +50,10 @@ navigationLinks:
  - {link: "https://www.eventbrite.com.au/e/185377598387/", text: "Register - Brisbane"}
  - {link: "https://www.eventbrite.com.au/e/192062111947/", text: "Register - Gold Coast"}
  - {permalink: "/cod/", text: "Code of Conduct"}
-bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
-rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
+#bottomNavigationLinks:
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
+#rightNavigationButtons:
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
 
 # Hero Block
 heroImage: "pelicano.jpg"
@@ -179,7 +179,7 @@ twitterFeed: "https://twitter.com/ResBazQld"
 socialLinks:
  - {link: "https://twitter.com/ResBazQld", icon: "twitter"}
  - {link: "https://www.qcif.edu.au/", icon: "site"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", icon: "mail"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", icon: "mail"}
 footerBlocks:
  -
   title: "Links"
