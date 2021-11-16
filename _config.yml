@@ -12,7 +12,7 @@ future: true # Enable future posts (date > current date)
 
 # Site Settings
 title: "ResBaz Queensland"
-email: "mailto:mark.crowe@qcif.edu.au"
+email: "mailto:resbaz@qcif.edu.au"
 description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
 baseurl: "/resbaz2021qld"
 url: "http://resbaz.github.io/resbaz2021qld"
@@ -198,8 +198,8 @@ footerBlocks:
  -  
   title: "Contacts"
   links:
-   - {link: "mailto:mark.crowe@qcif.edu.au", text: "mark.crowe@qcif.edu.au"}
-   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Volunteer as a helper for ResBaz"}
+   - {link: "mailto:resbaz@qcif.edu.au", text: "resbaz@qcif.edu.au"}
+#   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Volunteer as a helper for ResBaz"}
  -
   title: "FAQ"
   links:
