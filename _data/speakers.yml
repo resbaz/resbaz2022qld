@@ -413,14 +413,13 @@
     - {abbr: "SAGE Publishing", title: "Customer Relations Training Manager", url: "https://au.sagepub.com/en-gb/oce/home/"}
 -
  id: 41
- name: "Damian"
- surname: "Almeida"
- title: ""
- bio: ""
- thumbnailUrl: ""
+ name: "Anis"
+ surname: "Ali"
+ title: "Training Executive"
+ thumbnailUrl: "anis-ali.jpg"
  rockstar: true
  ribbon:
-    - {abbr: "Gale", title: "Training Executive", url: "https://www.gale.com/intl"}
+    - {abbr: "Gale", title: "Regional Sales Manager, Gale Cengage", url: "https://www.gale.com/intl"}
 -
  id: 42
  name: "Carmen"
