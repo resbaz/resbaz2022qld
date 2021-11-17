@@ -327,7 +327,7 @@
   surname: "Makunin"
   title: "Senior Bioinformatician, QCIF Bioinformatics"
   bio: "Igor Makunin was trained in genetics and molecular biology, and has gradually migrated from wet lab work into bioinformatics and analysis of high throughput sequencing data. Igor delivers User Support for Galaxy Australia and provides bioinformatics support to Queensland researchers."
-  thumbnailUrl: "IgorMakunin2019_web2.jpeg"
+  thumbnailUrl: "igor_makunin.jpeg"
   rockstar: true
   ribbon:
     - {abbr: "QCIF", title: "Senior Bioinformatician", url: "https://usegalaxy.org.au/"}
