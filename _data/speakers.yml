@@ -413,13 +413,13 @@
     - {abbr: "Datarwe", title: "Data Scientist", url: "https://datarwe.com/"}
 -
  id: 41
- name: "Anis"
- surname: "Ali"
+ name: "Damian"
+ surname: "Almeida"
  title: "Training Executive"
  thumbnailUrl: "anis-ali.jpg"
  rockstar: true
  ribbon:
-    - {abbr: "Gale", title: "Regional Sales Manager, Gale Cengage", url: "https://www.gale.com/intl"}
+    - {abbr: "Gale Cengage", title: "Training Executive", url: "https://www.gale.com/intl"}
 -
  id: 42
  name: "Carmen"
