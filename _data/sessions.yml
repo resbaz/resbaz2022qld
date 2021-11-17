@@ -212,7 +212,7 @@
   title: "SAGE Research Methods: Making Research Easy"
   description: "SAGE Research Methods supports research at all levels by providing material to guide users through every step of the research process. Nearly everyone at a university is involved in research, from students learning how to conduct research to faculty conducting research for publication to librarians delivering research skills training and doing research on the efficacy of library services. In this session, Dr. Lim will walk us through this comprehensive resource and explain how it can help to make the research journey easier."
   subtype: talk
-  speakers: [40]
+  speakers: [6]
 -
   id: 022
   title: "Introduction to Species Distributions Modelling with the EcoCommons (workshop)"
@@ -295,7 +295,7 @@
   id: 034
   title: "Dr Meghan McConnell: Key Story - The Real Deal: Leveraging research ready real-world data to make a real impact on healthcare"
   description: "Dr McConnell, Data Scientist at Datarwe, will introduce the topic of real-world data research in the context of healthcare, and what the benefits and current challenges are of using this data for clinical research are. She will explain the amazing ways which this data can be used to save lives through providing a foundation for quality AI/ML tools implemented at the bedside and how researchers can get involved in this exciting space."
-  speakers: [6]
+  speakers: [40]
   hidden: true
 -
   id: 035
