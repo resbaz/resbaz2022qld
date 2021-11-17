@@ -61,15 +61,15 @@
   ribbon:
     - {abbr: "Statistics", title: "AEL, Griffith University", url: "https://www.griffith.edu.au/arts-education-law"}
 -
-  id: 6
-  name: "Dr Meghan"
-  surname: "McConnell"
-  title: "Data Scientist, Datarwe"
-  bio: "Dr Meghan McConnell is a recent Biomedical Engineering PhD graduate, currently working as a data scientist with Datarwe. During her PhD candidature, she specialised on improving the reliability of various heart rate variability metrics, and their subsequent use in predictive healthcare analytics. Within her role at Datarwe, Meg is now looking into measures to both record and improve the general quality of the patient healthcare data collected, whilst continuing to expand her work in the area of predictive healthcare analytics. A true woman of data, she has also been involved in the Young Women Leaders in AI, and Griffith Women in Engineering programs as a mentor."
-  thumbnailUrl: "megan.jpg"
-  rockstar: true
-  ribbon:
-    - {abbr: "Datarwe", title: "Data Scientist", url: "https://datarwe.com/"}
+ id: 6
+ name: "Dr Lim"
+ surname: "Khee Hiang"
+ title: "Customer Relations Training Manager, Customer Relations, SAGE Publishing APAC"
+ bio: "Dr. Lim Khee Hiang works at SAGE Publishing in Singapore as a Customer Relations Training Manager covering Asia Pacific. Prior to joining SAGE Publishing, he has 10 years of experience in Thomson Reuters primarily responsible for educating professionals in R&D, corporations, academics and government departments on IP & Science products & services and provides consultancy advice helping decision leaders to derive the best strategic value and usage for their research and daily workflow solutions."
+ thumbnailUrl: "KHphoto_Edited.jpg"
+ rockstar: true
+ ribbon:
+    - {abbr: "SAGE Publishing", title: "Customer Relations Training Manager", url: "https://au.sagepub.com/en-gb/oce/home/"}
 -
   id: 7
   name: "Dr Sara"
@@ -402,15 +402,15 @@
  ribbon:
     - {abbr: "Business Analyst/Software Engineer", title: "Business Analyst/Software Engineer", url: "https://www.uq.edu.au/"}
 -
- id: 40
- name: "Dr Lim"
- surname: "Khee Hiang"
- title: "Customer Relations Training Manager, Customer Relations, SAGE Publishing APAC"
- bio: "Dr. Lim Khee Hiang works at SAGE Publishing in Singapore as a Customer Relations Training Manager covering Asia Pacific. Prior to joining SAGE Publishing, he has 10 years of experience in Thomson Reuters primarily responsible for educating professionals in R&D, corporations, academics and government departments on IP & Science products & services and provides consultancy advice helping decision leaders to derive the best strategic value and usage for their research and daily workflow solutions."
- thumbnailUrl: "KHphoto_Edited.jpg"
- rockstar: true
- ribbon:
-    - {abbr: "SAGE Publishing", title: "Customer Relations Training Manager", url: "https://au.sagepub.com/en-gb/oce/home/"}
+  id: 6
+  name: "Dr Meghan"
+  surname: "McConnell"
+  title: "Data Scientist, Datarwe"
+  bio: "Dr Meghan McConnell is a recent Biomedical Engineering PhD graduate, currently working as a data scientist with Datarwe. During her PhD candidature, she specialised on improving the reliability of various heart rate variability metrics, and their subsequent use in predictive healthcare analytics. Within her role at Datarwe, Meg is now looking into measures to both record and improve the general quality of the patient healthcare data collected, whilst continuing to expand her work in the area of predictive healthcare analytics. A true woman of data, she has also been involved in the Young Women Leaders in AI, and Griffith Women in Engineering programs as a mentor."
+  thumbnailUrl: "megan.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Datarwe", title: "Data Scientist", url: "https://datarwe.com/"}
 -
  id: 41
  name: "Anis"
