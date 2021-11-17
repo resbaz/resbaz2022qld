@@ -126,8 +126,9 @@
 -
   id: 008
   title: "Graduate Digital Research Fellows (talk)"
-  description: "Participants in this UQ-run program will talk about how the program has enhanced their research skills."
+  description: "Carmen Lim: What is the hype on medical marijuana in the U.S.? A Twitter based analysis."
   complexity: "Beginner" 
+  speakers: [42]
   subtype: talk
 -
   id: 009
@@ -434,4 +435,32 @@
 -
   id: 055
   title: "---"
+-
+  id: 056
+  title: "Graduate Digital Research Fellows (talk)"
+  description: "Choon Leng So - title TBA"
+  complexity: "Beginner" 
+  speakers: [44]
+  subtype: talk
+-
+  id: 057
+  title: "Graduate Digital Research Fellows (talk)"
+  description: "Fiannuala Morgan: Bushfire Reporting and Fiction in 19th Century Australian Newspapers"
+  complexity: "Beginner" 
+  speakers: [43]
+  subtype: talk
+-
+  id: 058
+  title: "Graduate Digital Research Fellows (talk)"
+  description: "Carina Vasconcelos Nogueira E Silva: Social media for health promotion and skin cancer prevention"
+  complexity: "Beginner" 
+  speakers: [45]
+  subtype: talk
+-
+  id: 059
+  title: "Graduate Digital Research Fellows (talk)"
+  description: "Tianze Sun: Media representations of youth vaping: A corpus-based analysis of US newspaper coverage from 2014 to 2021"
+  complexity: "Beginner" 
+  speakers: [46]
+  subtype: talk
 -
