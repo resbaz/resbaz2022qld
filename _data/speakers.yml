@@ -323,14 +323,14 @@
     - {abbr: "eResearch", title: "Manager (eResearch)", url: "https://staffprofile.usq.edu.au/Profile/Francis-Gacenga"}
 -
   id: 32
-  name: "Dr Gareth"
-  surname: "Price"
-  title: "Head of Computational Biology, QCIF Facility for Advanced Bioinformatics"
-  bio: "Gareth Price has been a Genomics Scientist for over 15 years now. His view is that research, clinical research, and healthcare are at their best when coupled with the most accurate, highest throughput and innovative technology and analysis."
-  thumbnailUrl: "gareth-price.jpg"
+  name: "Dr Igor"
+  surname: "Makunin"
+  title: "Senior Bioinformatician, QCIF Bioinformatics"
+  bio: "Igor Makunin was trained in genetics and molecular biology, and has gradually migrated from wet lab work into bioinformatics and analysis of high throughput sequencing data. Igor delivers User Support for Galaxy Australia and provides bioinformatics support to Queensland researchers."
+  thumbnailUrl: "IgorMakunin2019_web2.jpeg"
   rockstar: true
   ribbon:
-    - {abbr: "Galaxy", title: "Galaxy", url: "https://www.qcif.edu.au/"}
+    - {abbr: "QCIF", title: "Senior Bioinformatician", url: "https://usegalaxy.org.au/"}
 -
   id: 33
   name: "Dr Nicholas"
