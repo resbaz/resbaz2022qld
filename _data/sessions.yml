@@ -445,22 +445,8 @@
 -
   id: 057
   title: "Graduate Digital Research Fellows (talk)"
-  description: "Fiannuala Morgan: Bushfire Reporting and Fiction in 19th Century Australian Newspapers"
+  description: "1) Carina Vasconcelos Nogueira E Silva: Social media for health promotion and skin cancer prevention, 2) Fiannuala Morgan: Bushfire Reporting and Fiction in 19th Century Australian Newspapers, 3) Tianze Sun: Media representations of youth vaping: A corpus-based analysis of US newspaper coverage from 2014 to 2021."
   complexity: "Beginner" 
-  speakers: [43]
-  subtype: talk
--
-  id: 058
-  title: "Graduate Digital Research Fellows (talk)"
-  description: "Carina Vasconcelos Nogueira E Silva: Social media for health promotion and skin cancer prevention"
-  complexity: "Beginner" 
-  speakers: [45]
-  subtype: talk
--
-  id: 059
-  title: "Graduate Digital Research Fellows (talk)"
-  description: "Tianze Sun: Media representations of youth vaping: A corpus-based analysis of US newspaper coverage from 2014 to 2021"
-  complexity: "Beginner" 
-  speakers: [46]
+  speakers: [43, 45, 46]
   subtype: talk
 -
