@@ -420,6 +420,7 @@
   description: "Grassroots communities of practice are a great way to build communities and skill share – creating an online presence and repository for knowledge, tutorials, and code can be a useful tool. We will introduce a workflow using Git and R to run a community of practice blog by forking a GitHub repository, creating a blogpost in R, and pushing the post back to GitHub. This workshop will feature the UQ Geospatial Analysis Community Group and use their new community of practice R blog as an example. Basic understanding of Git + GitHub and R + RStudio is helpful but the workshop will be aimed at beginners with no prior knowledge."
   speakers: [38]
   subtype: workshop
+  presentation: https://www.eventbrite.com.au/e/run-a-community-of-practice-blog-with-git-and-r-tickets-213238922357"
 -
   id: 053
   title: "**Satellite event**: Brisbane RLadies meetup via Zoom: Writing Your Manuscript in R Markdown"
