@@ -416,7 +416,7 @@
  name: "Damian"
  surname: "Almeida"
  title: "Training Executive"
- bio "As the Training Executive for Gale, Damian is responsible for assisting Gale’s customers with any training that is required on the Gale product line. He is also responsible for The Gale Digital Scholar Lab in the ANZ region."
+ bio: "As the Training Executive for Gale, Damian is responsible for assisting Gale’s customers with any training that is required on the Gale product line. He is also responsible for The Gale Digital Scholar Lab in the ANZ region."
  thumbnailUrl: "Damian_400.png"
  rockstar: true
  ribbon:
