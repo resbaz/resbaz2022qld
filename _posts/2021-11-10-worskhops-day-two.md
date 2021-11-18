@@ -25,4 +25,5 @@ These are the workshops being offered on Day Two in Brisbane - **Thursday, 25 No
 | Setting up an account to access the CVL	 &nbsp;	|  9:00 am &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/setting-up-an-account-to-access-the-cvl-tickets-194841114017)|
 | Oh, No, My Data has Outgrown my Spreadsheet	 &nbsp;	|  1:30 pm &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/oh-no-my-data-has-outgrown-my-spreadsheet-tickets-194846098927)|
 | Introduction to species distributions modelling with the EcoCommons &nbsp;		|  2:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-species-distributions-modelling-with-the-ecocommons-tickets-194846871237)|
+| Run a Community of Practice Blog with Git and R &nbsp;		|  2:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/run-a-community-of-practice-blog-with-git-and-r-tickets-213238922357)|
 | Create an Open CV &nbsp;		| 2:30 pm 	|  [Book a place](https://www.eventbrite.com.au/e/203435249307) |
