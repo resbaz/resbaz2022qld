@@ -404,8 +404,8 @@
   presentation: "https://www.eventbrite.com.au/e/203441748747"
 -
   id: 050
-  title: "Creating a Sustained Movement for Social Change in Academia (Project Free Our Knowledge) (talk)"
-  description: "Dr Cooper Smout, a postdoc at the Queensland Brain Institute, will discuss his plans to help researchers organise grassroots action in support of open and reproducible research practices."
+  title: "Measuring valuable contributions to the scientific enterprise (talk)"
+  description: "Academic incentive structures prioritise high impact publications at the expense of other valuable research contributions (e.g., replication studies, null results, teaching materials, open science project development). To balance the research ecosystem and incentivise these alternative research efforts, it could be useful to have an independent system that can accurately represent the value that each contribution adds to the scientific enterprise. Currently, however, no such system exists, presenting an obstacle to effective collaboration. In this talk, I'll introduce a prototype tool that aims to recognise and reward the full range of valuable contributions that researchers might add to the research ecosystem. I'll demonstrate the tool in action by showing attendees how I’m using the tool to organise my various open science projects (e.g., Project Free Our Knowledge, UQ-MORE) -- including this project itself -- and reflect on how the tool has increased my efficiency by replacing multiple platforms (e.g., Google Docs, Trello, Slack) with a single flexible workspace. I'll then share my vision for financing this model and developing it into a fundamentally new economic model for academia, using pilot data from a recent 'open science festival' to illustrate lucrative use cases beyond academia. Finally, I'll conclude my talk with an invitation to other researchers to join me in beta-testing this prototype, with a view to developing it into a radically transparent scholarly evaluation system fit for the 21st century."
   speakers: [36]
   subtype: talk
 -
