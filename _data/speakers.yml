@@ -161,26 +161,6 @@
   ribbon:
     - {abbr: "LRS", title: "LRS", url: "https://www.griffith.edu.au/library"}
 -
-  id: 16
-  name: "Julie"
-  surname: "Somers"
-  title: "Digital Capability Adviser"
-  bio: "Julie is a Digital Capability Adviser at Griffith University Library."
-  thumbnailUrl: "julie-somers.jpg"
-  rockstar: true
-  ribbon:
-    - {abbr: "DCA", title: "DCA", url: "https://www.griffith.edu.au/library"}
--
-  id: 17
-  name: "Sharron"
-  surname: "Stapleton"
-  title: "Library Research Specialist"
-  bio: "Sharron is a Library Research Specialist (LRS) in data management and open research at Griffith University Library."
-  thumbnailUrl: "sharron.jpg"
-  rockstar: true
-  ribbon:
-    - {abbr: "LRS", title: "LRS", url: "https://www.griffith.edu.au/library"}
--
   id: 18
   name: "Belinda"
   surname: "Weaver"
@@ -190,26 +170,6 @@
   rockstar: true
   ribbon:
     - {abbr: "AES", title: "AES", url: "https://twitter.com/cloudaus"}
--
-  id: 19
-  name: "Brett"
-  surname: "Parker"
-  title: "Senior Functional Analyst"
-  bio: "Brett is a Senior Functional Analyst in eResearch and Specialised Platforms, Research, Specialised and Data Foundations, at Griffith University."
-  thumbnailUrl: "brett-parker.jpg"
-  rockstar: true
-  ribbon:
-    - {abbr: "Griffith", title: "eResearch", url: "https://www.griffith.edu.au/"}
--
-  id: 20
-  name: "Fin"
-  surname: "Boyce"
-  title: "Discipline Librarian"
-  bio: "Fin is a Discipline Librarian for Arts, Education and Law in the Researcher Services team at Griffith University Library."
-  thumbnailUrl: "Fin-Boyce.png"
-  rockstar: true
-  ribbon:
-    - {abbr: "Griffith", title: "Griffith Library", url: "https://www.griffith.edu.au/library"}
 -
   id: 21
   name: "Professor Ginny"
@@ -352,16 +312,6 @@
   ribbon:
     - {abbr: "QCIF", title: "Skills Development", url: "https://www.qcif.edu.au/"}
 -
-  id: 35
-  name: "Alex"
-  surname: "Williams"
-  title: "Co-ordinator, Researcher Services, Griffith University Library"
-  bio: "Alex co-ordinates the work of the Researcher Services team within Academic Engagement Services, Griffith University Library. She is one of the key organisers of Gold Coast ResBaz."
-  thumbnailUrl: "alex-williams.jpg"
-  rockstar: true
-  ribbon:
-    - {abbr: "Griffith", title: "Researcher Services", url: "https://www.griffith.edu.au/library"}
--
   id: 36
   name: "Dr Cooper"
   surname: "Smout"
@@ -401,16 +351,6 @@
  rockstar: true
  ribbon:
     - {abbr: "Business Analyst/Software Engineer", title: "Business Analyst/Software Engineer", url: "https://www.uq.edu.au/"}
--
-  id: 40
-  name: "Dr Meghan"
-  surname: "McConnell"
-  title: "Data Scientist, Datarwe"
-  bio: "Dr Meghan McConnell is a recent Biomedical Engineering PhD graduate, currently working as a data scientist with Datarwe. During her PhD candidature, she specialised on improving the reliability of various heart rate variability metrics, and their subsequent use in predictive healthcare analytics. Within her role at Datarwe, Meg is now looking into measures to both record and improve the general quality of the patient healthcare data collected, whilst continuing to expand her work in the area of predictive healthcare analytics. A true woman of data, she has also been involved in the Young Women Leaders in AI, and Griffith Women in Engineering programs as a mentor."
-  thumbnailUrl: "megan.jpg"
-  rockstar: true
-  ribbon:
-    - {abbr: "Datarwe", title: "Data Scientist", url: "https://datarwe.com/"}
 -
  id: 41
  name: "Damian"
