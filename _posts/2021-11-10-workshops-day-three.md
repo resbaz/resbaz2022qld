@@ -26,12 +26,3 @@ We are not taking bookings for talks. If a session is not listed below, bookings
 |Data Transfer Methods for the Characterisation Virtual Laboratory (CVL)	|  1:30 pm	 &nbsp;| [Book a place](https://www.eventbrite.com.au/e/data-transfer-methods-for-the-characterisation-virtual-laboratory-cvl-tickets-194848466007)|
 |Acquire and Visualise OpenStreetMap Data with R	| 2:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/acquire-and-visualise-openstreetmap-data-with-r-tickets-194850431887)|
 |Introduction to the Nectar Cloud	|  2:30 pm	|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-the-nectar-cloud-tickets-194849830087)|
-
-#### Gold Coast workshops
-
-| Workshop | Time|  Link |
-|--- | --- | --- |
-| Introduction to Data Wrangling with OpenRefine| 9:00 am &nbsp;	| [Book a place](https://www.eventbrite.com.au/e/introduction-to-data-wrangling-with-openrefine-tickets-195543284227)|
-|Introduction to Web-Scraping	| 9:00 am &nbsp;	|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-web-scraping-tickets-195541067597)|
-|Introduction to Digital Texts and Tools for HASS Research	|  1:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/introduction-to-digital-texts-and-tools-for-hass-research-tickets-195542521947)|
-|Data Visualisation Basics	|  1:30 pm	 &nbsp;|  [Book a place](https://www.eventbrite.com.au/e/data-visualisation-basics-tickets-195546273167)|
