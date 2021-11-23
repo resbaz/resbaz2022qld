@@ -10,4 +10,4 @@ image: balloons.jpg
 
 Registration for ResBazQld will open at 8 am tomorrow in the [Advanced Engineering Building](https://www.eait.uq.edu.au/aeb) foyer (building #49 at UQ). [Check the schedule](https://resbaz.github.io/resbaz2021qldschedule) for tomorrow's program.
 
-To ensure people arrive on time for our kick-off address with Dr Julia Playford, we are offering door prizes. Get your ticket from the registration desk and you could win a fantastic prize.  
+To ensure people arrive on time for our kick-off address with Dr Julia Playford, we are offering afnatastic door prize of a ChromeCast with prizes for runners up as well. Get your ticket from the registration desk when you arrive and you could win!  
