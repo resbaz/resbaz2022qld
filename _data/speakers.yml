@@ -412,3 +412,12 @@
  ribbon:
     - {abbr: "Graduate Digital Research Fellow", title: "GDRF", url: "https://www.anu.edu.au"}
 -
+ id: 47
+ name: "Sharron"
+ surname: "Stapleton"
+ title: "Library Research Specialist"
+ thumbnailUrl: "sharron.jpg"
+ rockstar: true
+ ribbon:
+    - {abbr: "LRS", title: "Griffith University", url: "https://www.griffith.edu.au"}
+-
