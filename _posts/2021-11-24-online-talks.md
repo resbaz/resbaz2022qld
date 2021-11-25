@@ -8,7 +8,7 @@ image: balloons.jpg
 
 ### Join us even if you can't join us
 
-All of the keynote talks and sponsor workshops for ResBaz Qld will be shared online, free and for everyone to watch. See the links below to find out what's on offoer
+All of the keynote talks and sponsor workshops for ResBaz Qld will be shared online, free and for everyone to watch. See the links below to find out what's on offer.
 
 Keynote talks
 
