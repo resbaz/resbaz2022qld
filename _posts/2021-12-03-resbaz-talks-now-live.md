@@ -26,8 +26,8 @@ Download link: [https://vimeo.com/user82369617/download/652696272/a616cb2c5c](ht
 
 Apologies for the lack of sound for the first two -three minutes. The sound for the video at the end didn’t capture well on the microphone – the original of that video can be viewed at [https://www.youtube.com/watch?v=d20hQA18tLw](https://www.youtube.com/watch?v=d20hQA18tLw).
 
-Soils 4 Science project: [https://imb.uq.edu.au/soilsforscience](https://imb.uq.edu.au/soilsforscience)
-Video link: [https://vimeo.com/652706726](https://vimeo.com/652706726)     
+Soils 4 Science project: [https://imb.uq.edu.au/soilsforscience](https://imb.uq.edu.au/soilsforscience)    
+Video link: [https://vimeo.com/652706726](https://vimeo.com/652706726)       
 Download link: [https://vimeo.com/user82369617/download/652706726/3fa43e06a0](https://vimeo.com/user82369617/download/652706726/3fa43e06a0) 
 
 ##### The Life of Survey Data: From Conception to Birth then Graduation, Culminating in its Life Purpose / Doing Surveys Well, By Design – Associate Professor Sama Low-Choy,  Senior Statistician at Griffith University
