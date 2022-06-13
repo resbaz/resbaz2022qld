@@ -14,8 +14,8 @@ future: true # Enable future posts (date > current date)
 title: "ResBaz Queensland"
 email: "mailto:resbaz@qcif.edu.au"
 description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
-baseurl: "/resbaz2021qld"
-url: "http://resbaz.github.io/resbaz2021qld"
+baseurl: "/resbaz2022qld"
+url: "http://resbaz.github.io/resbaz2022qld"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "matty-plumski.github.io"
@@ -23,7 +23,7 @@ siteVerification: "xOlzoaCacKCBpEsxW4st40F89pI="
 
 
 # Organizer Info
-organizerName: "Mark Crowe"
+organizerName: "Amanda Miotto"
 organizerAlternateName: "QCIF"
 # organizerDescription: " "
 # organizerEmail: "mark.crowe@qcif.edu.au" 
@@ -31,7 +31,7 @@ organizerLogo: "/img/seo/QCIF_Logo_web-copy.jpg"
 organizerLink: "https://www.qcif.edu.au/"
 
 # Head
-metaKeywords: "event, resbaz, research, bazaar, brisbane, queensland, digital, skills, upskilling, hdr, ecr, eresearch"
+metaKeywords: "event, resbaz, research, bazaar, brisbane, queensland, digital, skills, upskilling, hdr, ecr, eresearch, resbazqld, resbazbris"
 twitterAccount: "@ResBazQld"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
@@ -57,19 +57,19 @@ navigationLinks:
 # Hero Block
 heroImage: "pelicano.jpg"
 heroTitle: "ResBaz Queensland"
-eventDate: "24-26 November 2021"
+eventDate: "15-17 August 2022"
 
 
 # About Block
 aboutTitle: "About ResBaz Queensland"
 aboutSubtitle: "Conference"
-aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy at the centre of modern research. Throughout 2021, events will be held at a number of university campuses around the world.</p>
+aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy at the centre of modern research. Throughout 2022, events will be held at a number of university campuses around the world.</p>
 
-<p>Hosted in 2021 by The University of Queensland, the 2021 Queensland Research Bazaar will be a three-day intensive conference where researchers will come together to up-skill in 'next generation digital research tools and skills'. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+<p>Hosted in 2022 by Griffith University, the 2022 Queensland Research Bazaar will be a three-day intensive conference where researchers will come together to up-skill in 'next generation digital research tools and skills'. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research Masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>.
 
-<p>ResBaz Qld is being run in accordance with our Covid safe plan. Please ensure that you bring a mask and wear it if you are not able to social distance, and check in using the Check In Qld app on arrival. You must not attend in person if you have travelled to any declared Covid hotspot in the last 14 days, if you are subject to any quarantine or isolation restrictions, or if you have any cold or flu symptoms.</p>"
+<p>ResBaz Qld is being run in accordance with our Covid safe plan. We encourage wearing a mask if you are not able to social distance. You must not attend in person if you have travelled to any declared Covid hotspot in the last 14 days, if you are subject to any quarantine or isolation restrictions, or if you have any cold or flu symptoms.</p>"
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
@@ -90,19 +90,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Advanced Engineering Building, The University of Queensland"
-eventLocationLink: "https://studentvip.com.au/uq/st-lucia/maps/149004"
-eventStreetAddress: "Staff House Road"
-eventAddressLocality: "The University of Queensland"
+eventLocationName: "S07 (Behind the Ship Inn), Southbank Campus, Griffith University"
+eventLocationLink: "https://goo.gl/maps/W478u5aa5FwAV5gy8"
+eventStreetAddress: "Sidon St"
+eventAddressLocality: "Griffith University - Southbank Campus"
 eventAddressLocalityRegion: "Brisbane"
-eventPostalCode: "4072"
+eventPostalCode: "4101"
 eventAddressCountry: "Australia"
-eventStartTime: "2021-11-24T09:00"
+eventStartTime: "2022-08-15T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2021-11-26T17:00"
-eventPlaceCoordinates: "-27.535771,152.982909"
-mapCenterCoordinates: "-27.535771,152.982909"
-mapMobileCenterCoordinates: ""
+eventEndTime: "2022-08-17T17:00"
+eventPlaceCoordinates: "-27.482157522836093,153.0248879957284"
+mapCenterCoordinates: "-27.482157522836093, 153.0248879957284"
+mapMobileCenterCoordinates: "-27.482157522836093,153.0248879957284"
 
 # Venue Block
 # venueBlockTitle: "Past Events"
