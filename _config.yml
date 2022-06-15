@@ -17,9 +17,9 @@ description: "Run by a team of volunteers from south-east Queensland universitie
 baseurl: "/resbaz2022qld"
 url: "http://resbaz.github.io/resbaz2022qld"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "matty-plumski.github.io"
-siteVerification: "xOlzoaCacKCBpEsxW4st40F89pI="
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "matty-plumski.github.io"
+#siteVerification: "xOlzoaCacKCBpEsxW4st40F89pI="
 
 
 # Organizer Info
@@ -36,7 +36,7 @@ twitterAccount: "@ResBazQld"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
 # Documents
-c4pUrl: "mailto:mark.crowe@qcif.edu.au"
+c4pUrl: "mailto:a.miotto@griffith.edu.au"
 c4sponsorsUrl: "https://www.qcif.edu.au"
 
 
@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
- - {link: "https://www.eventbrite.com.au/e/185377598387/", text: "Register"}
+ #- {link: "https://www.eventbrite.com.au/e/185377598387/", text: "Register"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 #bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
