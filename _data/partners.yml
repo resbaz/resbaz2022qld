@@ -1,12 +1,19 @@
 - 
-  group: "Platinum Sponsors"
+  group: "Gold Sponsors"
   elements: 
-    - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://us.sagepub.com/en-us/nam/home", imageUrl: "sage.png"}
-    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "gale.jpg"}
+    - {name: "AWS Cloud", description: "AWS Cloud", link: "https://aws.amazon.com/anz-public-sector/", imageUrl: "aws.png"}
+-
+  group: "Silver Sponsors"
+  elements: 
     - {name: "AARNet", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "aarnet.png"}
-- 
+    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "gale.jpg"}
+
   group: "With the support of"
   elements: 
     - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "qciflogo.jpg", width: "120px"}
     - {name: "Griffith University Library", description: "Griffith Uni Library", link: "https://www.griffith.edu.au/library", imageUrl: "griffithuni.png", width: "120px"}
+    - {name: "Griffith University Library", description: "Griffith Uni Library", link: "https://www.griffith.edu.au/library", imageUrl: "griffithuni.png", width: "120px"}
+    - {name: "Griffith University Library", description: "Griffith Uni Library", link: "https://www.griffith.edu.au/library", imageUrl: "griffithuni.png", width: "120px"}
+    - {name: "Griffith University Library", description: "Griffith Uni Library", link: "https://www.griffith.edu.au/library", imageUrl: "griffithuni.png", width: "120px"}
+
 - 
