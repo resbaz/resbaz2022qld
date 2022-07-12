@@ -2,6 +2,7 @@
 layout: post
 title: Research Bazaar Policies and Code of Conduct
 permalink: /cod/
+image: stones.jpg
 isStaticPost: true
 ---
 ##### Research Bazaar Policies and Code of Conduct
