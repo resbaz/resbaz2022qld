@@ -83,7 +83,7 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 # latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "wisteria.jpg"
+rockstarSpeakersImage: "stones.jpg"
 rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Keystory speakers"
 rockstarSpeakersButtonText: "See all speakers"
@@ -114,7 +114,7 @@ mapMobileCenterCoordinates: "-27.482157522836093,153.0248879957284"
 # venueFeatures: ["Mix of online and in-person events", "Network and collaborate","Sessions streamed across Queensland"]
 
 # Tweets Feed Block
-tweetsFeedImage: "wisteria.jpg"
+tweetsFeedImage: "stones.jpg"
 tweetsFeedTitle: "What's the latest?"
 twitterHashTag: "ResBazQld"
 twitterFeed: "https://twitter.com/ResBazQld"
