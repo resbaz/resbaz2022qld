@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
- #- {link: "https://www.eventbrite.com.au/e/185377598387/", text: "Register"}
+ - {link: "https://www.eventbrite.com.au/e/resbaz-queensland-2022-tickets-385567261057", text: "Register"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 #bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
@@ -181,21 +181,21 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.flickr.com/photos/bystandr/", text: "All site background images copyright Dr Nick"}
+   #- {link: "https://www.flickr.com/photos/bystandr/", text: "All site background images copyright Dr Nick"}
  -
-  title: "Platinum Sponsors"
+  title: "Gold Sponsors"
   links:
-#    - {link: "https://au.sagepub.com/en-gb/oce/home", text: "SAGE Publishing", imageUrl: "sage.png"}
-#   - {link: "https://www.gale.com/intl", text: "Gale", imageUrl: "gale.jpg"}
-#   - {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "aarnet.png"}
+    - {link: "https://aws.amazon.com/anz-public-sector/", text: "AWS", imageUrl: "../img/organizers/AWS_logo_RGB.png"}
+    - {link: "https://au.sagepub.com/en-gb/oce/home", text: "SAGE Publishing", imageUrl: "../img/organizers/SAGE_Publishing.png"}
  -    
   title: "Silver Sponsor"
   links:
-#    - {link: "https://cloud.google.com/edu/researchers/", text: "Google Cloud", imageUrl: "googlecloud.png"}
+   - {link: "https://www.gale.com/intl", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
+   - {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
  -  
   title: "Collaborating Institutes"
   links:
-#    - {link: "https://cloud.google.com/edu/researchers/", text: "Google Cloud", imageUrl: "googlecloud.png"}
+   - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "https://www.griffith.edu.au/_globaldesigns/gen-10/images/griffith-logo-2.svg"}
  -  
   title: "Contacts"
   links:
