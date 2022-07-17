@@ -10,47 +10,39 @@
   hidden: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 1031
+  id: 103
   title: "Lunch and stalls"
   service: true
   hidden: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 1032
+  id: 104
   title: "Lunch"
   service: true
   hidden: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 104
+  id: 105
   title: "Speakers of the day"
   service: true
   hidden: true
   description: "Come listen to our key speakers for the day"
 -
-  id: 105
+  id: 106
   title: "Afternoon tea"
   service: true
   hidden: true
   description: "The best time to talk with speakers and attendees"
 -
-
-  id: 001
+  id: 1001
   title: "Reproducible Research"
-  description: "On completion of this workshop, participants should be able to: 
-- identify ways to make their research better organised, more reproducible and transparent 
-- identify time-saving processes such as automation of common tasks 
-- safeguard themselves against fraud 
-- secure their data against loss or accidental disclosure 
-- identify best practices in reproducibility for current and future research projects 
-
-No prior knowledge or equipment/installs needed"
+  description: "On completion of this workshop, participants should be able to: <br>- identify ways to make their research better organised, more reproducible and transparent <br>- identify time-saving processes such as automation of common tasks <br>- safeguard themselves against fraud <br>- secure their data against loss or accidental disclosure <br>- identify best practices in reproducibility for current and future research projects <br><br>No prior knowledge or equipment/installs needed"
   subtype: workshop
   complexity: "Beginner"
   #speakers: [0]
   #img: key_icons/speaking.png
 - 
-  id: 002
+  id: 1002
   title: "Learn how to share your code and results with end users: Shiny app fundamentals in R"
   description: "Ever wanted to share your R code with industry partners or end users who weren’t familiar with the language? Or wished that you could build an interactive app that only required non-technical stakeholders to click a few buttons? 
 
