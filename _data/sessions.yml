@@ -133,7 +133,7 @@
   subtype: workshop
 -
   id: 1018
-  title: "Machine Learning Crash Couse - Principles and Tools in R"
+  title: "Machine Learning Crash Course - Principles and Tools in R"
   description: "This workshop will cover: <br><br>- What we mean by 'machine learning' in the context of 'supervised learning' <br><br>- Using the caret package in R for implementing machine learning models <br><br>- How to align the purpose of a model and the choice of a model  <br><br>Prerequisites: Basic knowledge of R and Rstudio, particularly data frames. Please come with R and Rstudio installed"
   subtype: workshop
 -
