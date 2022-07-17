@@ -2,7 +2,7 @@
   group: "Gold Sponsors"
   elements: 
     - {name: "AWS", description: "AWS", link: "https://aws.amazon.com/anz-public-sector/", imageUrl: "organizers/AWS_logo_RGB.png"}
-    - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://us.sagepub.com/en-us/nam/home", imageUrl: "../img/organizers/SAGE_Publishing.png"}
+    - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://us.sagepub.com/en-us/nam/home", imageUrl: "SAGE_Publishing.png"}
 -
   group: "Silver Sponsors"
   elements: 
