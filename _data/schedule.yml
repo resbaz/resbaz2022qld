@@ -8,7 +8,7 @@
     - {title: "S07 2.17 (Upstairs)", color: "#FF00FF"}
     - {title: "S07 2.18 (Upstairs)", color: "#FF8C00"}
     - {title: "S07 2.19 (Upstairs)", color: "#48D1CC"}
-    - {title: "S05 2.04 (via Path)", color: "#e91e63"}
+    #- {title: "S05 2.04 (via Path)", color: "#e91e63"}
   timeslots:
     - {
       startTime: "08:00",
@@ -18,7 +18,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [1001,1002,1003,1005,1009,1000,1000]
+      sessionIds: [1001,1002,1003,1005,1009,1010]
     }
     - {
       startTime: "10:30",
@@ -28,7 +28,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [1000,1002,1004,1006,1009,1000,1000]
+      sessionIds: [1000,1002,1004,1006,1009,1010]
     }
     - {
       startTime: "12:30",
@@ -48,7 +48,7 @@
     - {
       startTime: "15:00",
       endTime: "17:00",
-      sessionIds: [1000,1000,1000,1000,1009,1000,1000]
+      sessionIds: [1000,1000,1000,1000,1009,1000]
     }
 -
   date: "2021-08-16"
@@ -61,7 +61,7 @@
     - {title: "S07 2.18 (Upstairs)", color: "#FF8C00"}
     - {title: "S07 2.19 (Upstairs)", color: "#48D1CC"}
     - {title: "S06 2.02 (Upstairs)", color: "#FF00FF"}
-    - {title: "S05 2.04 (via Path)", color: "#e91e63"}
+   # - {title: "S05 2.04 (via Path)", color: "#e91e63"}
   timeslots:
     - {
       startTime: "08:00",
@@ -71,7 +71,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [1000,1000,1000,1007,1009,1000,1000,1000]
+      sessionIds: [1000,1000,1000,1007,1009,1000,1000]
     }
     - {
       startTime: "10:30",
@@ -81,7 +81,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [1000,1000,1000,1008,1009,1000,1000,1000]
+      sessionIds: [1000,1000,1000,1008,1009,1000,1000]
     }
     - {
       startTime: "12:30",
@@ -101,7 +101,7 @@
     - {
       startTime: "15:00",
       endTime: "17:00",
-      sessionIds: [1000,1000,1000,1000,1000,1000,1000,1000]
+      sessionIds: [1000,1000,1000,1000,1000,1000,1000]
     }
 -
   date: "2021-08-17"
@@ -114,7 +114,7 @@
     - {title: "S07 2.18 (Upstairs)", color: "#FF8C00"}
     - {title: "S07 2.19 (Upstairs)", color: "#48D1CC"}
     - {title: "S06 2.02 (Upstairs)", color: "#FF00FF"}
-    - {title: "S05 2.04 (via Path)", color: "#e91e63"}
+    #- {title: "S05 2.04 (via Path)", color: "#e91e63"}
   timeslots:
     - {
       startTime: "08:00",
@@ -124,7 +124,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [1000,1000,1000,1008,1000,1000,1000,1000]
+      sessionIds: [1000,1000,1000,1008,1000,1000,1000]
     }
     - {
       startTime: "10:30",
@@ -134,7 +134,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [1000,1000,1000,1008,1000,1000,1000,1000]
+      sessionIds: [1000,1000,1000,1008,1000,1000,1000]
     }
     - {
       startTime: "12:30",
@@ -154,6 +154,6 @@
     - {
       startTime: "15:00",
       endTime: "17:00",
-      sessionIds: [1000,1000,1000,1000,1000,1000,1000,1000]
+      sessionIds: [1000,1000,1000,1000,1000,1000,1000]
     }
 
