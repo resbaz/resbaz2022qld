@@ -108,8 +108,8 @@
   subtype: workshop
 -
   id: 1013
-  title: "Data Cleaning with OpenRefine "
-  description: "Learn how to prepare messy, structured or semi-structured data and transform it into a structured and organised format to enable computational processing and analysis. On completion of this workshop, participants should be able to:  <br><br>•clean, organise, and prepare data for analysis <br>•explore data through facets and filters <br>•implement "tidy data" principles <br>•use basic features of OpenRefine <br>•extract and reuse a reproducible script to repeat processing on similar data <br><br>Please bring a Laptop (not tablet) and install OpenRefine software. Instructions to be sent prior to workshop. "
+  title: "Data Cleaning with OpenRefine"
+  description: "Learn how to prepare messy, structured or semi-structured data and transform it into a structured and organised format to enable computational processing and analysis. On completion of this workshop, participants should be able to:  <br><br>•clean, organise, and prepare data for analysis <br>•explore data through facets and filters <br>•implement tidy data principles <br>•use basic features of OpenRefine <br>•extract and reuse a reproducible script to repeat processing on similar data <br><br>Please bring a Laptop (not tablet) and install OpenRefine software. Instructions to be sent prior to workshop. "
   subtype: workshop
 -
   id: 1014
