@@ -11,16 +11,16 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 103
-  title: "Lunch and stalls"
+  title: "Lunch"
   service: true
   hidden: true
   description: "The best time to talk with speakers and attendees"
 -
   id: 104
-  title: "Lunch"
+  title: "Lunch and stalls"
   service: true
   hidden: true
-  description: "The best time to talk with speakers and attendees"
+  description: "The best time to talk with speakers and attendees, and visit our wonderful stalls!"
 -
   id: 105
   title: "Speakers of the day - Join us in S05 2.04 (via outdoor path)"
@@ -142,4 +142,28 @@
   description: "This workshop is recommended for researchers looking for scripting capabilities to run batch analyses and link processes to create a basic pipeline, or to automated repeated tasks for efficiency and reproducibility. While it is designed to be suitable for people with no previous experience with Python or other programming languages, participants do need to be confident and experienced with using computers, and a familiarity with command-line interfaces will be helpful. <br><br>  <br><br>Learning Objectives <br><br>  <br><br>Use Python to read and write data from and to files <br><br>Perform simple scripting operations using loops and conditionals to carry out batch analyses <br><br>Generate data plots with Python <br><br>Syllabus <br><br>  <br><br>The workshop will use the training material at swcarpentry.github.io/python-novice-gapminder/. Topics covered will include: <br><br>- Fundamental programming concepts and how to apply them in Python <br>- Python data types and data structures <br>- Importing functions into Python using modules <br>- Programming structures: loops, conditionals, and functions  <br>- Using scripting language to automate data analysis pipelines <br><br><br>No prior knowledge needed – this workshop will assume you have no prior knowledge of programming and will take you through beginner steps <br><br>Please bring to class Laptop, internet connection, with installs completed as per http://swcarpentry.github.io/python-novice-gapminder/setup.html <br><br><br>Please note – if you are from Griffith University and using a GU computer, install Spyder from their website directly: https://www.spyder-ide.org/#section-download . Feel free to get in touch with Amanda Miotto at Griffith for assistance with this install <br><br> <br><br>"
   subtype: workshop
 -
-
+  id: 1020
+  title: "Document Processing with LaTeX "
+  description: "Using the LaTeX document processing system as an alternative to Microsoft Word. <br><br> Please bring a laptop signed into Overleaf (www.overleaf.com)"
+  subtype: workshop
+-
+  id: 1021
+  title: "Tidy Data"
+  description: "Lots of research relies on data entered and stored in spreadsheets. Yet poor data organisation within a spreadsheet can make any subsequent data analysis very difficult. This workshop outlines the principles for designing good spreadsheets from the outset. <br><br> Some knowledge of spreadsheet programs such as excel is needed. <br>Follow the instructions here: https://librarycarpentry.org/lc-spreadsheets/setup.html"
+  subtype: workshop
+-
+  id: 1022
+  title: "Using the R Package ‘galah’ to Investigate the Atlas of Living Australia "
+  description: "The Atlas of Living Australia (ALA) is Australia’s largest open biodiversity database. In this workshop, we will introduce the ALA R package – galah – and show how it can be used to efficiently locate, investigate, and download biodiversity information. The workshop will be interactive, and participants will live code in R studio along with workshop facilitators in a supportive and informative environment. Key topics to be covered include: <br><br>•        Setting up and installing the ‘galah’ package on R studio <br><br>•        Searching for species occurrence data <br><br>•        Filtering records by taxonomic and spatial criteria <br><br>•        Finding numbers of records or species within meaningful categories prior to download <br><br>•        Interacting with taxonomic information using the ‘data.tree’ package  <br><br>Workshop participants will walk away with a working knowledge of the ‘galah’ package as well as a comprehensive worksheet covering all the topics and code snippets to use for future reference.<br><br><br>Prerequisites/prior knowledge needed : A working understanding of R and R studio <br><br>Laptops/software installation needed : Participants can prepare for the workshop by ensuring they have an up-to-date version of R studio installed on their laptop. "
+  subtype: workshop
+-
+  id: 1023
+  title: "Ask a recruiter Anything "
+  description: "Ever have questions you would like to ask a recruiter? This is your opportunity! <br><br> <br><br>Meet with a panel of recruiters in the data/tech space and get the opportunity to learn about what happens while recruiting. "
+  subtype: workshop
+-
+  id: 1024
+  title: "Data orientated Career Pathways - How did I get here, and how can you? "
+  description: "ECome hear from a panel of data focused professionals, how they came to be in their careers and what career pathways are available in their spaces."
+  subtype: workshop
+-
