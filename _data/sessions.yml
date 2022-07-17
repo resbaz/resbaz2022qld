@@ -34,26 +34,32 @@
   hidden: true
   description: "The best time to talk with speakers and attendees"
 -
+  id: 1000
+  title: ""
+  description: "Placeholder"
+  subtype: workshop
+  complexity: "Beginner"
+-
   id: 1001
   title: "Reproducible Research"
   description: "On completion of this workshop, participants should be able to: <br>- identify ways to make their research better organised, more reproducible and transparent <br>- identify time-saving processes such as automation of common tasks <br>- safeguard themselves against fraud <br>- secure their data against loss or accidental disclosure <br>- identify best practices in reproducibility for current and future research projects <br><br>No prior knowledge or equipment/installs needed"
   subtype: workshop
   complexity: "Beginner"
-  #speakers: [0]
-  #img: key_icons/speaking.png
 - 
   id: 1002
   title: "Learn how to share your code and results with end users: Shiny app fundamentals in R"
-  description: "Ever wanted to share your R code with industry partners or end users who weren’t familiar with the language? Or wished that you could build an interactive app that only required non-technical stakeholders to click a few buttons? 
-
-  
-
-Shiny is a popular R package that allows you to build highly interactive web applications—without needing any other programming languages. Using Shiny you can share your analyses as dashboards and visualisations and create interactive platforms for anybody to use the tools you create (see examples here https://shiny.rstudio.com/gallery/). 
-
-  
-
-This is a workshop aimed at anyone with a working knowledge of R who is interested in better communicating their results with non-technical stakeholders. In the first part of this workshop, you will be introduced to the basic syntax and principles of R Shiny. Then we will develop an app that allows users to upload data, run analyses, and display the results in a figure and/or a map."
+  description: "Ever wanted to share your R code with industry partners or end users who weren’t familiar with the language? Or wished that you could build an interactive app that only required non-technical stakeholders to click a few buttons? <br><br> Shiny is a popular R package that allows you to build highly interactive web applications—without needing any other programming languages. Using Shiny you can share your analyses as dashboards and visualisations and create interactive platforms for anybody to use the tools you create (see examples here https://shiny.rstudio.com/gallery/). <br><br>This is a workshop aimed at anyone with a working knowledge of R who is interested in better communicating their results with non-technical stakeholders. In the first part of this workshop, you will be introduced to the basic syntax and principles of R Shiny. Then we will develop an app that allows users to upload data, run analyses, and display the results in a figure and/or a map."
   subtype: workshop
   #speakers: [1]
 -
-
+  id: 1003
+  title: ""
+  description: ""
+  subtype: workshop
+-
+  id: 1004
+  title: "How to describe your research impact in one sentence"
+  description: "Researchers will learn how to succinctly describe their work in one sentence to the right audience. This will then be printed onto a poster that can be used will recruiters, applications and self-promotion. <br><br>No Prior knowledge needed - please bring a laptop and something to write with"
+  subtype: workshop
+  #speakers: [1]
+-
