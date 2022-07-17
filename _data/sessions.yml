@@ -172,3 +172,28 @@
   description: "Zoom is a fact of life for most researchers now, yet many of its useful features often get overlooked. In this workshop we’ll introduce you to some Zoom techniques that QCIF uses in our training courses, and which we hope you can use to improve your online meetings and workshops. We’ll also encourage you to share your own hints and tips for Zoom meetings. <br><br><br>Prerequisites/prior knowledge needed: Attendees should have experience with setting up simple (one-on-one) meetings using Zoom. More experienced users are welcome. <br><br>Laptops/software installation needed: Please bring a laptop with Zoom installed and updated to the most recent version possible, configured for Eduroam wifi (and tested before the workshop)."
   subtype: workshop
 -
+  id: 1026
+  title: "Copyright considerations for Researchers "
+  description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
+  subtype: workshop
+-
+  id: 1027
+  title: "How to access biodiversity data from the Atlas of Living Australia "
+  description: "Atlas of Living Australia (ALA) is a collaborative, digital, open infrastructure that pulls together Australian biodiversity data from multiple sources, making it accessible and reusable. <br><br>The ALA helps to create a more detailed picture of Australia’s biodiversity for scientists, policy makers, environmental planners and land managers, industry and the general public, and enables them to work more efficiently. <br><br>This workshop will cover: <br><br>- Introduction to the ALA <br>- What data is available <br>- How to access data using the ALA web platform <br>- How to analyse and visualise data in the spatial portal <br><br>This workshop will be interactive and you will be plenty of time for questions and discussion!<br><br>Please bring a laptop with wifi access."
+  subtype: workshop
+-
+  id: 1028
+  title: "Building R packages and publishing them on GitHub "
+  description: "In this workshop, you will learn how to properly document and organise your functions to create an R package. Creating an R package is beneficial both when it comes to sharing code with other people, but also for home use. It makes it easier to call up your repertoire of functions and provides you with help files so that it is easy for you to remember how to use your functions long after you have built them. While the main purpose of this workshop is to construct an R package, I will also demonstrate how to use git to 'save' different versions of your package, as well as how to push your package onto GitHub so that it can be accessible to other people. <br><br><br>Prerequisites/prior knowledge needed: Enough knowledge of the R programming language to build a function. Students do not need to be proficient. <br><br>Laptops/software installation needed: Participants should bring a laptop, with R and RStudio installed. Having git installed and a GitHub account is beneficial, but not necessary. Having some existing R functions ready that the participant would like to turn into a function is encouraged, however I will provide some dummy functions for participants to work on if they do not bring their own."
+  subtype: workshop
+-
+  id: 1029
+  title: "Introduction to Git"
+  description: "<br>Workshop Description  <br><br>You’ll learn about the concepts behind version control software and how to use Git to track the changes in local and remote repositories. We’ll discuss and demystify the terminology: commits, merges, forks, etc. and the basics of how to collaborate using Git and GitHub. <br><br><br>No prior Git experience is necessary. <br><br>You will need to bring your own laptop, and please follow these instructions https://carpentries.github.io/workshop-template/#git to get Git (and Git Bash if you’re on Windows) installed. "
+  subtype: workshop
+-
+  id: 1030
+  title: "Hands-On Knowledge Mapping in R (library Bibliometrix ) "
+  description: "This workshop provides a practical introduction to the R Package, Bibliometrix (Aria & Cuccurullo, 2017). This workshop will focus upon data preparation, document clustering & visualising citation networks. <br><br> Basic R knowledge is needed. BYO your your own laptop and install R Studio & Bibliometrix (see - bit.ly/3y3hCkA)"
+  subtype: workshop
+-
