@@ -23,10 +23,10 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 105
-  title: "Speakers of the day"
+  title: "Speakers of the day - Join us in S05 2.04 (via outdoor path)"
   service: true
   hidden: true
-  description: "Come listen to our key speakers for the day"
+  description: "Come listen to our key speakers for the day- Lecture hall can be found just outside our main building. Our guides will help you find the hall."
 -
   id: 106
   title: "Afternoon tea"
@@ -95,5 +95,15 @@
   id: 1010
   title: "Introduction to FIJI (ImageJ)"
   description: "This workshop provides a basic foundation to the open source image analysis program, FIJJ (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc. <br><br>  <br><br>FIJI is an open source image analysis program which builds upon ImageJ as it comes 'batteries included' meaning extra plugins and libraries are included by default for an easy installation. The software works on Windows, Mac & Linux and can be run headless on HPC. <br><br>  <br><br>Topics Covered <br><br>The intention of this workshop is to introduce new users to the program and covers the basic concepts around opening, saving and ethical manipulations to images. <br><br>  <br>- Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files) <br>- Merging channels, and dealing with multiple channel images <br>- Adjusting Brightness & Contrast and using histograms <br>- Adjusting bit-depth <br>- Adding scale to images & adding scale bars <br>- Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views) <br>- Basic Measurements (Area, Intensity, Shape descriptors, Line Scans) <br>- Creating Selections (Manual, ROI Manager) <br>- Overlays <br><br><br>No prior knowledge is required, this is considered a beginners or foundation level course. <br><br>FIJI Imaging software (Download from: fiji.sc) Workshop files and content: https://osf.io/zq32x/"
+  subtype: workshop
+-
+  id: 1011
+  title: "The greatest gift to yourself "
+  description: ""
+  subtype: talk
+-
+  id: 1012
+  title: "The Impostor Syndrome...And why you may feel like you are a fake"
+  description: "Do you feel like everyone around you is smarter than you, and you are worried that they may discover you don't belong here? Or that you are faking it? Does it feel like you have gotten to your position due to a lucky break and not skill? <br><br>  <br><br>Welcome to the Impostor Syndrome. This is a strange psychological phenomenon that makes ordinary people – even brilliant ones – feel like they're frauds, fakes, inadequate, and undeserving. Even incredibly successful people like Neil Armstrong and Emma Watson feel like this sometimes. <br><br>  <br><br>Anyone can feel like this, especially if you are in a career in tech or research. Its particularly prevalent if you are from a diverse background (Women in STEM, international, etc). It can affect you at any stage of your career. <br><br>  <br><br>Come learn more about it from a fellow Impostor and hear about coping mechanisms to help you sidestep this feeling! "
   subtype: workshop
 -
