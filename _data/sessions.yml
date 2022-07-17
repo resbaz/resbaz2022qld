@@ -164,6 +164,11 @@
 -
   id: 1024
   title: "Data orientated Career Pathways - How did I get here, and how can you? "
-  description: "ECome hear from a panel of data focused professionals, how they came to be in their careers and what career pathways are available in their spaces."
+  description: "Come hear from a panel of data focused professionals, how they came to be in their careers and what career pathways are available in their spaces."
+  subtype: workshop
+-
+  id: 1025
+  title: "Zooming to the next level"
+  description: "Zoom is a fact of life for most researchers now, yet many of its useful features often get overlooked. In this workshop we’ll introduce you to some Zoom techniques that QCIF uses in our training courses, and which we hope you can use to improve your online meetings and workshops. We’ll also encourage you to share your own hints and tips for Zoom meetings. <br><br><br>Prerequisites/prior knowledge needed: Attendees should have experience with setting up simple (one-on-one) meetings using Zoom. More experienced users are welcome. <br><br>Laptops/software installation needed: Please bring a laptop with Zoom installed and updated to the most recent version possible, configured for Eduroam wifi (and tested before the workshop)."
   subtype: workshop
 -
