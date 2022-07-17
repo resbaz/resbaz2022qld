@@ -72,12 +72,12 @@
   description: "This workshop will introduce participants to text analytics in R. Starting with some comparative text data, participants will conduct introductory analysis of the content of the text, including breaking text down into words, handling emoji, and comparative frequency analysis.<br><br>This workshop follows on from the “Collecting Twitter Data for Comparative Text Analytics” workshop, but can be taken on its own. <br><br>Familiarity with R needed<br>Participants will need a laptop with an internet connection. Examples will be demonstrated in an online R notebook environment."
   subtype: workshop
 -
-  id: 1007
+  id: 10071
   title: "Network Analysis with R"
   description: "Come and learn how to analyse networks with R. This interactive workshop will cover loading networks into R, measuring properties of networks, and creating network visualisations. This will be demonstrated in the context of data from candidates for the 2019 Federal Election.<br><br>Familiarity with R needed<br>Participants will need a laptop with an internet connection. Examples will be demonstrated in an online R notebook environment."
   subtype: workshop
 -
-  id: 1007
+  id: 10072
   title: "Topic Modelling with R"
   description: "Following on from the network analysis workshop, this session will show you how to conduct a topic model analysis of political tweets to understand and interpret the content of a large dataset.<br><br>This workshop will use the same dataset as “Network Analysis with R”, but can be taken independently.<br><br>Familiarity with R needed<br>Participants will need a laptop with an internet connection. Examples will be demonstrated in an online R notebook environment."
   subtype: workshop
