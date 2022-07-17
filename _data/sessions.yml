@@ -53,13 +53,42 @@
   #speakers: [1]
 -
   id: 1003
-  title: ""
-  description: ""
+  title: "The Social Dilemma: Leveraging Social Media Strategically"
+  description: "Social media is considered essential for dissemination of research in today’s academic climate. Research has highlighted the impact of using social media to amplify work, but not without strategy. <br><br>In this workshop I will introduce the 3 domains of social media use (Consumption, Curation and Creation).<br><br> From here, we will explore approaches to achieving your goals for social media practice. <br> <br>We will cover different platforms, formats, and online safety. This introductory workshop will leave you with awareness of how you can integrate social media in your academic practice.  <br><br> Please bring a laptop or mobile device"
   subtype: workshop
 -
   id: 1004
   title: "How to describe your research impact in one sentence"
   description: "Researchers will learn how to succinctly describe their work in one sentence to the right audience. This will then be printed onto a poster that can be used will recruiters, applications and self-promotion. <br><br>No Prior knowledge needed - please bring a laptop and something to write with"
   subtype: workshop
-  #speakers: [1]
+-
+  id: 1005
+  title: "Collecting Twitter Data for Comparative Text Analytics"
+  description: "This hands-on workshop will show you how to collect and prepare Twitter data for analysis, using the example research question of “Which monotreme is the coolest?”. Starting from scratch, we will show you how to get Twitter developer API access and then use it to collect research data using the twarc toolkit for Python.<br><br>This workshop leads into the Comparative Text Analytics with R workshop, but can be taken on its own. <br><br>Participants will need a laptop that they can install Python on, and a Twitter account."
+  subtype: workshop
+-
+  id: 1006
+  title: "Comparative Text Analytics with R"
+  description: "This workshop will introduce participants to text analytics in R. Starting with some comparative text data, participants will conduct introductory analysis of the content of the text, including breaking text down into words, handling emoji, and comparative frequency analysis.<br><br>This workshop follows on from the “Collecting Twitter Data for Comparative Text Analytics” workshop, but can be taken on its own. <br><br>Familiarity with R needed<br>Participants will need a laptop with an internet connection. Examples will be demonstrated in an online R notebook environment."
+  subtype: workshop
+-
+  id: 1007
+  title: "Network Analysis with R"
+  description: "Come and learn how to analyse networks with R. This interactive workshop will cover loading networks into R, measuring properties of networks, and creating network visualisations. This will be demonstrated in the context of data from candidates for the 2019 Federal Election.<br><br>Familiarity with R needed<br>Participants will need a laptop with an internet connection. Examples will be demonstrated in an online R notebook environment."
+  subtype: workshop
+-
+  id: 1007
+  title: "Topic Modelling with R"
+  description: "Following on from the network analysis workshop, this session will show you how to conduct a topic model analysis of political tweets to understand and interpret the content of a large dataset.<br><br>This workshop will use the same dataset as “Network Analysis with R”, but can be taken independently.<br><br>Familiarity with R needed<br>Participants will need a laptop with an internet connection. Examples will be demonstrated in an online R notebook environment."
+  subtype: workshop
+-
+  id: 1008
+  title: "Intermediate Python Topics: Project Environments and Testing"
+  description: "This workshop will cover two intermediate topics in Python software development for research code:<br><br>1. Setting up a project environment for productive collaboration with a team<br>2. Testing your software<br><br>Basic knowledge of Python, Git and using a Command Line. It is expected that participants will have been programming for at least six months, and are starting to run into the limitations of their current workflows.<br><br>Laptop with Python and Git installed"
+  subtype: workshop
+-
+  id: 1009
+  title: "Introduction to R with Ecology data "
+  description: "EcoCommons is building the platform of choice to analyse and model ecological and environmental problems while also increasing digital literacy of researchers and students. This workshop will focus on improving your computational skills by showing you how the statistical program R can be used for data analysis and visualisation in Ecology.  <br><br>The course starts with some basic information about the R syntax, the RStudio interface, and moves through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshop participants will have an overview of how to run their R code in the EcoCommons cloud environment and how to use the R package {tidyverse} to manipulate and visualise their data. In particular, we will demonstrate how to use the functions ‘select’ and ‘filter’ to manipulate your data and how to use the ‘pipe operator’ for more complex data manipulation in combination with ‘summarise’, ‘group_by’ and ‘count’ for quick summary statistics. At the end, we will show you how to visualise your data using different plots in the R package {ggplot2}. <br><br>This workshop is suitable for early career researchers, undergraduates and ecologists who have a keen interest to learn how to code in R while harnessing the power of cloud computing to solve environmental challenges. This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills and have the desire to learn how to use code within the cloud-computing resources of EcoCommons. It is also well suited for people who would like to refresh their coding skills in R. <br><br>This workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/  <br><br>This workshop is brought to you by EcoCommons Australia. EcoCommons is a partnership of nine organisations including the NCRIS-funded Australian Research Data Commons (ARDC), the Atlas of Living Australia (ALA), CEBRA at the University of Melbourne, CSIRO’s Land and Water unit, Griffith University, Macquarie University, QCIF, TERN, and the University of NSW. It also involves investment from the Queensland Government’s Research Infrastructure Co-investment Fund (RICF). <br><br><br>No prior knowledge needed <br><br>It is essential that you install and test R and RStudio well before the workshop. <br><br>Please carefully follow the instructions on https://datacarpentry.org/R-ecology-lesson/index.html to download, install and configure R and RStudio on your computer. If you already have R installed, please make sure it is version 4.0.0 or higher, or update it otherwise."
+  subtype: workshop
 -

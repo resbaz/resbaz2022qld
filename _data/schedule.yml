@@ -18,7 +18,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [1001,1002,1003]
+      sessionIds: [1001,1002,1003,1005,1009,1000,1000]
     }
     - {
       startTime: "10:30",
@@ -28,7 +28,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [1000,1002,1004,1000,1000,1000,1000]
+      sessionIds: [1000,1002,1004,1006,1009,1000,1000]
     }
     - {
       startTime: "12:30",
@@ -48,7 +48,7 @@
     - {
       startTime: "15:00",
       endTime: "17:00",
-      sessionIds: []
+      sessionIds: [1000,1000,1000,1000,1009,1000,1000]
     }
 -
   date: "2021-08-16"
@@ -71,7 +71,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: []
+      sessionIds: [1000,1000,1000,1007,1009,1000,1000,1000]
     }
     - {
       startTime: "10:30",
@@ -81,7 +81,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: []
+      sessionIds: [1000,1000,1000,1008,1009,1000,1000,1000]
     }
     - {
       startTime: "12:30",
@@ -101,11 +101,11 @@
     - {
       startTime: "15:00",
       endTime: "17:00",
-      sessionIds: []
+      sessionIds: [1000,1000,1000,1000,1000,1000,1000,1000]
     }
 -
   date: "2021-08-17"
-  dateReadable: Wednesday 17th Aug"
+  dateReadable: "Wednesday 17th Aug"
   tracks: 
     - {title: "S07 1.23 (Ground Floor)", color: "#2E8B57"}
     - {title: "S07 2.10 (Upstairs)", color: "#e91e63"}
@@ -124,7 +124,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: []
+      sessionIds: [1000,1000,1000,1008,1000,1000,1000,1000]
     }
     - {
       startTime: "10:30",
@@ -134,7 +134,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: []
+      sessionIds: [1000,1000,1000,1008,1000,1000,1000,1000]
     }
     - {
       startTime: "12:30",
@@ -154,6 +154,6 @@
     - {
       startTime: "15:00",
       endTime: "17:00",
-      sessionIds: []
+      sessionIds: [1000,1000,1000,1000,1000,1000,1000,1000]
     }
 
