@@ -47,6 +47,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
+ - {permalink: "/partners/", text: "Partners & Sponsors"}
  - {link: "https://www.eventbrite.com.au/e/resbaz-queensland-2022-tickets-385567261057", text: "Register"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 #bottomNavigationLinks:
