@@ -1,13 +1,14 @@
 - 
-  date: "2021-11-24"
-  dateReadable: "Wednesday, 24 November"
+  date: "2021-08-15"
+  dateReadable: "Monday 15th Aug"
   tracks: 
-    - {title: "Auditorium", color: "#2E8B57"}
-    - {title: "Room 301", color: "#e91e63"}
-    - {title: "Room 313A", color: "#48D1CC"}
-    - {title: "Room 316", color: "#FF00FF"}
-    - {title: "Room 316A", color: "#FF8C00"}
-    - {title: "Room 502", color: "#48D1CC"}
+    - {title: "S07 1.23 (Ground Floor)", color: "#2E8B57"}
+    - {title: "S07 2.10 (Upstairs)", color: "#e91e63"}
+    - {title: "S07 2.16 (Upstairs)", color: "#48D1CC"}
+    - {title: "S07 2.17 (Upstairs)", color: "#FF00FF"}
+    - {title: "S07 2.18 (Upstairs)", color: "#FF8C00"}
+    - {title: "S07 2.19 (Upstairs)", color: "#48D1CC"}
+    - {title: "S05 2.04 (via Path)", color: "#e91e63"}
   timeslots:
     - {
       startTime: "08:00",
@@ -16,158 +17,143 @@
     }
     - {
       startTime: "09:00",
-      endTime: "09:30",
-      sessionIds: [020]
+      endTime: "10:30",
+      sessionIds: []
     }
     - {
-      startTime: "09:30",
+      startTime: "10:30",
       endTime: "11:00",
-      sessionIds: [019, 015, 007, 013, 001, 026]
-    }
-    - {
-      startTime: "11:00",
-      endTime: "11:30",
-      sessionIds: [103]
-    }
-    - {
-      startTime: "11:30",
-      endTime: "12:30",
-      sessionIds: [100]
-    }
-    - {
-      startTime: "12:30",
-      endTime: "13:30",
-      sessionIds: [104]
-    }
-    - {
-      startTime: "13:30",
-      endTime: "14:00",
-      sessionIds: [019, 010, 029, 016, 001, 006]
-    }
-    - {
-      startTime: "14:00",
-      endTime: "14:15",
       sessionIds: [102]
     }
     - {
-      startTime: "14:15",
+      startTime: "11:00",
+      endTime: "12:30",
+      sessionIds: []
+    }
+    - {
+      startTime: "12:30",
+      endTime: "13:30",
+      sessionIds: [1032]
+    }
+    - {
+      startTime: "13:30",
       endTime: "14:30",
-      sessionIds: [008, 019, 056, 038, 001, 006]
+      sessionIds: [104]
     }
     - {
       startTime: "14:30",
-      endTime: "16:30",
-      sessionIds: [019, 003, 042, 038, 001, 006]
-    }
-    - {
-      startTime: "16:30",
-      endTime: "17:30",
+      endTime: "15:00",
       sessionIds: [105]
     }
     - {
-      startTime: "17:30",
-      endTime: "19:30",
-      sessionIds: [106]
+      startTime: "15:00",
+      endTime: "17:00",
+      sessionIds: []
     }
-- 
-  date: "2021-11-25"
-  dateReadable: "Thursday, 25 November"
+-
+  date: "2021-08-16"
+  dateReadable: "Tue 16th Aug"
   tracks: 
-    - {title: "Auditorium", color: "#2E8B57"}
-    - {title: "Room 301", color: "#e91e63"}
-    - {title: "Room 313A", color: "#48D1CC"}
-    - {title: "Room 316", color: "#FF00FF"}
-    - {title: "Room 316A", color: "#FF8C00"}
-    - {title: "Room 502", color: "#48D1CC"}
+    - {title: "S07 1.23 (Ground Floor)", color: "#2E8B57"}
+    - {title: "S07 2.10 (Upstairs)", color: "#e91e63"}
+    - {title: "S07 2.16 (Upstairs)", color: "#48D1CC"}
+    - {title: "S07 2.17 (Upstairs)", color: "#FF00FF"}
+    - {title: "S07 2.18 (Upstairs)", color: "#FF8C00"}
+    - {title: "S07 2.19 (Upstairs)", color: "#48D1CC"}
+    - {title: "S06 2.02 (Upstairs)", color: "#FF00FF"}
+    - {title: "S05 2.04 (via Path)", color: "#e91e63"}
   timeslots:
     - {
+      startTime: "08:00",
+      endTime: "09:00",
+      sessionIds: [101]
+    }
+    - {
       startTime: "09:00",
+      endTime: "10:30",
+      sessionIds: []
+    }
+    - {
+      startTime: "10:30",
       endTime: "11:00",
-      sessionIds: [051, 009, 027, 041, 001, 002]
+      sessionIds: [102]
     }
     - {
       startTime: "11:00",
-      endTime: "11:30",
-      sessionIds: [103]
-    }
-    - {
-      startTime: "11:30",
       endTime: "12:30",
-      sessionIds: [200]
+      sessionIds: []
     }
     - {
       startTime: "12:30",
       endTime: "13:30",
-      sessionIds: [104]
+      sessionIds: [1032]
     }
     - {
       startTime: "13:30",
-      endTime: "14:00",
-      sessionIds: [201, 037, 040, 041, 001, 019]
-    }
-    - {
-      startTime: "14:00",
       endTime: "14:30",
-      sessionIds: [202, 050, 040, 041, 001, 054]
+      sessionIds: [104]
     }
     - {
       startTime: "14:30",
-      endTime: "16:30",
-      sessionIds: [005, 022, 004, 041, 001, 052]
+      endTime: "15:00",
+      sessionIds: [105]
     }
     - {
-      startTime: "18:00",
-      endTime: "19:00",
-      sessionIds: [053]
+      startTime: "15:00",
+      endTime: "17:00",
+      sessionIds: []
     }
-- 
-  date: "2021-11-26"
-  dateReadable: "Friday, 26 November - Brisbane"
+-
+  date: "2021-08-17"
+  dateReadable: Wednesday 17th Aug"
   tracks: 
-    - {title: "Auditorium", color: "#2E8B57"}
-    - {title: "Room 301", color: "#e91e63"}
-    - {title: "Room 313A", color: "#48D1CC"}
-    - {title: "Room 316", color: "#FF00FF"}
-    - {title: "Room 316A", color: "#FF8C00"}
-    - {title: "Room 502", color: "#48D1CC"}
+    - {title: "S07 1.23 (Ground Floor)", color: "#2E8B57"}
+    - {title: "S07 2.10 (Upstairs)", color: "#e91e63"}
+    - {title: "S07 2.16 (Upstairs)", color: "#48D1CC"}
+    - {title: "S07 2.17 (Upstairs)", color: "#FF00FF"}
+    - {title: "S07 2.18 (Upstairs)", color: "#FF8C00"}
+    - {title: "S07 2.19 (Upstairs)", color: "#48D1CC"}
+    - {title: "S06 2.02 (Upstairs)", color: "#FF00FF"}
+    - {title: "S05 2.04 (via Path)", color: "#e91e63"}
   timeslots:
     - {
+      startTime: "08:00",
+      endTime: "09:00",
+      sessionIds: [101]
+    }
+    - {
       startTime: "09:00",
+      endTime: "10:30",
+      sessionIds: []
+    }
+    - {
+      startTime: "10:30",
       endTime: "11:00",
-      sessionIds: [057, 014, 019, 049, 018, 310]
+      sessionIds: [102]
     }
     - {
       startTime: "11:00",
-      endTime: "11:30",
-      sessionIds: [103]
-    }
-    - {
-      startTime: "11:30",
       endTime: "12:30",
-      sessionIds: [300]
+      sessionIds: []
     }
     - {
       startTime: "12:30",
       endTime: "13:30",
-      sessionIds: [104]
-    }
-    - {
-      startTime: "12:30",
-      endTime: "14:30",
-      sessionIds: [024]
+      sessionIds: [1032]
     }
     - {
       startTime: "13:30",
       endTime: "14:30",
-      sessionIds: [025, 043, 017, 019, 019, 028]
+      sessionIds: [104]
     }
     - {
       startTime: "14:30",
-      endTime: "16:00",
-      sessionIds: [012, 021, 017, 044, 039, 028]
+      endTime: "15:00",
+      sessionIds: [105]
     }
     - {
-      startTime: "16:00",
-      endTime: "16:15",
-      sessionIds: [045]
+      startTime: "15:00",
+      endTime: "17:00",
+      sessionIds: []
     }
+
