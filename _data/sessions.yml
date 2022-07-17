@@ -107,3 +107,39 @@
   description: "Do you feel like everyone around you is smarter than you, and you are worried that they may discover you don't belong here? Or that you are faking it? Does it feel like you have gotten to your position due to a lucky break and not skill? <br><br>  <br><br>Welcome to the Impostor Syndrome. This is a strange psychological phenomenon that makes ordinary people – even brilliant ones – feel like they're frauds, fakes, inadequate, and undeserving. Even incredibly successful people like Neil Armstrong and Emma Watson feel like this sometimes. <br><br>  <br><br>Anyone can feel like this, especially if you are in a career in tech or research. Its particularly prevalent if you are from a diverse background (Women in STEM, international, etc). It can affect you at any stage of your career. <br><br>  <br><br>Come learn more about it from a fellow Impostor and hear about coping mechanisms to help you sidestep this feeling! "
   subtype: workshop
 -
+  id: 1013
+  title: "Data Cleaning with OpenRefine "
+  description: "Learn how to prepare messy, structured or semi-structured data and transform it into a structured and organised format to enable computational processing and analysis. On completion of this workshop, participants should be able to:  <br><br>•clean, organise, and prepare data for analysis <br>•explore data through facets and filters <br>•implement "tidy data" principles <br>•use basic features of OpenRefine <br>•extract and reuse a reproducible script to repeat processing on similar data <br><br>Please bring a Laptop (not tablet) and install OpenRefine software. Instructions to be sent prior to workshop. "
+  subtype: workshop
+-
+  id: 1014
+  title: "Note taking Apps and OneNote as a Laboratory Notebook"
+  description: "1. Giving introduction to today's common digital tools for note taking <br><br>2. How to use OneNote as a Laboratory Notebook <br><br>Please bring: Laptop, OneNote, Notepad++"
+  subtype: workshop
+-
+  id: 1015
+  title: "Come and Try the Nectar Cloud’s Virtual Desktop "
+  description: "Wondering whether the Cloud is for you? Come to this session to learn more about why its useful for research, and then learn basic skills to get started on our Virtual Desktop Service!<br><br>Prerequisites: Internet access, laptop and please log into the Virtual Desktop for the first time: https://desktop.rc.nectar.org.au "
+  subtype: workshop
+-
+  id: 1016
+  title: "How to bring change with your research (Change management skills) "
+  description: "We live and breathe change everyday – join us to learn more about how to encourage your audiences to embrace changes you propose – along with some tips!<br> Please bring laptop, paper and pen"
+  subtype: workshop
+-
+  id: 1017
+  title: "Academic & Professional Capability: Strategies to Effectively Transition Your Skills, Knowledge and Competences "
+  description: "The ‘capable practitioner’ (O’Reilly et al., 1999) can be characterised as one who demonstrates: self-efficacy, intelligent judgement, ethical practice, and is functionally competent across a range of competences that are wisely (selectively and constructively) applied in ways that reflect excellence, not just mere proficiency (Lester, 2014; Stephenson, 1998). This highly accessible presentation explores and reflects on the literature that defines academic and professional capability, and provides strategies to help practice-based researchers effectively transition their skills, knowledge and competences between these two capacities."
+  subtype: workshop
+-
+  id: 1018
+  title: "Machine Learning Crash Couse - Principles and Tools in R"
+  description: "This workshop will cover: <br><br>- What we mean by 'machine learning' in the context of 'supervised learning' <br><br>- Using the caret package in R for implementing machine learning models <br><br>- How to align the purpose of a model and the choice of a model  <br><br>Prerequisites: Basic knowledge of R and Rstudio, particularly data frames. Please come with R and Rstudio installed"
+  subtype: workshop
+-
+  id: 1019
+  title: "Introduction to Python for Data Scientists"
+  description: "This workshop is recommended for researchers looking for scripting capabilities to run batch analyses and link processes to create a basic pipeline, or to automated repeated tasks for efficiency and reproducibility. While it is designed to be suitable for people with no previous experience with Python or other programming languages, participants do need to be confident and experienced with using computers, and a familiarity with command-line interfaces will be helpful. <br><br>  <br><br>Learning Objectives <br><br>  <br><br>Use Python to read and write data from and to files <br><br>Perform simple scripting operations using loops and conditionals to carry out batch analyses <br><br>Generate data plots with Python <br><br>Syllabus <br><br>  <br><br>The workshop will use the training material at swcarpentry.github.io/python-novice-gapminder/. Topics covered will include: <br><br>- Fundamental programming concepts and how to apply them in Python <br>- Python data types and data structures <br>- Importing functions into Python using modules <br>- Programming structures: loops, conditionals, and functions  <br>- Using scripting language to automate data analysis pipelines <br><br><br>No prior knowledge needed – this workshop will assume you have no prior knowledge of programming and will take you through beginner steps <br><br>Please bring to class Laptop, internet connection, with installs completed as per http://swcarpentry.github.io/python-novice-gapminder/setup.html <br><br><br>Please note – if you are from Griffith University and using a GU computer, install Spyder from their website directly: https://www.spyder-ide.org/#section-download . Feel free to get in touch with Amanda Miotto at Griffith for assistance with this install <br><br> <br><br>"
+  subtype: workshop
+-
+

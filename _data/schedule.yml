@@ -8,7 +8,6 @@
     - {title: "S07 2.17 (Upstairs)", color: "#FF00FF"}
     - {title: "S07 2.18 (Upstairs)", color: "#FF8C00"}
     - {title: "S07 2.19 (Upstairs)", color: "#48D1CC"}
-    #- {title: "S05 2.04 (via Path)", color: "#e91e63"}
   timeslots:
     - {
       startTime: "08:00",
@@ -48,12 +47,12 @@
     - {
       startTime: "15:00",
       endTime: "16:00",
-      sessionIds: [1011,1000,1000,1000,1009,1000]
+      sessionIds: [1011,1002,1013,1014,1009,1015]
     }
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [1012,1000,1000,1000,1009,1000]
+      sessionIds: [1012,1002,1013,1014,1009,1015]
     }
 -
   date: "2021-08-16"
@@ -66,7 +65,6 @@
     - {title: "S07 2.18 (Upstairs)", color: "#FF8C00"}
     - {title: "S07 2.19 (Upstairs)", color: "#48D1CC"}
     - {title: "S06 2.02 (Upstairs)", color: "#FF00FF"}
-   # - {title: "S05 2.04 (via Path)", color: "#e91e63"}
   timeslots:
     - {
       startTime: "08:00",
@@ -76,7 +74,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [1000,1000,1000,1007,1009,1000,1000]
+      sessionIds: [1016,1018,1000,1007,1009,1019,1000]
     }
     - {
       startTime: "10:30",
@@ -86,7 +84,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [1000,1000,1000,1008,1009,1000,1000]
+      sessionIds: [1017,1000,1000,1008,1009,1019,1000]
     }
     - {
       startTime: "12:30",
@@ -105,8 +103,13 @@
     }
     - {
       startTime: "15:00",
+      endTime: "16:00",
+      sessionIds: [1000,1000,1000,1000,1000,1019,1000]
+    }
+    - {
+      startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [1000,1000,1000,1000,1000,1000,1000]
+      sessionIds: [1000,1000,1000,1000,1000,1019,1000]
     }
 -
   date: "2021-08-17"
@@ -129,7 +132,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [1000,1000,1000,1008,1000,1000,1000]
+      sessionIds: [1000,1000,1000,1008,1000,1019,1000]
     }
     - {
       startTime: "10:30",
@@ -139,7 +142,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [1000,1000,1000,1008,1000,1000,1000]
+      sessionIds: [1000,1000,1000,1008,1000,1019,1000]
     }
     - {
       startTime: "12:30",
@@ -159,6 +162,6 @@
     - {
       startTime: "15:00",
       endTime: "17:00",
-      sessionIds: [1000,1000,1000,1000,1000,1000,1000]
+      sessionIds: [1000,1000,1000,1000,1000,1019,1000]
     }
 
