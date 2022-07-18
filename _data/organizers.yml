@@ -6,7 +6,7 @@
 -
   group: "Silver Sponsors"
   elements: 
-    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "../img/organizers/Gale_NewLogo_OrangeBlue_CMYK.jpg"}
+    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "img/organizers/Gale_NewLogo_OrangeBlue_CMYK.jpg"}
     - {name: "AARNet", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
 -
   group: "Main organisers"
