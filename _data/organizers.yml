@@ -1,24 +1,24 @@
 -
   group: "Gold Sponsors"
   elements: 
-    - {name: "AWS", description: "AWS", link: "https://aws.amazon.com/anz-public-sector/", imageUrl: "organizers/AWS_logo_RGB.png"}
-    - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://us.sagepub.com/en-us/nam/home", imageUrl: "SAGE_Publishing.png"}
+    - {name: "AWS", description: "AWS", link: "https://aws.amazon.com/anz-public-sector/", imageUrl: "../img/organizers/AWS_logo_RGB.png"}
+    - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://us.sagepub.com/en-us/nam/home", imageUrl: "../img/organizers/SAGE_Publishing.png"}
 -
   group: "Silver Sponsors"
   elements: 
-    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "{{site.baseurl}}/img/organizers/gale_trans.png"}
+    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "../img/organizers/Gale_NewLogo_OrangeBlue_CMYK.jpg"}
     - {name: "AARNet", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
 -
   group: "Main organisers"
   elements: 
-     - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "QCIF_Logo_Master.png", width: "120px"}
-     - {name: "Griffith Uni", description: "Griffith Uni", link: "https://www.griffith.edu.au/", imageUrl: "griffithuni.png"}
+     - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
+     - {name: "Griffith Uni", description: "Griffith Uni", link: "https://www.griffith.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
 - 
   group: "Co-organisers"
   elements: 
-    - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/"}
-    - {name: "UQ", description: "UQ", link: "https://www.uq.edu.au/"}
-    - {name: "SCU", description: "Sunshine Coast Uni", link: "https://www.scu.edu.au/"}
-    - {name: "USQ", description: "University of Southern Queensland", link: "https://www.usq.edu.au/"}
-    - {name: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/"}
+    - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
+    - {name: "UQ", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
+    - {name: "SCU", description: "Sunshine Coast Uni", link: "https://www.scu.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+    - {name: "USQ", description: "University of Southern Queensland", link: "https://www.usq.edu.au/", imageUrl: "../img/organizers/usq.jpg"}
+    - {name: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
 -

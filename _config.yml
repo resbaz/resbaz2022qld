@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/partners/", text: "Partners & Sponsors"}
- - {link: "https://www.eventbrite.com.au/e/resbaz-queensland-2022-tickets-385567261057", text: "Register"}
+ - {permalink: "/registration/", text: "Register"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 #bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
@@ -70,7 +70,7 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research Masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>.
 
-<p>ResBaz Qld is being run in accordance with our Covid safe plan. We encourage wearing a mask if you are not able to social distance. You must not attend in person if you have travelled to any declared Covid hotspot in the last 14 days, if you are subject to any quarantine or isolation restrictions, or if you have any cold or flu symptoms.</p>"
+<p>ResBaz Qld encourages wearing a mask if you are not able to social distance.  Please follow the current COVID requirements around isolating.</p>"
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
@@ -197,6 +197,12 @@ footerBlocks:
   title: "Collaborating Institutes"
   links:
    - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "https://www.griffith.edu.au/_globaldesigns/gen-10/images/griffith-logo-2.svg"}
+   - {text: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
+   - {text: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
+   - {text: "UQ", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
+   - {text: "SCU", description: "Sunshine Coast Uni", link: "https://www.scu.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+   - {text: "USQ", description: "University of Southern Queensland", link: "https://www.usq.edu.au/", imageUrl: "../img/organizers/usq.jpg"}
+   - {text: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
  -  
   title: "Contacts"
   links:

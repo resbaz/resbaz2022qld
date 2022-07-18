@@ -36,6 +36,8 @@
 -
   id: 1000
   title: ""
+  service: true
+  hidden: true
   description: "Placeholder"
   subtype: workshop
   complexity: "Beginner"
