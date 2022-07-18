@@ -1,12 +1,12 @@
 -
   group: "Gold Sponsors"
   elements: 
-    - {name: "AWS", description: "AWS", link: "https://aws.amazon.com/anz-public-sector/", imageUrl: "{{ site.baseurl }}/img/organizers/AWS_logo_RGB.png"}
-    - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://us.sagepub.com/en-us/nam/home", imageUrl: "{{site.baseurl}}/img/organizers/SAGE_Publishing.png"}
+    - {name: "AWS", description: "AWS", link: "https://aws.amazon.com/anz-public-sector/", imageUrl: "../img/organizers/AWS_logo_RGB.png"}
+    - {name: "SAGE Publishing", description: "SAGE Publishing", link: "https://us.sagepub.com/en-us/nam/home", imageUrl: "../img/organizers/SAGE_Publishing.png"}
 -
   group: "Silver Sponsors"
   elements: 
-    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "img/organizers/Gale_NewLogo_OrangeBlue_CMYK.jpg"}
+    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "../img/organizers/Gale_NewLogo_OrangeBlue_CMYK.jpg"}
     - {name: "AARNet", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
 -
   group: "Main organisers"
