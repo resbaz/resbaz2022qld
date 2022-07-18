@@ -6,7 +6,7 @@
 -
   group: "Silver Sponsors"
   elements: 
-    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "{{ site.baseurl }}/img/organizers/gale_trans.png"}
+    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "/img/organizers/gale_trans.png"}
     - {name: "AARNet", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
 -
   group: "Main organisers"
@@ -16,9 +16,9 @@
 - 
   group: "Co-organisers"
   elements: 
-    - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
-    - {name: "UQ", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
+    - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
+    - {name: "UQ", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
     - {name: "SCU", description: "Sunshine Coast Uni", link: "https://www.scu.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
-    - {name: "USQ", description: "University of Southern Queensland", link: "https://www.usq.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
+    - {name: "USQ", description: "University of Southern Queensland", link: "https://www.usq.edu.au/", imageUrl: "../img/organizers/usq.jpg"}
     - {name: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
 -
