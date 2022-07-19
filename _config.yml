@@ -201,7 +201,6 @@ footerBlocks:
    - {text: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
    - {text: "UQ", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
    - {text: "SCU", description: "Sunshine Coast Uni", link: "https://www.scu.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
-   - {text: "USQ", description: "University of Southern Queensland", link: "https://www.usq.edu.au/", imageUrl: "../img/organizers/usq.jpg"}
    - {text: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
  -  
   title: "Contacts"
