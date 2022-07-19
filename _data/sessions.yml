@@ -43,7 +43,7 @@
   complexity: "Beginner"
 -
   id: 1001
-  title: "Reproducible Research"
+  title: "Fundamentals of Reproducible Research"
   description: "On completion of this workshop, participants should be able to: <br>- identify ways to make their research better organised, more reproducible and transparent <br>- identify time-saving processes such as automation of common tasks <br>- safeguard themselves against fraud <br>- secure their data against loss or accidental disclosure <br>- identify best practices in reproducibility for current and future research projects <br><br>No prior knowledge or equipment/installs needed"
   subtype: workshop
   complexity: "Beginner"
@@ -60,7 +60,7 @@
   subtype: workshop
 -
   id: 1004
-  title: "How to describe your research impact in one sentence"
+  title: "How to Describe your Research Impact in one sentence"
   description: "Researchers will learn how to succinctly describe their work in one sentence to the right audience. This will then be printed onto a poster that can be used will recruiters, applications and self-promotion. <br><br>No Prior knowledge needed - please bring a laptop and something to write with"
   subtype: workshop
 -
@@ -125,7 +125,7 @@
   subtype: workshop
 -
   id: 1016
-  title: "How to bring change with your research (Change management skills) "
+  title: "How to bring Change with your Research (Change management skills) "
   description: "We live and breathe change everyday – join us to learn more about how to encourage your audiences to embrace changes you propose – along with some tips!<br> Please bring laptop, paper and pen"
   subtype: workshop
 -
@@ -150,7 +150,7 @@
   subtype: workshop
 -
   id: 1021
-  title: "Tidy Data"
+  title: "Tidy Data and Good Spreadsheet Design"
   description: "Lots of research relies on data entered and stored in spreadsheets. Yet poor data organisation within a spreadsheet can make any subsequent data analysis very difficult. This workshop outlines the principles for designing good spreadsheets from the outset. <br><br> Some knowledge of spreadsheet programs such as excel is needed. <br>Follow the instructions here: https://librarycarpentry.org/lc-spreadsheets/setup.html"
   subtype: workshop
 -
@@ -160,17 +160,17 @@
   subtype: workshop
 -
   id: 1023
-  title: "Ask a recruiter Anything "
+  title: "Ask a Recruiter Anything "
   description: "Ever have questions you would like to ask a recruiter? This is your opportunity! <br><br> <br><br>Meet with a panel of recruiters in the data/tech space and get the opportunity to learn about what happens while recruiting. "
   subtype: workshop
 -
   id: 1024
-  title: "Data orientated Career Pathways - How did I get here, and how can you? "
+  title: "Data Orientated Career Pathways - How did I get here, and how can you? "
   description: "Come hear from a panel of data focused professionals, how they came to be in their careers and what career pathways are available in their spaces."
   subtype: workshop
 -
   id: 1025
-  title: "Zooming to the next level"
+  title: "Zooming to the Next Level: Tips and Tricks using Zoom"
   description: "Zoom is a fact of life for most researchers now, yet many of its useful features often get overlooked. In this workshop we’ll introduce you to some Zoom techniques that QCIF uses in our training courses, and which we hope you can use to improve your online meetings and workshops. We’ll also encourage you to share your own hints and tips for Zoom meetings. <br><br><br>Prerequisites/prior knowledge needed: Attendees should have experience with setting up simple (one-on-one) meetings using Zoom. More experienced users are welcome. <br><br>Laptops/software installation needed: Please bring a laptop with Zoom installed and updated to the most recent version possible, configured for Eduroam wifi (and tested before the workshop)."
   subtype: workshop
 -
