@@ -201,6 +201,6 @@
 -
   id: 1031
   title: "Running bioinformatics pipeline using Nextflow"
-  description: "Nextflow is a scripting language for computational pipelines that enables scalable and reproducible scientific workflows using software containers. It allows the adaptation of pipelines written in the most common scripting languages. (https://www.nextflow.io/). This workshop will introduce Nextflow and its basic principles and features and will teach users how to set it up on their HPC account and launch commonly practiced bioinformatics pipelines in a scalable and easy-to-monitor fashion. Laptops, HPC account (Griffith or QRIS), basic Linux skills needed."
+  description: "Nextflow is a scripting language for computational pipelines that enables scalable and reproducible scientific workflows using software containers. It allows the adaptation of pipelines written in the most common scripting languages. (https://www.nextflow.io/). This workshop will introduce Nextflow and its basic principles and features and will teach users how to set it up on their HPC account and launch commonly practiced bioinformatics pipelines in a scalable and easy-to-monitor fashion. Laptops, HPC account (Griffith or QRIS), basic Linux skills needed. Lessons available here: https://carpentries-incubator.github.io/workflows-nextflow/"
   subtype: workshop
 -
