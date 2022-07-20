@@ -199,3 +199,8 @@
   description: "This workshop provides a practical introduction to the R Package, Bibliometrix (Aria & Cuccurullo, 2017). This workshop will focus upon data preparation, document clustering & visualising citation networks. <br><br> Basic R knowledge is needed. BYO your your own laptop and install R Studio & Bibliometrix (see - bit.ly/3y3hCkA)"
   subtype: workshop
 -
+  id: 1031
+  title: "Running bioinformatics pipeline using Nextflow"
+  description: "Nextflow is a scripting language for computational pipelines that enables scalable and reproducible scientific workflows using software containers. It allows the adaptation of pipelines written in the most common scripting languages. (https://www.nextflow.io/). This workshop will introduce Nextflow and its basic principles and features and will teach users how to set it up on their HPC account and launch commonly practiced bioinformatics pipelines in a scalable and easy-to-monitor fashion. Laptops, HPC account (Griffith or QRIS), basic Linux skills needed."
+  subtype: workshop
+-
