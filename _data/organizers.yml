@@ -18,6 +18,6 @@
   elements: 
     - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
     - {name: "UQ", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
-    - {name: "SCU", description: "Sunshine Coast Uni", link: "https://www.scu.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
-    - {name: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/", imageUrl: "../img/organizers/Bond.jpg"}
+    - {name: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+    - {name: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/", imageUrl: "../img/organizers/bond-university-logo.png"}
 -
