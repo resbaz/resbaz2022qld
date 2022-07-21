@@ -199,8 +199,8 @@ footerBlocks:
    - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "https://www.griffith.edu.au/_globaldesigns/gen-10/images/griffith-logo-2.svg"}
    - {text: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
    - {text: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
-   - {text: "UQ", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
-   - {text: "SCU", description: "Sunshine Coast Uni", link: "https://www.scu.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+   - {text: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
+   - {text: "UniSC", description: "Sunshine Coast Uni", link: "https://www.scu.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
    - {text: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
  -  
   title: "Contacts"
