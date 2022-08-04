@@ -188,7 +188,6 @@ footerBlocks:
   title: "Gold Sponsors"
   links:
     - {link: "https://aws.amazon.com/anz-public-sector/", text: "AWS", imageUrl: "../img/organizers/AWS_logo_RGB.png"}
-    - {link: "https://au.sagepub.com/en-gb/oce/home", text: "SAGE Publishing", imageUrl: "../img/organizers/SAGE_Publishing.png"}
  -    
   title: "Silver Sponsor"
   links:
