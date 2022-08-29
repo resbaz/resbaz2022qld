@@ -103,9 +103,9 @@ eventAddressCountry: "Australia"
 eventStartTime: "2022-11-01T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2022-11-03T17:00"
-eventPlaceCoordinates: "-27.551609890139336, 153.05350349486167"
-mapCenterCoordinates: "-27.551609890139336, 153.05350349486167"
-mapMobileCenterCoordinates: "-27.551609890139336, 153.05350349486167"
+eventPlaceCoordinates: "-27.551685966721287, 153.05350886072333"
+mapCenterCoordinates: "-27.551685966721287, 153.05350886072333"
+mapMobileCenterCoordinates: "-27.551685966721287, 153.05350886072333"
 
 # Venue Block
 # venueBlockTitle: "Past Events"
