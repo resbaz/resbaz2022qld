@@ -8,8 +8,6 @@
     - {title: "N53_0.60 (Up one level from ground)", color: "#FF00FF"}
     - {title: "N53_0.62 (Up one level from ground)", color: "#FF8C00"}
     - {title: "N53_0.63 (Up one level from ground)", color: "#48D1CC"}
-    - {title: "N53 Joint Minus 1 rooms (Ground Floor)", color: "#FF00FF"}
-    - {title: "N02 (Ground Floor- across the road from other rooms)", color: "#FF00FF"}  
   timeslots:
     - {
       startTime: "08:00",
@@ -19,7 +17,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [1001,1002,1003,1005,1009,1010]
+      sessionIds: [1001,1002,1003,1005,1009,1010,1000]
     }
     - {
       startTime: "10:30",
@@ -67,7 +65,6 @@
     - {title: "N53 0.62 (Up one level from ground)", color: "#FF8C00"}
     - {title: "N53 0.63 (Up one level from ground)", color: "#48D1CC"}
     - {title: "N53 Joint Minus 1 rooms (Ground Floor)", color: "#FF00FF"}
-    - {title: "N02 (Ground Floor- across the road from other rooms)", color: "#FF00FF"}  
   timeslots:
     - {
       startTime: "08:00",
@@ -124,8 +121,6 @@
     - {title: "N53 0.60 (Up one level from ground)", color: "#FF00FF"}
     - {title: "N53 0.62 (Up one level from ground)", color: "#FF8C00"}
     - {title: "N53 0.63 (Up one level from ground)", color: "#48D1CC"}
-    - {title: "N53 Joint Minus 1 rooms (Ground Floor)", color: "#FF00FF"}
-    - {title: "N02 (Ground Floor- across the road from other rooms)", color: "#FF00FF"}  
   timeslots:
     - {
       startTime: "08:00",
@@ -135,7 +130,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [1000,1031,1026,1008,1028,1019,1000]
+      sessionIds: [1000,1031,1026,1008,1028,1019]
     }
     - {
       startTime: "10:30",
@@ -145,7 +140,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [1025,1031,1027,1008,1029,1019,1000]
+      sessionIds: [1025,1031,1027,1008,1029,1019]
     }
     - {
       startTime: "12:30",
@@ -165,6 +160,6 @@
     - {
       startTime: "15:00",
       endTime: "17:00",
-      sessionIds: [1000,1000,1030,1000,1029,1019,1000]
+      sessionIds: [1000,1000,1030,1000,1029,1019]
     }
 
