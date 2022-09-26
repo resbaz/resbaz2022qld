@@ -72,7 +72,7 @@
   rockstar: true
   ribbon:
     #- {abbr: "UQ", title: "Chief Scientist", url: "https://www.chiefscientist.qld.gov.au/about/current-chief-scientist"}
-- 
+-
   id: 7
   name: "Dr Adi"
   surname: "Gafni"
@@ -82,7 +82,7 @@
   rockstar: true
   ribbon:
     - {abbr: "CHQ", title: "Children's Health Queensland Hospital and Health Service", url: "https://www.childrens.health.qld.gov.au/"}
- - 
+-
   id: 8
   name: "Rhetta"
   surname: "Chappell"
@@ -93,7 +93,7 @@
   ribbon:
     - {abbr: "RIDL", title: "Relational Insights Data Lab", url: "ridl.com.au"}
     - {abbr: "Griffith", title: "Griffith Uni", url: "griffith.edu.au"}
- - 
+-
   id: 9
   name: "Dr. Alexander"
   surname: "Wailan"
@@ -102,5 +102,5 @@
   thumbnailUrl: "AlexanderWailan.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "Qld Health", title: "Qld Health", url: "https://protect-au.mimecast.com/s/lsOzCVAGg5fl0Z8J8FG1mGm?domain=health.qld.gov.au/"}
-
+    - {abbr: "Qld Health", title: "Qld Health", url: "health.qld.gov.au"}
+-
