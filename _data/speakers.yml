@@ -25,7 +25,7 @@
   surname: "White"
   title: "Data Consultant, ARDC"
   bio: "Andrew (Andy) White works for the Australian Research Data Commons (ARDC) as an Engagements Data Consultant. His role is to provide engagements with ARDC partners on activities related to national data management infrastructure including facilitating the Data Repositories Community of Practice, State based Data Roundtables and FAIR workshops. "
-  thumbnailUrl: ""
+  thumbnailUrl: "AWhite.jpg"
   rockstar: true
   ribbon:
     - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
