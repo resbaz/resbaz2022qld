@@ -23,10 +23,10 @@
   description: "The best time to talk with speakers and attendees, and visit our wonderful stalls!"
 -
   id: 105
-  title: "Speakers of the day - Join us in S05 2.04 (via outdoor path)"
+  title: "Speakers of the day"
   service: true
   hidden: true
-  description: "Come listen to our key speakers for the day- Lecture hall can be found just outside our main building. Our guides will help you find the hall."
+  description: "Join us in N02 Cinema (across the road from the main food hall) "
 -
   id: 106
   title: "Afternoon tea"
