@@ -1,15 +1,4 @@
 - 
-  id: 0
-  name: "Speakers"
-  surname: "to come"
-  company: "Univeristy"
-  title: "Speaker"
-  bio: ""
-  thumbnailUrl: ""   
-  rockstar: true
-  ribbon:
-    #- {abbr: "UQ", title: "Chief Scientist", url: "https://www.chiefscientist.qld.gov.au/about/current-chief-scientist"}
-- 
   id: 1
   name: "Dr Paula Andrea"
   surname: "Martinez"
@@ -53,3 +42,24 @@
     - {abbr: "ANU", title: "ANU", url: "https://melvidoni.rbind.io/"}
     - {abbr: "rOpenSci", title: "rOpenSci", url: "https://ropensci.org/blog/2019/01/31/more_editors/"}
 -
+  id: 5
+  name: "Amy"
+  surname: "Walduck"
+  title: "Coordinator, Digital Library Initiatives, State Library of Queensland"
+  bio: "Amy Walduck is a librarian, an extrovert, a creative and has embraced a colourful career across state, academic, special, and public libraries. As a creative problem-solver, she thrives in busy, collaborative environments working with passionate people. At State Library of Queensland, Amy is currently working on digital, open data and collections as data initiatives such as the Digital Collections Catalyst and Making Meaning: Collections as Data Symposium. "
+  thumbnailUrl: "AmyWalduck.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "SQL", title: "State Library of Queensland", url: "https://www.slq.qld.gov.au/"}
+-
+  id: 0
+  name: "Speakers"
+  surname: "to come"
+  company: "Univeristy"
+  title: "Speaker"
+  bio: ""
+  thumbnailUrl: ""   
+  rockstar: true
+  ribbon:
+    #- {abbr: "UQ", title: "Chief Scientist", url: "https://www.chiefscientist.qld.gov.au/about/current-chief-scientist"}
+- 
