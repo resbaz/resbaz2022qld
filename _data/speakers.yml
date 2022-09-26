@@ -10,3 +10,23 @@
   ribbon:
     #- {abbr: "UQ", title: "Chief Scientist", url: "https://www.chiefscientist.qld.gov.au/about/current-chief-scientist"}
 - 
+  id: 1
+  name: "Dr Paula Andrea"
+  surname: "Martinez"
+  title: "Software Project Coordinator, ARDC"
+  bio: "Dr Paula Andrea Martinez is currently the Software Project Coordinator at the Australian Research Data Commons (ARDC). Her work supports recognition of research software and research software authors as enablers of better research. She is also an advocate of Open Science and diversity and active in various community projects such as the FAIR4RS, The Carpentries, ROpenSci and R-Ladies. She is also working with the Research Software Alliance (ReSA) as part time Community Manager."
+  thumbnailUrl: "Pau-Jacaranda.png"
+  rockstar: true
+  ribbon:
+    - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 2
+  name: "Andrew"
+  surname: "White"
+  title: "Data Consultant, ARDC"
+  bio: "Andrew (Andy) White works for the Australian Research Data Commons (ARDC) as an Engagements Data Consultant.  His primary role is to provide engagements with ARDC partners on activities related to national data management infrastructure including the national coordination role of the Australian Research Container Orchestration Services (ARCOS).  Based in Brisbane he works across a variety of the ARDC Programmes providing data management assistance as well as facilitating outreach activities across a number of Queensland and New South Wales Universities and NCRIS capabilities"
+  thumbnailUrl: ""
+  rockstar: true
+  ribbon:
+    - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
