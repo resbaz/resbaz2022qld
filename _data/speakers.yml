@@ -73,3 +73,34 @@
   ribbon:
     #- {abbr: "UQ", title: "Chief Scientist", url: "https://www.chiefscientist.qld.gov.au/about/current-chief-scientist"}
 - 
+  id: 7
+  name: "Dr Adi"
+  surname: "Gafni"
+  title: "Director, Data, Analytics, and Custom Solutions, Children's Health Queensland Hospital and Health Service"
+  bio: ""
+  thumbnailUrl: "AdiGafnibi.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "CHQ", title: "Children's Health Queensland Hospital and Health Service", url: "https://www.childrens.health.qld.gov.au/"}
+ - 
+  id: 8
+  name: "Rhetta"
+  surname: "Chappell"
+  title: "Acting Director, Relational Insights Data Lab (RIDL)"
+  bio: "Rhetta has a strong background in data analytics, statistical standards, data collection, reporting and survey design. Originally from Canada, she previously worked for the National Centre for Vocational Education Research as researcher and project officer. Rhetta is a strong proponent of open source technologies and women in STEM and can often be found presenting and enjoying the free pizza at events in the data science and technology scenes in Brisbane. After completing a degree in Anthropology, Rhetta has gone on to complete post graduate study in data science and machine learning."
+  thumbnailUrl: "RhettaChap.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "RIDL", title: "Relational Insights Data Lab", url: "ridl.com.au"}
+    - {abbr: "Griffith", title: "Griffith Uni", url: "griffith.edu.au"}
+ - 
+  id: 9
+  name: "Dr. Alexander"
+  surname: "Wailan"
+  title: "Bioinformatician, QoVAX SET Program, Queensland Health"
+  bio: "I'm a highly social and energetic personality with a high analytical and strategic mindset. For my personal work I am a mental health advocate while professionally I am a bioinformatician.</br></br>With the 10 years experience in computational & bioinformatics analysis my international career was recognised by being awarded on a 30 under 30 international outstanding young scientist. I have a strong determination and discipline to strategically complete tasks at a high quality and efficient manner. I also have a strong mentoring skill set with an emphasis on skillset development, complimented with improvisation, creativity and organisation skills and high communication skills. I'm flexible and versatile with the capacity to grasp new concepts efficiently and have a strong interest in mental health to achieve high performance."
+  thumbnailUrl: "RhettaChap.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "RIDL", title: "Relational Insights Data Lab", url: "ridl.com.au"}
+    - {abbr: "Griffith", title: "Griffith Uni", url: "griffith.edu.au"}
