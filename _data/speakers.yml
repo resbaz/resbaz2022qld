@@ -24,9 +24,21 @@
   name: "Andrew"
   surname: "White"
   title: "Data Consultant, ARDC"
-  bio: "Andrew (Andy) White works for the Australian Research Data Commons (ARDC) as an Engagements Data Consultant.  His primary role is to provide engagements with ARDC partners on activities related to national data management infrastructure including the national coordination role of the Australian Research Container Orchestration Services (ARCOS).  Based in Brisbane he works across a variety of the ARDC Programmes providing data management assistance as well as facilitating outreach activities across a number of Queensland and New South Wales Universities and NCRIS capabilities"
+  bio: "Andrew (Andy) White works for the Australian Research Data Commons (ARDC) as an Engagements Data Consultant. His role is to provide engagements with ARDC partners on activities related to national data management infrastructure including facilitating the Data Repositories Community of Practice, State based Data Roundtables and FAIR workshops. "
   thumbnailUrl: ""
   rockstar: true
   ribbon:
     - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 2
+  name: "Indi"
+  surname: "Tansey"
+  title: "Chief Officer of People, Products and Planet, LUMINAIR"
+  title: "Director, Women in Tech"
+  bio: "<<< I use strategy and design as a force for good >>> to create tools and systems that help purposeful, values-driven leaders make better decisions."
+  thumbnailUrl: "IndyTansey.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "WiT", title: "Women in Tech", url: "https://wit.org.au/"}
+    - {abbr: "LUMINAIR", title: "LUMINAIR", url: "https://www.luminair.com.au/"}
 -
