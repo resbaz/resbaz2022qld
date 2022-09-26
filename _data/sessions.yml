@@ -8,7 +8,7 @@
   title: "Morning tea"
   service: true
   hidden: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Join us downstairs in N53 Minus 1 (ground floor)"
 -
   id: 103
   title: "Lunch"
@@ -20,7 +20,7 @@
   title: "Lunch and stalls"
   service: true
   hidden: true
-  description: "The best time to talk with speakers and attendees, and visit our wonderful stalls!"
+  description: "Join us downstairs in N53 Minus 1 (ground floor) to talk with speakers and attendees, and visit our wonderful stalls!"
 -
   id: 105
   title: "Speakers of the day"
