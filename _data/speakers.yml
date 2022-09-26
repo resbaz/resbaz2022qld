@@ -30,15 +30,26 @@
   ribbon:
     - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
 -
-  id: 2
+  id: 3
   name: "Indi"
   surname: "Tansey"
   title: "Chief Officer of People, Products and Planet, LUMINAIR"
   title: "Director, Women in Tech"
-  bio: "<<< I use strategy and design as a force for good >>> to create tools and systems that help purposeful, values-driven leaders make better decisions."
+  bio: "I use strategy and design as a force for good, to create tools and systems that help purposeful, values-driven leaders make better decisions."
   thumbnailUrl: "IndyTansey.jpg"
   rockstar: true
   ribbon:
     - {abbr: "WiT", title: "Women in Tech", url: "https://wit.org.au/"}
     - {abbr: "LUMINAIR", title: "LUMINAIR", url: "https://www.luminair.com.au/"}
+-
+  id: 4
+  name: "Dr Melina"
+  surname: "Vidoni"
+  title: "Lecturer at ANU"
+  bio: "Dr Vidoni is a newly joined academic (Lecturer, eq. to Assistant Professor) at the Australian National University in the CECS School of Computing, where she continues her domestic and international collaborations with Canada and Germany. Dr Vidoni’s main research interests are mining software repositories, technical debt, software development, and empirical software engineering when applied to data science and scientific software."
+  thumbnailUrl: "MelinaVidoni.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "ANU", title: "ANU", url: "https://melvidoni.rbind.io/"}
+    - {abbr: "rOpenSci", title: "rOpenSci", url: "https://ropensci.org/blog/2019/01/31/more_editors/"}
 -
