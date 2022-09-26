@@ -52,6 +52,16 @@
   ribbon:
     - {abbr: "SQL", title: "State Library of Queensland", url: "https://www.slq.qld.gov.au/"}
 -
+  id: 6
+  name: "Cameron"
+  surname: "Hyde"
+  title: "Coordinator, Digital Library Initiatives, State Library of Queensland"
+  bio: "Cam is a software developer with a background in biological research. He specialises in full stack web development and bioinformatics with Python and JavaScript."
+  thumbnailUrl: "CamHyde.png"
+  rockstar: true
+  ribbon:
+    - {abbr: "QCIF", title: "QCIF", url: "https://www.qcif.edu.au/"}
+-
   id: 0
   name: "Speakers"
   surname: "to come"
