@@ -40,9 +40,9 @@
   title: "ARDC: Tools to accelerate your research by Andy White"
   subtype: talk
   speakers: [2]
-  service: true
-  #hidden: true
-  description: ""
+  #service: true
+  hidden: true
+  description: "This session will provide you with an overview of the Australian Research Data Commons, the tools and services on offer and provide a practical overview of FAIR. "
 -
   id: 106
   title: "Afternoon tea"
