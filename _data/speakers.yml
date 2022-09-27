@@ -53,10 +53,10 @@
     - {abbr: "SQL", title: "State Library of Queensland", url: "https://www.slq.qld.gov.au/"}
 -
   id: 6
-  name: "Cameron"
+  name: "Dr Cameron"
   surname: "Hyde"
   title: "Coordinator, Digital Library Initiatives, State Library of Queensland"
-  bio: "Cam is a software developer with a background in biological research. He specialises in full stack web development and bioinformatics with Python and JavaScript."
+  bio: " Cameron graduated with a PhD in genomics at the University of the Sunshine Coast in 2020, where his research in non-model organisms motivated the development of new tools for data mining and sharing of transcriptome data. Today he works as a bioinformatician and software developer for the Queensland Cyber Infrastructure Foundation (QCIF) building tools and resources for biological data analysis."
   thumbnailUrl: "CamHyde.png"
   rockstar: true
   ribbon:
