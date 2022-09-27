@@ -69,12 +69,12 @@
   description: ""
 -
   id: 1056
-  title: "Cam Hyde"
+  title: "A journey in genomics software: from consumer to developer by Dr Cam Hyde"
   subtype: talk
   speakers: [6]
   #service: true
   hidden: true
-  description: ""
+  description: "My research Career started in the wet lab seven years ago, doing my Honors project. I was studying the TSH receptor gene in Atlantic salmon – PCRs, genetic cloning, sanger sequencing. With the time between runs I’d dash back to the laptop to complement my experimental work with some bioinformatics. In those days my attempt at sequence analysis was ham-fisted, awkward and tedious, with a lot of manual work that was entirely unnecessary. I was learning the hard way, like many students do. During my PhD I resolved to streamlining these tasks and began learning how to automate analyses with Python. This incredible programming language gradually exposed me to the world of software development. With the publication of my thesis I released a web database which serves as an interface for my research data, and others data like it. During my PhD, the time spend developing this software became a guilty pleasure, a clear indication that this was the path I should follow. Today I work on developing national platforms for bioinformatics, with most of my time spent on Galaxy Australia."
 -
   id: 106
   title: "Afternoon tea"
