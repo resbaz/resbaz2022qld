@@ -62,17 +62,6 @@
   ribbon:
     - {abbr: "QCIF", title: "QCIF", url: "https://www.qcif.edu.au/"}
 -
-  id: 0
-  name: "Speakers"
-  surname: "to come"
-  company: "Univeristy"
-  title: "Speaker"
-  bio: ""
-  thumbnailUrl: ""   
-  rockstar: true
-  ribbon:
-    #- {abbr: "UQ", title: "Chief Scientist", url: "https://www.chiefscientist.qld.gov.au/about/current-chief-scientist"}
--
   id: 7
   name: "Dr Adi"
   surname: "Gafni"
@@ -103,4 +92,3 @@
   rockstar: true
   ribbon:
     - {abbr: "Qld Health", title: "Qld Health", url: "health.qld.gov.au"}
--
