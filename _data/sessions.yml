@@ -8,7 +8,7 @@
   title: "Morning tea"
   service: true
   hidden: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Join us downstairs in N53 Minus 1 (ground floor)"
 -
   id: 103
   title: "Lunch"
@@ -20,13 +20,61 @@
   title: "Lunch and stalls"
   service: true
   hidden: true
-  description: "The best time to talk with speakers and attendees, and visit our wonderful stalls!"
+  description: "Join us downstairs in N53 Minus 1 (ground floor) to talk with speakers and attendees, and visit our wonderful stalls!"
 -
   id: 105
-  title: "Speakers of the day - Join us in S05 2.04 (via outdoor path)"
+  title: "Speakers of the day"
   service: true
   hidden: true
-  description: "Come listen to our key speakers for the day- Lecture hall can be found just outside our main building. Our guides will help you find the hall."
+  description: "Join us in N02 Cinema (across the road from the main food hall) "
+-
+  id: 1051
+  title: "The Topography of Searching by Amy Walduck"
+  subtype: talk
+  speakers: [5]
+  #service: true
+  hidden: true
+  description: "What we search for reveals something about ourselves: about what we don’t know, what we have forgotten, or what we want to know more about. In a similar vein, what a group of people search for reveals something about the group. <br><br>The Digital Collections Catalyst 2021 transformed more than ten years of State Library of Queensland catalogue search terms and created an interactive landscape based on the language, themes, subjects, and terms involved. <br><br>The result is a dynamic tool that helps us to understand what, when and how our users are searching the catalogue, and showcases the benefits of supporting developers and creatives to use our digital collections and collections data in highly creative and experimental ways.  <br><br>https://www.slq.qld.gov.au/digitalcatalyst"
+-
+  id: 1052
+  title: "ARDC: Tools to accelerate your research by Andy White"
+  subtype: talk
+  speakers: [2]
+  #service: true
+  hidden: true
+  description: "This session will provide you with an overview of the Australian Research Data Commons, the tools and services on offer and provide a practical overview of FAIR. "
+-
+  id: 1053
+  title: "Designing for Good by Indi Tansey"
+  subtype: talk
+  speakers: [3]
+  #service: true
+  hidden: true
+  description: ""
+-
+  id: 1054
+  title: "Technical Debt and Software Engineering for R Programming: Improving the Development of your Datascience Code by Melina Vidoni (virtually hosted)"
+  subtype: talk
+  speakers: [4]
+  #service: true
+  hidden: true
+  description: "Although R programming has been a part of research since its origins in the 1990s, few research studies have addressed scientific software development from a Software Engineering (SE) perspective. The past few years have seen unparalleled growth in the R community, and it is time to push the boundaries of SE research and R programming forwards. </br></br>This talk will summarise the findings of SE research at the intersection with technical debt, when applied to R programming. We will discuss testing debt, documentation debt, self-admitted technical debt, and avoidance of CRAN checks. Additionally, it will propose a set of good practices derived from those findings aiming to act as a call-to-arms for both the R and RSE (Research SE) community to explore specific, interdisciplinary paths of research. "
+-
+  id: 1055
+  title: "Research Software Code Sharing by Dr Paula Martinez"
+  subtype: talk
+  speakers: [1]
+  #service: true
+  hidden: true
+  description: ""
+-
+  id: 1056
+  title: "A journey in genomics software: from consumer to developer by Dr Cam Hyde"
+  subtype: talk
+  speakers: [6]
+  #service: true
+  hidden: true
+  description: "My research Career started in the wet lab seven years ago, doing my Honors project. I was studying the TSH receptor gene in Atlantic salmon – PCRs, genetic cloning, sanger sequencing. With the time between runs I’d dash back to the laptop to complement my experimental work with some bioinformatics. In those days my attempt at sequence analysis was ham-fisted, awkward and tedious, with a lot of manual work that was entirely unnecessary. I was learning the hard way, like many students do. During my PhD I resolved to streamlining these tasks and began learning how to automate analyses with Python. This incredible programming language gradually exposed me to the world of software development. With the publication of my thesis I released a web database which serves as an interface for my research data, and others data like it. During my PhD, the time spend developing this software became a guilty pleasure, a clear indication that this was the path I should follow. Today I work on developing national platforms for bioinformatics, with most of my time spent on Galaxy Australia."
 -
   id: 106
   title: "Afternoon tea"
@@ -100,7 +148,7 @@
   subtype: workshop
 -
   id: 1011
-  title: "The greatest gift to yourself "
+  title: "The greatest gift to yourself (Virtual workshop- Tentatitive)"
   description: ""
   subtype: talk
 -
@@ -166,8 +214,9 @@
 -
   id: 1024
   title: "Data Orientated Career Pathways - How did I get here, and how can you? "
-  description: "Come hear from a panel of data focused professionals, how they came to be in their careers and what career pathways are available in their spaces."
-  subtype: workshop
+  description: "Come hear from a panel of data focused professionals, how they came to be in their careers and what career pathways are available in their spaces.</br></br>Meet our great panel!"
+  speakers: [7,8,9]
+  subtype: panel
 -
   id: 1025
   title: "Zooming to the Next Level: Tips and Tricks using Zoom"
@@ -204,3 +253,12 @@
   description: "Nextflow is a scripting language for computational pipelines that enables scalable and reproducible scientific workflows using software containers. It allows the adaptation of pipelines written in the most common scripting languages. (https://www.nextflow.io/). This workshop will introduce Nextflow and its basic principles and features and will teach users how to set it up on their HPC account and launch commonly practiced bioinformatics pipelines in a scalable and easy-to-monitor fashion. Laptops, HPC account (Griffith or QRIS), basic Linux skills needed. Lessons available here: https://carpentries-incubator.github.io/workflows-nextflow/"
   subtype: workshop
 -
+  id: 1032
+  title: "Interactive maps using Python and Folium"
+  description: "The workshop will be a practical demonstration of Folium (a wrapper for Python of the JavaScript Leaflet library) to generate interactive maps and display data on Open Street Maps. </br></br>Data for the workshop will be generated by any ResBaz attendees who are able to take a guided stroll through the campus before the workshop. "
+  subtype: workshop
+-
+  id: 1033
+  title: "Making Data (more) FAIR with KBase (Virtual)"
+  description: "Data and the FAIR principles are a hot topic which only continue to grow in importance as the production of data accelerates. Despite this fact, it isn't always easy to understand how or why to make data FAIR. In this talk, I discuss what the FAIR data are (and, just as importantly, are not), and how easy or difficult it is to comply with FAIR Principles, as well as the benefits for doing so. "
+  subtype: workshop
