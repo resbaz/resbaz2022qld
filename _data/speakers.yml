@@ -3,11 +3,14 @@
   name: "Dr Paula Andrea"
   surname: "Martinez"
   title: "Software Project Coordinator, ARDC"
-  bio: "Dr Paula Andrea Martinez is the Software Project Coordinator at the Australian Research Data Commons <a href="ardc.edu.au">(ARDC)</a>. She leads projects that improve the recognition of research software and research software authors. She is also an advocate of open science and diversity and active in various community projects such as the Research Software Alliance <a href="https://www.researchsoft.org/">(ReSA)</a>, the Visible Research Software Interest Group <a href="https://sites.google.com/ardc.edu.au/visible-research-software">(VRS)</a>, the Association of Research Software Engineers in Australia and New Zealand <a href="https://rse-aunz.github.io/">(RSE AUNZ)</a>."
+  bio: "Dr Paula Andrea Martinez is the Software Project Coordinator at the Australian Research Data Commons (ARDC). She leads projects that improve the recognition of research software and research software authors. She is also an advocate of open science and diversity and active in various community projects such as the Research Software Alliance (ReSA), the Visible Research Software Interest Group (VRS), the Association of Research Software Engineers in Australia and New Zealand (RSE AUNZ)."
   thumbnailUrl: "Pau-Jacaranda.png"
   rockstar: true
   ribbon:
     - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+    - {abbr: "RSE AUNZ", title: "Association of Research Software Engineers in Australia and New Zealand", url: "https://rse-aunz.github.io/"}
+    - {abbr: "ReSA", title: "Research Software Alliance", url: "https://www.researchsoft.org/"}
+    - {abbr: "VRS", title: "Visible Research Software Interest Group", url: "https://sites.google.com/ardc.edu.au/visible-research-software"}
 -
   id: 2
   name: "Andrew"
