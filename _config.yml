@@ -47,10 +47,10 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
- - {permalink: "/transport/", text: "Transport and getting here"}
+ - {permalink: "/transport/", text: "Getting here"}
  - {permalink: "/partners/", text: "Partners & Sponsors"}
  - {permalink: "/registration/", text: "Register"}
- - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
+# - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 #bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
