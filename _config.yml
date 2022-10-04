@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
- - {permalink: "/transport/", text: "Transport and getting here"}
+ - {permalink: "/transport/", text: "Getting here"}
  - {permalink: "/partners/", text: "Partners & Sponsors"}
  - {permalink: "/registration/", text: "Register"}
 # - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
