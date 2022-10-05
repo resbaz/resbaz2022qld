@@ -262,3 +262,8 @@
   title: "Making Data (more) FAIR with KBase (Virtual)"
   description: "Data and the FAIR principles are a hot topic which only continue to grow in importance as the production of data accelerates. Despite this fact, it isn't always easy to understand how or why to make data FAIR. In this talk, I discuss what the FAIR data are (and, just as importantly, are not), and how easy or difficult it is to comply with FAIR Principles, as well as the benefits for doing so. "
   subtype: workshop
+-
+  id: 1034
+  title: "Launch of the Australian Text Analytics Platform"
+  description: "The Australian Text Analytics Platform (ATAP) is an open source environment that provides researchers with tools and training for analysing, processing, and exploring text. Development of the platform has now been underway for more than a year, our work has already been visible online and in various activities, but now it is time to properly launch the platform. Join us to hear more about our work - and to celebrate the event by eating pizza with us! <br><br>This event will also include the announcement of the ATAP-linked Graduate Digital Research Fellowship to run in the first part of 2023. This program provides an exciting opportunity for junior scholars who want to improve their knowledge of digital research methods and incorporate them into their research. "
+  subtype: workshop
