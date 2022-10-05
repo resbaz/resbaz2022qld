@@ -54,6 +54,11 @@
       endTime: "17:00",
       sessionIds: [1011,1000,1013,1000,1009,1015]
     }
+    - {
+      startTime: "17:00",
+      endTime: "18:30",
+      sessionIds: [1034]
+    }
 -
   date: "2022-11-02"
   dateReadable: "Wed 2nd Nov 2022"
