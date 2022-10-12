@@ -105,3 +105,14 @@
   rockstar: true
   ribbon:
     - {abbr: "Griffith University School of Environment and Science", title: "Griffith University School of Environment and Science", url: "https://www.griffith.edu.au/griffith-sciences/school-environment-science"}
+-
+  id: 11
+  name: "Amanda"
+  surname: "Miotto"
+  title: "Senior eResearch Analyst, Griffith University/Queensland Cyber Infrastructure Foundation"
+  bio: "Amanda Miotto is a Senior eResearch Analyst for Griffith University and QCIF. She started off in the field of Bioinformatics and learnt to appreciate the beauty of science before discovering the joys of coding. She is also heavily involved in Software Carpentry, Hacky Hours and ResBaz, and has developed on platforms around HPC and scientific portals."
+  thumbnailUrl: "AmandaMiotto.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "eResearch Services, Griffith University", title: "eResearch Services Griffith University", url: "https://www.griffith.edu.au/eresearch-services"}
+    - {abbr: "eResearch Analysts, QCIF", title: "eResearch Analysts, QCIF", url:"https://www.qcif.edu.au/support/eresearch-analysts/"}
