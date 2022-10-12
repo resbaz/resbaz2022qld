@@ -101,7 +101,7 @@
   surname: "Chauvenet"
   title: "Senior Lecturer, School of Environment and Science, Griffith University"
   bio: "Dr Ali Chauvenet is a conservation scientist interested in protecting biodiversity from extinction by making the best decisions for the conservation and management of species and ecosystems. Her PhD was conferred by Imperial College London, UK, in 2013. She then worked as an ecological modeller for the British government until 2014, followed by a post-doctoral Research Fellowship at the University of Queensland, Brisbane. In 2018, she became a lecturer in the School of Environment and Science at Griffith University, and a member of the Centre for Planetary Health and Food Security. Her research currently focuses on measuring the benefits of protected areas for biodiversity and human well-being through a combination of spatial ecology, data science, and computer simulations. She teaches environmental data analytics and R programming to undergraduate students. In 2021, she developed an R Shiny app for an industry partner to help them make conservation decisions based on spatial analyses."
-  thumbnailUrl: ""
+  thumbnailUrl: "AliChauvenet.jpg"
   rockstar: true
   ribbon:
     - {abbr: "Griffith University School of Environment and Science", title: "Griffith University School of Environment and Science", url: "https://www.griffith.edu.au/griffith-sciences/school-environment-science"}
@@ -137,4 +137,80 @@
   ribbon:
     - {abbr: "Lessons for work: things we can learn from kids and science", title: "Lessons for work: things we can learn from kids and science", url: "https://www.griffith.edu.au/engage/professional-learning/content-centre/lessons-for-work-things-we-can-learn-from-kids-and-science"}
     - {abbr: "School of Health Sciences and Social Work, Griffith University", title: "School of Health Sciences and Social Work, Griffith University", url: "https://www.griffith.edu.au/griffith-health/school-health-sciences-social-work"}
+-
+  id: 14
+  name: "Emilia"
+  surname: "Decker"
+  title: "Business Analyst, EcoCommons Australia"
+  bio:
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+    - {abbr: "EcoCommons Australia", title: "EcoCommons Australia", url: "https://www.ecocommons.org.au/"}
+-
+  id: 15
+  name: "Sonia"
+  surname: "Ramza"
+  title: "Australian Research Data Commons (ARDC)"
+  bio:
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+    - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au/"}
+    - {abbr: "NCRIS", title: "NCRIS", url: "https://www.education.gov.au/ncris"}
+-
+  id: 16
+  name: "Angela"
+  surname: "Ellis"
+  title: "Queensland Health"
+  bio: "Angela Ellis is a highly motivated Registered Nurse (RN) with 40+ years’ experience spanning medical, two private enterprises, women’s health, sexual health, and health promotion initiatives to socially diverse populations, building networks and mentoring future leaders. In the last 14 years Angela was a Hospital in the Home (HITH) Clinical Nurse. Her doctoral thesis on HITH RN scope in practice has identified challenges currently facing HITH RNs. Remaining passionate about nursing practice, as a HITH Society Australasia board executive representing nursing, she is leading discussions on nursing issues with the board and the project group to critically review HITH nursing skills, roles, and attributes with the aim this body of work will guide and enhance HITH RN capacity in Australian nursing, thus implementing her thesis recommendations in building a HITH nursing career and integrated education pathway."
+  thumbnailUrl:
+  rockstar: true
+-
+  id: 17
+  name: "Jessica"
+  surname: "Stokes-Parish"
+  title: "Assistant Professor, Faculty of Health Sciences and Medicine, Bond University"
+  bio:
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+    - {abbr: "Faculty of Health Sciences and Medicine, Bond University", title: "Faculty of Health Sciences and Medicine, Bond University", url: "https://bond.edu.au/about-bond/academia/faculty-health-sciences-medicine"}
+-
+  id: 18
+  name: "Sharron"
+  surname: "Stapleton"
+  title: "Library Research Specialist, Griffith University"
+  bio: "Sharron & Ben provide training and advice to Griffith University researchers on open access publishing, finding external data and primary sources for research and preparing data for analysis and visualisation."
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+    - {abbr: "Research servives, Griffith University Library", title: "Research services, Griffith University Library", url: "https://www.griffith.edu.au/library/researcher-services"}
+-
+  id: 19
+  name: "Dr Dan"
+  surname: "Jess"
+  title: "Digital Strategist and Founder, Fragment Digital"
+  bio: "Dr Dan Jess is a strategic marketing and leadership specialist, and practice-based researcher with 16+ years’ experience leading award-winning digital marketing agencies. He is currently completing a second research doctorate at USQ, exploring the strategic ambidexterity construct and how it operates in an Australian Chief Marketing Officer capability context. He holds academic positions at the Australian College of Strategic Marketers and Australian College of Vocal Arts, and is currently CEO at Fragment Digital. Qualifications include: DSM (USA), MBA (Strategic Marketing)."
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+-
+  id: 20
+  name: "Dr. Tony"
+  surname: "Howes"
+  title: "Honorary Associate Professor, School of Chemical Engineering, University of Queensland"
+  bio: "Tony Howes is an honorary academic in the School of Chemical Engineering at The University of Queensland. As a Python enthusiast and Orienteering tragic, Folium is a wonderful tool for the two interests together."
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+  
+  
+  
+  
+  
+  
+  
+  
+  
     
