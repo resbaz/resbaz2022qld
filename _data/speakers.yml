@@ -101,7 +101,7 @@
   surname: "Chauvenet"
   title: "Senior Lecturer, School of Environment and Science, Griffith University"
   bio: "Dr Ali Chauvenet is a conservation scientist interested in protecting biodiversity from extinction by making the best decisions for the conservation and management of species and ecosystems. Her PhD was conferred by Imperial College London, UK, in 2013. She then worked as an ecological modeller for the British government until 2014, followed by a post-doctoral Research Fellowship at the University of Queensland, Brisbane. In 2018, she became a lecturer in the School of Environment and Science at Griffith University, and a member of the Centre for Planetary Health and Food Security. Her research currently focuses on measuring the benefits of protected areas for biodiversity and human well-being through a combination of spatial ecology, data science, and computer simulations. She teaches environmental data analytics and R programming to undergraduate students. In 2021, she developed an R Shiny app for an industry partner to help them make conservation decisions based on spatial analyses."
-  thumbnailUrl: "Ali Chauvenet.jpg"
+  thumbnailUrl: "AliChauvenet.jpg"
   rockstar: true
   ribbon:
     - {abbr: "Griffith University School of Environment and Science", title: "Griffith University School of Environment and Science", url: "https://www.griffith.edu.au/griffith-sciences/school-environment-science"}
