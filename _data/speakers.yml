@@ -115,7 +115,7 @@
   rockstar: true
   ribbon:
     - {abbr: "eResearch Services, Griffith University", title: "eResearch Services Griffith University", url: "https://www.griffith.edu.au/eresearch-services"}
-    - {abbr: "eResearch Analysts, QCIF", title: "eResearch Analysts, QCIF", url:"https://www.qcif.edu.au/support/eresearch-analysts/"}
+    - {abbr: "eResearch Analysts, QCIF", title: "eResearch Analysts, QCIF", url: "https://www.qcif.edu.au/support/eresearch-analysts/"}
 -
   id: 12
   name: "Dr. Sam"
