@@ -70,7 +70,6 @@
     - {title: "N53 0.60 (Up one level from ground)", color: "#FF00FF"}
     - {title: "N53 0.62 (Up one level from ground)", color: "#FF8C00"}
     - {title: "N53 0.63 (Up one level from ground)", color: "#48D1CC"}
-    - {title: "N53_0.64 (Up one level from ground)", color: "#48D1CC"}
     - {title: "N53 Joint Minus 1 rooms (Ground Floor)", color: "#FF00FF"}
   timeslots:
     - {
