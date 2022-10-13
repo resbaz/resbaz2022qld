@@ -86,7 +86,7 @@
   title: ""
   service: true
   hidden: true
-  description: "Placeholder"
+  description: ""
   subtype: workshop
   complexity: "Beginner"
 -
