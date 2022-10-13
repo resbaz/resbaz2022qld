@@ -143,9 +143,9 @@
   surname: "Decker"
   title: "Business Analyst, EcoCommons Australia"
   bio:
-  thumbnailUrl:
+  thumbnailUrl: "EmiliaDecker.jpg"
   rockstar: true
-  ribbon: "EmiliaDecker.jpg"
+  ribbon:
     - {abbr: "EcoCommons Australia", title: "EcoCommons Australia", url: "https://www.ecocommons.org.au/"}
 -
   id: 15
