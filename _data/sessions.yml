@@ -86,7 +86,7 @@
   title: ""
   service: true
   hidden: true
-  description: "Placeholder"
+  description: ""
   subtype: workshop
   complexity: "Beginner"
 -
@@ -274,4 +274,24 @@
   id: 1035
   title: "Getting to know GitBook"
   description: "Introduction to The Living Book of Digital Skills (you never knew you needed until now) and an introduction to GitHub and version control"
+  subtype: workshop
+-
+  id: 1036
+  title: "Advanced Data Wrangling with OpenRefine"
+  description: "Building on the introductory session, learn advanced data wrangling skills including combining tabular data, extracting values from messy data, geolocating data, using OpenRefine and geojson.io. <br><br>On completion of this workshop, participants should be able to:  <br>- extend data with additional variables from other data, <br>- visualise geographic locations using Geo.json resulting in an interactive map <br>- create a webpage to display the geographically visualise data using Github. "
+  subtype: workshop
+-
+  id: 1037
+  title: "The ARDC National ML Service Pilot. How it works, and what you would like it to evolve into "
+  description: "The ARDC recently funded the acquisition of a small amount of high performance GPU hardware to advance the state of ML research in Australia. The (since completed) Environments to Accelerate Machine Learning Based Discovery identified that this hardware would be best used to support researchers beginning to play with ML models, and in particular researchers who had outgrown the capabilities of their desktops but weren't yet familiar with HPC offerings. The MLeRP service attempts to bridge that gap, offering an experience similar to google colab, but with persistent file storage and an HPC batch system behind the scenes to enable our users to grow and develop as needed. <br><br>Come along to this workshop and get signed up for a trial account on MLeRP, try the system out and give us your feedback on how we can better serve the Australian research community in their ML journey. "
+  subtype: workshop
+-
+  id: 1038
+  title: "The ARDC National ML Service Pilot. How it works, and what you would like it to evolve into "
+  description: "The ARDC recently funded the acquisition of a small amount of high performance GPU hardware to advance the state of ML research in Australia. The (since completed) Environments to Accelerate Machine Learning Based Discovery identified that this hardware would be best used to support researchers beginning to play with ML models, and in particular researchers who had outgrown the capabilities of their desktops but weren't yet familiar with HPC offerings. The MLeRP service attempts to bridge that gap, offering an experience similar to google colab, but with persistent file storage and an HPC batch system behind the scenes to enable our users to grow and develop as needed. <br><br>Come along to this workshop and get signed up for a trial account on MLeRP, try the system out and give us your feedback on how we can better serve the Australian research community in their ML journey. "
+  subtype: workshop
+-
+  id: 1039
+  title: "Phylogenomics analysis using large-scale public genome data"
+  description: "A 90 minutes workshop will be held for the phylogenomics analysis on large-scale whole genome data. We will lead participants through a series of computational exercises having the following goals: <br><br>- NCBI genome database download (SRA toolkit) and basic Linux command line (wget download). <br><br>- Construct orthologous gene assignments using OrthoFinder. <br><br>- Display, annotate and visualize phylogenetics trees by using iTOL (Interactive Tree Of Life) <br><br>Participants are encouraged to work with their own NGS-based genome/transcriptome datasets, but sample datasets will also be provided and analyzed. "
   subtype: workshop
