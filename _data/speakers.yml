@@ -299,7 +299,16 @@
   thumbnailUrl:
   rockstar: true
   ribbon:  
-  
+-
+  id: 30
+  name: "Dr. Min"
+  surname: "Zhao"
+  title: "Senior Research Fellow, Bioinformatics and Genomics"
+  bio: "Dr. Min Zhao has about 20 years of experience in the field of bioinformatics and genomics. His research focuses on the investigation of regulatory machines in aquatic genomes and disease genomes. In addition to 4 review manuscripts, he has published 90 research papers in peer-reviewed international journals including 50 first and corresponding author papers in total. In total, his papers have been cited over 4000+ times (H-index 31). About 50% of his publications are presented in the top 10% most cited papers worldwide in Scopus database. Additionally, ten of his manuscripts have been published in very high profile journals (top 5%; including Nature, Nature communication, cell research, American Journal of Respiratory and Critical Care Medicine, Nucleic Acids Research, Molecular ecology resource). The research articles include author contributions from a diversity of institutions/universities external from USC and International (primarily USA, Japan, China, and Thailand). He currently leads as Chief Investigator 1 ARC Discovery Projects (with USC as administering organisation), and is co-contributor for Reef2050 grant."
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+    - {abbr: "AARNet", title: "AARNET", url: "https://www.aarnet.edu.au/"}
   
   
   
