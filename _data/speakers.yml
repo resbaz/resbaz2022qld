@@ -95,3 +95,229 @@
   rockstar: true
   ribbon:
     - {abbr: "Qld Health", title: "Qld Health", url: "health.qld.gov.au"}
+-
+  id: 10
+  name: "Dr. Ali"
+  surname: "Chauvenet"
+  title: "Senior Lecturer, School of Environment and Science, Griffith University"
+  bio: "Dr Ali Chauvenet is a conservation scientist interested in protecting biodiversity from extinction by making the best decisions for the conservation and management of species and ecosystems. Her PhD was conferred by Imperial College London, UK, in 2013. She then worked as an ecological modeller for the British government until 2014, followed by a post-doctoral Research Fellowship at the University of Queensland, Brisbane. In 2018, she became a lecturer in the School of Environment and Science at Griffith University, and a member of the Centre for Planetary Health and Food Security. Her research currently focuses on measuring the benefits of protected areas for biodiversity and human well-being through a combination of spatial ecology, data science, and computer simulations. She teaches environmental data analytics and R programming to undergraduate students. In 2021, she developed an R Shiny app for an industry partner to help them make conservation decisions based on spatial analyses."
+  thumbnailUrl: "AliChauvenet.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Griffith University School of Environment and Science", title: "Griffith University School of Environment and Science", url: "https://www.griffith.edu.au/griffith-sciences/school-environment-science"}
+-
+  id: 11
+  name: "Amanda"
+  surname: "Miotto"
+  title: "Senior eResearch Analyst, Griffith University/Queensland Cyber Infrastructure Foundation"
+  bio: "Amanda Miotto is a Senior eResearch Analyst for Griffith University and QCIF. She started off in the field of Bioinformatics and learnt to appreciate the beauty of science before discovering the joys of coding. She is also heavily involved in Software Carpentry, Hacky Hours and ResBaz, and has developed on platforms around HPC and scientific portals."
+  thumbnailUrl: "AmandaMiotto.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "eResearch Services, Griffith University", title: "eResearch Services Griffith University", url: "https://www.griffith.edu.au/eresearch-services"}
+    - {abbr: "eResearch Analysts, QCIF", title: "eResearch Analysts, QCIF", url: "https://www.qcif.edu.au/support/eresearch-analysts/"}
+-
+  id: 12
+  name: "Dr. Sam"
+  surname: "Hames"
+  title: "Research Fellow, School of Languages and Culture, University of Queensland"
+  bio:
+  thumbnailUrl: "SamHames.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "School of Languages and Cultures, UQ", title: "School of Languages and Cultures, UQ", url: "https://languages-cultures.uq.edu.au/"}
+-
+  id: 13
+  name: "Clare"
+  surname: "Van Dorssen"
+  title: "Knowledge Translator and Impact Coordinator, School of Health Sciences and Social Work"
+  bio: 'Clare is a Knowledge Translator and Impact Coordinator with the Healthy Primary Care team in the School of Health Sciences and Social Work. With a Master’s in Science Communication Outreach, Clare has experience in creating interactive STEM demonstrations to entertain audiences of all ages.'
+  thumbnailUrl: "ClareVanDorssen.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Lessons for work: things we can learn from kids and science", title: "Lessons for work: things we can learn from kids and science", url: "https://www.griffith.edu.au/engage/professional-learning/content-centre/lessons-for-work-things-we-can-learn-from-kids-and-science"}
+    - {abbr: "School of Health Sciences and Social Work, Griffith University", title: "School of Health Sciences and Social Work, Griffith University", url: "https://www.griffith.edu.au/griffith-health/school-health-sciences-social-work"}
+-
+  id: 14
+  name: "Emilia"
+  surname: "Decker"
+  title: "Business Analyst, EcoCommons Australia"
+  bio:
+  thumbnailUrl: ""
+  rockstar: true
+  ribbon:
+    - {abbr: "EcoCommons Australia", title: "EcoCommons Australia", url: "https://www.ecocommons.org.au/"}
+-
+  id: 15
+  name: "Sonia"
+  surname: "Ramza"
+  title: "Australian Research Data Commons (ARDC)"
+  bio:
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+    - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au/"}
+    - {abbr: "NCRIS", title: "NCRIS", url: "https://www.education.gov.au/ncris"}
+-
+  id: 16
+  name: "Angela"
+  surname: "Ellis"
+  title: "Queensland Health"
+  bio: "Angela Ellis is a highly motivated Registered Nurse (RN) with 40+ years’ experience spanning medical, two private enterprises, women’s health, sexual health, and health promotion initiatives to socially diverse populations, building networks and mentoring future leaders. In the last 14 years Angela was a Hospital in the Home (HITH) Clinical Nurse. Her doctoral thesis on HITH RN scope in practice has identified challenges currently facing HITH RNs. Remaining passionate about nursing practice, as a HITH Society Australasia board executive representing nursing, she is leading discussions on nursing issues with the board and the project group to critically review HITH nursing skills, roles, and attributes with the aim this body of work will guide and enhance HITH RN capacity in Australian nursing, thus implementing her thesis recommendations in building a HITH nursing career and integrated education pathway."
+  thumbnailUrl: "AngelaEllis.jpg"
+  rockstar: true
+-
+  id: 17
+  name: "Jessica"
+  surname: "Stokes-Parish"
+  title: "Assistant Professor, Faculty of Health Sciences and Medicine, Bond University"
+  bio:
+  thumbnailUrl: "JessicaStokesParish.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Faculty of Health Sciences and Medicine, Bond University", title: "Faculty of Health Sciences and Medicine, Bond University", url: "https://bond.edu.au/about-bond/academia/faculty-health-sciences-medicine"}
+-
+  id: 18
+  name: "Sharron"
+  surname: "Stapleton"
+  title: "Library Research Specialist, Griffith University"
+  bio: "Sharron & Ben provide training and advice to Griffith University researchers on open access publishing, finding external data and primary sources for research and preparing data for analysis and visualisation."
+  thumbnailUrl: "SharronStapleton.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Research services, Griffith University Library", title: "Research services, Griffith University Library", url: "https://www.griffith.edu.au/library/researcher-services"}
+-
+  id: 19
+  name: "Dr. Dan"
+  surname: "Jess"
+  title: "Senior Lecturer, Australian College of Strategic Marketers"
+  bio: "Dr Dan Jess is a strategic marketing and leadership specialist, and practice-based researcher with 16+ years’ experience leading award-winning digital marketing agencies. He is currently completing a second research doctorate at USQ, exploring the strategic ambidexterity construct and how it operates in an Australian Chief Marketing Officer capability context. He holds academic positions at the Australian College of Strategic Marketers and Australian College of Vocal Arts, and is currently CEO at Fragment Digital. Qualifications include: DSM (USA), MBA (Strategic Marketing)."
+  thumbnailUrl: "DanJess.jpg"
+  rockstar: true
+  ribbon:
+-
+  id: 20
+  name: "Dr. Tony"
+  surname: "Howes"
+  title: "Honorary Associate Professor, School of Chemical Engineering, University of Queensland"
+  bio: "Tony Howes is an honorary academic in the School of Chemical Engineering at The University of Queensland. As a Python enthusiast and Orienteering tragic, Folium is a wonderful tool for the two interests together."
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+    - {abbr: "School of Chemical Engineering, UQ", title: "School of Chemical Engineering, UQ", url: "https://chemeng.uq.edu.au/"}
+-
+  id: 21
+  name: "James"
+  surname: "Todd"
+  title: "Assistant Professor of Data Analytics, Bond Business School, Bond University"
+  bio: "James is an assistant professor of data analytics at Bond University. His research focuses on the application of statistical and machine learning techniques in healthcare to support decision-makers."
+  thumbnailUrl: "JamesTodd.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Bond Business School", title: "Bond Business School", url: "https://bond.edu.au/about-bond/academia/bond-business-school"}
+-
+  id: 22
+  name: "Julie"
+  surname: "Somers"
+  title: "Digital Capability Advisor, Academic Engagement Services, Griffith University"
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+-
+  id: 22
+  name: "Belinda"
+  surname: "Weaver"
+  title: "Head of Library Academic Engagement Services, Academic Engagement Services, Griffith University"
+  bio: "Belinda Weaver is a certified Software Carpentry instructor who has taught more than 40 workshops."
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+-
+  id: 23
+  name: "Tati"
+  surname: "Viegas-Gurry"
+  title: "Change and Communications Manager, Research, Specialised and Data Foundations, Griffith University"
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+    - {abbr: "Digital Solutions, Griffith University", title: "Digital Solutions, Griffith University", url: "https://www.griffith.edu.au/digital-solutions"}
+-
+  id: 24
+  name: "Dr. Nicole"
+  surname: "Fortuna"
+  title: "Postdoctoral Research Fellow, School of Biological Sciences, University of Queensland"
+  bio: "I completed my PhD in 2021 where I modelled the evolution of host-parasite coevolution. Currently I am a postdoc for the CoE for Pant Success where I am developing models of plant hormone interactions."
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+    - {abbr: "School of Biological Sciences, UQ", title: "School of Biological Sciences, UQ", url: "https://biological-sciences.uq.edu.au/"}
+-
+  id: 25
+  name: "Katya"
+  surname: "Henry"
+  title: "University Copyright Officer, Queensland University of Technology"
+  bio: "Katya Henry is the University Copyright Officer at Queensland University of Technology (QUT) and the Creative Commons Global Network Representative for the Creative Commons Australia Chapter. She is a passionate advocate for open access and open education and is deeply committed to the role librarians play in enabling access to information."
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+-
+  id: 26
+  name: "Dr. Sara"
+  surname: "King"
+  title: "Training and Engagement Lead, Australia's Academic and Research Network"
+  bio: "Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is currently working on creating reusable guidance information for Jupyter Notebooks and other AARNet services to be adapted for Carpentry training workshops. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone."
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+    - {abbr: "AARNet", title: "AARNET", url: "https://www.aarnet.edu.au/"}
+-
+  id: 27
+  name: "Nica"
+  surname: "Tsakmakis"
+  title: "Senior Library Coordinator, Library Academic and Research Services, Australian Catholic University"
+  bio: "Nica Tsakmakis is a Senior Librarian at Australian Catholic University and Co-Convenor of the CAUL Digital Dexterity Champions Community of Practice. With a heavy humanities background she fell into Digital Dexterity and discovered a real passion for exploring and sharing all things digital from Library Carpentries to VR in the classroom."
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+-
+  id: 28
+  name: "Mathew"
+  surname: "Fletcher"
+  title: "Liaison Librarian, Faculty of Business and Law, Queensland University of Technology"
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+-
+  id: 29
+  name: "Dr. Quentin"
+  surname: "Pope"
+  title: "Liaison Librarian, Faculty of Business and Law, Queensland University of Technology"
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  ribbon:  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    

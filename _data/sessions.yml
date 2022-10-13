@@ -111,6 +111,7 @@
   title: "How to Describe your Research Impact in one sentence"
   description: "Researchers will learn how to succinctly describe their work in one sentence to the right audience. This will then be printed onto a poster that can be used will recruiters, applications and self-promotion. <br><br>No Prior knowledge needed - please bring a laptop and something to write with"
   subtype: workshop
+  speakers: [13]
 -
   id: 1005
   title: "Collecting Twitter Data for Comparative Text Analytics"
@@ -121,6 +122,7 @@
   title: "Comparative Text Analytics with R"
   description: "This workshop will introduce participants to text analytics in R. Starting with some comparative text data, participants will conduct introductory analysis of the content of the text, including breaking text down into words, handling emoji, and comparative frequency analysis.<br><br>This workshop follows on from the “Collecting Twitter Data for Comparative Text Analytics” workshop, but can be taken on its own. <br><br>Familiarity with R needed<br>Participants will need a laptop with an internet connection. Examples will be demonstrated in an online R notebook environment."
   subtype: workshop
+  speakers: [12]
 -
   id: 10071
   title: "Network Analysis with R"
@@ -156,6 +158,7 @@
   title: "The Impostor Syndrome...And why you may feel like you are a fake"
   description: "Do you feel like everyone around you is smarter than you, and you are worried that they may discover you don't belong here? Or that you are faking it? Does it feel like you have gotten to your position due to a lucky break and not skill? <br><br>  <br><br>Welcome to the Impostor Syndrome. This is a strange psychological phenomenon that makes ordinary people – even brilliant ones – feel like they're frauds, fakes, inadequate, and undeserving. Even incredibly successful people like Neil Armstrong and Emma Watson feel like this sometimes. <br><br>  <br><br>Anyone can feel like this, especially if you are in a career in tech or research. Its particularly prevalent if you are from a diverse background (Women in STEM, international, etc). It can affect you at any stage of your career. <br><br>  <br><br>Come learn more about it from a fellow Impostor and hear about coping mechanisms to help you sidestep this feeling! "
   subtype: workshop
+  speakers: [11]
 -
   id: 1013
   title: "Data Cleaning with OpenRefine"
