@@ -339,3 +339,13 @@
   rockstar: true
   ribbon:
     - {abbr: "Centre for Planetary Health and Food Security, Griffith University", title: "Centre for Planetary Health and Food Security, Griffith University", url: "https://www.griffith.edu.au/centre-planetary-health-food-security"} 
+-
+  id: 34
+  name: "Dr. Nicholas"
+  surname: "Condon"
+  title: "Senior Microscopist, Institute for Molecular Bioscience, University of Queensland"
+  bio: "Nicholas Condon is a cell biologist, microscopist and imaging scientist. He has expertise in using advanced light microscopy and novel image analysis techniques to make discoveries. He is developing custom image analysis pipelines, and high-performance computing pipelines for the processing and analysis of complex big datasets from modern microscopes. He is an expert in many light microscopy technologies as well as the associated image analysis methods for both 2D and 3D data. Nicholas is currently supported by a 5-year Chan Zuckerberg Initiative Imaging Scientist fellowship to support the teaching and training of users around microscopy and data analysis. Deborah is a biomedical engineer, immunologist and imaging scientist. She has experience with intravital multiphoton microscopy, preclinical imaging using MRI, PET and CT, as well as microscopy and flow cytometry based immune assays. Deborah has developed image analysis pipelines for dynamic imaging, immune microenvironments, and most currently a fluorescence lifetime imaging analysis program. Deborah is interested in developing machine learning programs for image analysis."
+  thumbnailUrl: "NicholasCondon.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Institute for Molecular Bioscience, UQ", title: "Institute for Molecular Bioscience, UQ", url: "https://imb.uq.edu.au/"}
