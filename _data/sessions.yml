@@ -94,7 +94,7 @@
   title: "Fundamentals of Reproducible Research"
   description: "On completion of this workshop, participants should be able to: <br>- identify ways to make their research better organised, more reproducible and transparent <br>- identify time-saving processes such as automation of common tasks <br>- safeguard themselves against fraud <br>- secure their data against loss or accidental disclosure <br>- identify best practices in reproducibility for current and future research projects <br><br>No prior knowledge or equipment/installs needed"
   subtype: workshop
-  speaker: [18], [22]
+  speaker: [18, 22]
   complexity: "Beginner"
 - 
   id: 1002
@@ -218,7 +218,7 @@
   title: "Tidy Data and Good Spreadsheet Design"
   description: "Lots of research relies on data entered and stored in spreadsheets. Yet poor data organisation within a spreadsheet can make any subsequent data analysis very difficult. This workshop outlines the principles for designing good spreadsheets from the outset. <br><br> Some knowledge of spreadsheet programs such as excel is needed. <br>Follow the instructions here: https://librarycarpentry.org/lc-spreadsheets/setup.html"
   subtype: workshop
-  speakers: [18], [22]
+  speakers: [18, 22]
 -
   id: 1022
   title: "Using the R Package ‘galah’ to Investigate the Atlas of Living Australia "
@@ -268,7 +268,7 @@
   title: "Hands-On Knowledge Mapping in R (library Bibliometrix ) "
   description: "This workshop provides a practical introduction to the R Package, Bibliometrix (Aria & Cuccurullo, 2017). This workshop will focus upon data preparation, document clustering & visualising citation networks. <br><br> Basic R knowledge is needed. BYO your your own laptop and install R Studio & Bibliometrix (see - bit.ly/3y3hCkA)"
   subtype: workshop
-  speakers: [28], [29]
+  speakers: [28, 29]
 -
   id: 1031
   title: "Running bioinformatics pipeline using Nextflow"
@@ -297,7 +297,7 @@
   title: "Getting to know GitBook"
   description: "Introduction to The Living Book of Digital Skills (you never knew you needed until now) and an introduction to GitHub and version control"
   subtype: workshop
-  speakers: [26], [27]
+  speakers: [26, 27]
 -
   id: 1036
   title: "Advanced Data Wrangling with OpenRefine"
