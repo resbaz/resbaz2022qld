@@ -143,7 +143,7 @@
   surname: "Decker"
   title: "Business Analyst, EcoCommons Australia"
   bio:
-  thumbnailUrl: ""
+  thumbnailUrl: "EmiliaDecker.jpg"
   rockstar: true
   ribbon:
     - {abbr: "EcoCommons Australia", title: "EcoCommons Australia", url: "https://www.ecocommons.org.au/"}
@@ -153,7 +153,7 @@
   surname: "Ramza"
   title: "Australian Research Data Commons (ARDC)"
   bio:
-  thumbnailUrl:
+  thumbnailUrl: "SoniaRamza.jpg"
   rockstar: true
   ribbon:
     - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au/"}
@@ -201,7 +201,7 @@
   surname: "Howes"
   title: "Honorary Associate Professor, School of Chemical Engineering, University of Queensland"
   bio: "Tony Howes is an honorary academic in the School of Chemical Engineering at The University of Queensland. As a Python enthusiast and Orienteering tragic, Folium is a wonderful tool for the two interests together."
-  thumbnailUrl:
+  thumbnailUrl: "TonyHowes.jpg"
   rockstar: true
   ribbon:
     - {abbr: "School of Chemical Engineering, UQ", title: "School of Chemical Engineering, UQ", url: "https://chemeng.uq.edu.au/"}
@@ -221,7 +221,7 @@
   surname: "Somers"
   title: "Digital Capability Advisor, Academic Engagement Services, Griffith University"
   bio: ""
-  thumbnailUrl:
+  thumbnailUrl: "JulieSomers.jpg"
   rockstar: true
   ribbon:
 -
@@ -230,7 +230,7 @@
   surname: "Weaver"
   title: "Head of Library Academic Engagement Services, Academic Engagement Services, Griffith University"
   bio: "Belinda Weaver is a certified Software Carpentry instructor who has taught more than 40 workshops."
-  thumbnailUrl:
+  thumbnailUrl: "BelindaWeaver.jpg"
   rockstar: true
   ribbon:
 -
@@ -239,7 +239,7 @@
   surname: "Viegas-Gurry"
   title: "Change and Communications Manager, Research, Specialised and Data Foundations, Griffith University"
   bio: ""
-  thumbnailUrl:
+  thumbnailUrl: "TatiGurry.jpg"
   rockstar: true
   ribbon:
     - {abbr: "Digital Solutions, Griffith University", title: "Digital Solutions, Griffith University", url: "https://www.griffith.edu.au/digital-solutions"}
@@ -249,7 +249,7 @@
   surname: "Fortuna"
   title: "Postdoctoral Research Fellow, School of Biological Sciences, University of Queensland"
   bio: "I completed my PhD in 2021 where I modelled the evolution of host-parasite coevolution. Currently I am a postdoc for the CoE for Pant Success where I am developing models of plant hormone interactions."
-  thumbnailUrl:
+  thumbnailUrl: "NicoleFortuna.jpg"
   rockstar: true
   ribbon:
     - {abbr: "School of Biological Sciences, UQ", title: "School of Biological Sciences, UQ", url: "https://biological-sciences.uq.edu.au/"}
@@ -259,7 +259,7 @@
   surname: "Henry"
   title: "University Copyright Officer, Queensland University of Technology"
   bio: "Katya Henry is the University Copyright Officer at Queensland University of Technology (QUT) and the Creative Commons Global Network Representative for the Creative Commons Australia Chapter. She is a passionate advocate for open access and open education and is deeply committed to the role librarians play in enabling access to information."
-  thumbnailUrl:
+  thumbnailUrl: "KatyaHenry.jpg"
   rockstar: true
   ribbon:
 -
@@ -268,7 +268,7 @@
   surname: "King"
   title: "Training and Engagement Lead, Australia's Academic and Research Network"
   bio: "Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is currently working on creating reusable guidance information for Jupyter Notebooks and other AARNet services to be adapted for Carpentry training workshops. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone."
-  thumbnailUrl:
+  thumbnailUrl: "SaraKing.jpg"
   rockstar: true
   ribbon:
     - {abbr: "AARNet", title: "AARNET", url: "https://www.aarnet.edu.au/"}
@@ -278,7 +278,7 @@
   surname: "Tsakmakis"
   title: "Senior Library Coordinator, Library Academic and Research Services, Australian Catholic University"
   bio: "Nica Tsakmakis is a Senior Librarian at Australian Catholic University and Co-Convenor of the CAUL Digital Dexterity Champions Community of Practice. With a heavy humanities background she fell into Digital Dexterity and discovered a real passion for exploring and sharing all things digital from Library Carpentries to VR in the classroom."
-  thumbnailUrl:
+  thumbnailUrl: "NicaTsakmakis.jpg"
   rockstar: true
   ribbon:
 -
@@ -286,8 +286,8 @@
   name: "Mathew"
   surname: "Fletcher"
   title: "Liaison Librarian, Faculty of Business and Law, Queensland University of Technology"
-  bio: ""
-  thumbnailUrl:
+  bio:
+  thumbnailUrl: "MathewFletcher.jpg"
   rockstar: true
   ribbon:
 -
@@ -296,7 +296,7 @@
   surname: "Pope"
   title: "Liaison Librarian, Faculty of Business and Law, Queensland University of Technology"
   bio: ""
-  thumbnailUrl:
+  thumbnailUrl: "QuentinPope.jpg"
   rockstar: true
   ribbon:  
 -
@@ -305,28 +305,37 @@
   surname: "Zhao"
   title: "Senior Research Fellow, Bioinformatics and Genomics"
   bio: "Dr. Min Zhao has about 20 years of experience in the field of bioinformatics and genomics. His research focuses on the investigation of regulatory machines in aquatic genomes and disease genomes. In addition to 4 review manuscripts, he has published 90 research papers in peer-reviewed international journals including 50 first and corresponding author papers in total. In total, his papers have been cited over 4000+ times (H-index 31). About 50% of his publications are presented in the top 10% most cited papers worldwide in Scopus database. Additionally, ten of his manuscripts have been published in very high profile journals (top 5%; including Nature, Nature communication, cell research, American Journal of Respiratory and Critical Care Medicine, Nucleic Acids Research, Molecular ecology resource). The research articles include author contributions from a diversity of institutions/universities external from USC and International (primarily USA, Japan, China, and Thailand). He currently leads as Chief Investigator 1 ARC Discovery Projects (with USC as administering organisation), and is co-contributor for Reef2050 grant."
-  thumbnailUrl:
+  thumbnailUrl: "MinZhao.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "AARNet", title: "AARNET", url: "https://www.aarnet.edu.au/"}
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-    
+    - {abbr: "Centre for Bioinnovation, USC", title: "Centre for Bioinnovation, USC", url: "https://www.usc.edu.au/research/centre-for-bioinnovation"}
+-
+  id: 31
+  name: "Zachary"
+  surname: "Crockett"
+  title: "Biosciences Division, Oak Ridge National Laboratory"
+  bio:
+  thumbnailUrl: "ZacharyCrockett.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Oak Ridge National Laboratory", title: "Oak Ridge National Laboratory", url: "https://www.ornl.gov/"}
+-
+  id: 32
+  name: "Dr. Mark"
+  surname: "Crowe"
+  title: "Skills Development Manager, QCIF"
+  bio: "Mark Crowe is the Skills Development Manager with QCIF, and is an Instructor and an Instructor-Trainer with The Carpentries, an international digital skills training organisation. Since the start of the pandemic, Mark has held a ridiculous number of Zoom meetings, including having organised and hosted over 180 online training workshops for nearly 5000 participants."
+  thumbnailUrl: "MarkCrowe.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Skills Development, QCIF", title: "Skills Development, QCIF", url: "https://www.qcif.edu.au/skills-development/"}
+-
+  id: 33
+  name: "Dr. Ido"
+  surname: "Bar"
+  title: "Research Fellow, Centre for Planetary Health and Food Security, Griffith University"
+  bio: "I am a lecturer (Biosciences) and a research fellow at the Centre for Planetary Health and Food Security (formerly EFRI), with strong knowledge, skills and expertise in molecular biology, genomics and bioinformatics. My research foci are crop genomics, crop-pathogen molecular interactions and development of novel pathogen diagnostics methods. I aspire to develop applied research solutions in tight collaboration with the agriculture and aquaculture industries to overcome diseases and other production bottlenecks to help future food security. My group has several ongoing projects suitable for Capstone and WIL projects, as well as Honours and PhD programs, please contact me if interested in any of the research areas above. As a lecturer, I am responsible to develop, deliver and convene under/postgraduate level academic courses, including Introduction to Bioinformatics (3030NSC), Molecular Biology (2012NSC) and Scientific Data Analysis (6003ESC). I have initiated and I am coordinating the “Bioinformatics@Griffith” group, providing essential support, training resources and networking opportunities to HDR students and researchers using bioinformatics from multiple disciplines across the University."
+  thumbnailUrl: "IdoBar.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Centre for Planetary Health and Food Security, Griffith University", title: "Centre for Planetary Health and Food Security, Griffith University", url: "https://www.griffith.edu.au/centre-planetary-health-food-security"} 
