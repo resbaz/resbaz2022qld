@@ -94,6 +94,7 @@
   title: "Fundamentals of Reproducible Research"
   description: "On completion of this workshop, participants should be able to: <br>- identify ways to make their research better organised, more reproducible and transparent <br>- identify time-saving processes such as automation of common tasks <br>- safeguard themselves against fraud <br>- secure their data against loss or accidental disclosure <br>- identify best practices in reproducibility for current and future research projects <br><br>No prior knowledge or equipment/installs needed"
   subtype: workshop
+  speaker: [18], [22]
   complexity: "Beginner"
 - 
   id: 1002
@@ -106,6 +107,7 @@
   title: "The Social Dilemma: Leveraging Social Media Strategically"
   description: "Social media is considered essential for dissemination of research in today’s academic climate. Research has highlighted the impact of using social media to amplify work, but not without strategy. <br><br>In this workshop I will introduce the 3 domains of social media use (Consumption, Curation and Creation).<br><br> From here, we will explore approaches to achieving your goals for social media practice. <br> <br>We will cover different platforms, formats, and online safety. This introductory workshop will leave you with awareness of how you can integrate social media in your academic practice.  <br><br> Please bring a laptop or mobile device"
   subtype: workshop
+  speakers: [17]
 -
   id: 1004
   title: "How to Describe your Research Impact in one sentence"
@@ -128,11 +130,13 @@
   title: "Network Analysis with R"
   description: "Come and learn how to analyse networks with R. This interactive workshop will cover loading networks into R, measuring properties of networks, and creating network visualisations. This will be demonstrated in the context of data from candidates for the 2019 Federal Election.<br><br>Familiarity with R needed<br>Participants will need a laptop with an internet connection. Examples will be demonstrated in an online R notebook environment."
   subtype: workshop
+  speakers: [12]
 -
   id: 10072
   title: "Topic Modelling with R"
   description: "Following on from the network analysis workshop, this session will show you how to conduct a topic model analysis of political tweets to understand and interpret the content of a large dataset.<br><br>This workshop will use the same dataset as “Network Analysis with R”, but can be taken independently.<br><br>Familiarity with R needed<br>Participants will need a laptop with an internet connection. Examples will be demonstrated in an online R notebook environment."
   subtype: workshop
+  speakers: [12]
 -
   id: 1008
   title: "Intermediate Python Topics: Project Environments and Testing"
@@ -143,16 +147,19 @@
   title: "Introduction to R with Ecology data "
   description: "EcoCommons is building the platform of choice to analyse and model ecological and environmental problems while also increasing digital literacy of researchers and students. This workshop will focus on improving your computational skills by showing you how the statistical program R can be used for data analysis and visualisation in Ecology.  <br><br>The course starts with some basic information about the R syntax, the RStudio interface, and moves through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshop participants will have an overview of how to run their R code in the EcoCommons cloud environment and how to use the R package {tidyverse} to manipulate and visualise their data. In particular, we will demonstrate how to use the functions ‘select’ and ‘filter’ to manipulate your data and how to use the ‘pipe operator’ for more complex data manipulation in combination with ‘summarise’, ‘group_by’ and ‘count’ for quick summary statistics. At the end, we will show you how to visualise your data using different plots in the R package {ggplot2}. <br><br>This workshop is suitable for early career researchers, undergraduates and ecologists who have a keen interest to learn how to code in R while harnessing the power of cloud computing to solve environmental challenges. This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills and have the desire to learn how to use code within the cloud-computing resources of EcoCommons. It is also well suited for people who would like to refresh their coding skills in R. <br><br>This workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/  <br><br>This workshop is brought to you by EcoCommons Australia. EcoCommons is a partnership of nine organisations including the NCRIS-funded Australian Research Data Commons (ARDC), the Atlas of Living Australia (ALA), CEBRA at the University of Melbourne, CSIRO’s Land and Water unit, Griffith University, Macquarie University, QCIF, TERN, and the University of NSW. It also involves investment from the Queensland Government’s Research Infrastructure Co-investment Fund (RICF). <br><br><br>No prior knowledge needed <br><br>It is essential that you install and test R and RStudio well before the workshop. <br><br>Please carefully follow the instructions on https://datacarpentry.org/R-ecology-lesson/index.html to download, install and configure R and RStudio on your computer. If you already have R installed, please make sure it is version 4.0.0 or higher, or update it otherwise."
   subtype: workshop
+  speaker: [14]
 -
   id: 1010
   title: "Introduction to FIJI (ImageJ)"
   description: "This workshop provides a basic foundation to the open source image analysis program, FIJJ (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc. <br><br>  <br><br>FIJI is an open source image analysis program which builds upon ImageJ as it comes 'batteries included' meaning extra plugins and libraries are included by default for an easy installation. The software works on Windows, Mac & Linux and can be run headless on HPC. <br><br>  <br><br>Topics Covered <br><br>The intention of this workshop is to introduce new users to the program and covers the basic concepts around opening, saving and ethical manipulations to images. <br><br>  <br>- Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files) <br>- Merging channels, and dealing with multiple channel images <br>- Adjusting Brightness & Contrast and using histograms <br>- Adjusting bit-depth <br>- Adding scale to images & adding scale bars <br>- Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views) <br>- Basic Measurements (Area, Intensity, Shape descriptors, Line Scans) <br>- Creating Selections (Manual, ROI Manager) <br>- Overlays <br><br><br>No prior knowledge is required, this is considered a beginners or foundation level course. <br><br>FIJI Imaging software (Download from: fiji.sc) Workshop files and content: https://osf.io/zq32x/"
   subtype: workshop
+  speakers: [34]
 -
   id: 1011
   title: "The greatest gift to yourself (Virtual workshop- Tentatitive)"
   description: ""
   subtype: talk
+  speakers: [16]
 -
   id: 1012
   title: "The Impostor Syndrome...And why you may feel like you are a fake"
@@ -164,6 +171,7 @@
   title: "Data Cleaning with OpenRefine"
   description: "Learn how to prepare messy, structured or semi-structured data and transform it into a structured and organised format to enable computational processing and analysis. On completion of this workshop, participants should be able to:  <br><br>•clean, organise, and prepare data for analysis <br>•explore data through facets and filters <br>•implement tidy data principles <br>•use basic features of OpenRefine <br>•extract and reuse a reproducible script to repeat processing on similar data <br><br>Please bring a Laptop (not tablet) and install OpenRefine software. Instructions to be sent prior to workshop. "
   subtype: workshop
+  speakers: [18]
 -
   id: 1014
   title: "Note taking Apps and OneNote as a Laboratory Notebook"
@@ -174,36 +182,43 @@
   title: "Come and Try the Nectar Cloud’s Virtual Desktop "
   description: "Wondering whether the Cloud is for you? Come to this session to learn more about why its useful for research, and then learn basic skills to get started on our Virtual Desktop Service!<br><br>Prerequisites: Internet access, laptop and please log into the Virtual Desktop for the first time: https://desktop.rc.nectar.org.au "
   subtype: workshop
+  speakers: [15]
 -
   id: 1016
   title: "How to bring Change with your Research (Change management skills) "
   description: "We live and breathe change everyday – join us to learn more about how to encourage your audiences to embrace changes you propose – along with some tips!<br> Please bring laptop, paper and pen"
   subtype: workshop
+  speakers: [23]
 -
   id: 1017
   title: "Academic & Professional Capability: Strategies to Effectively Transition Your Skills, Knowledge and Competences "
   description: "The ‘capable practitioner’ (O’Reilly et al., 1999) can be characterised as one who demonstrates: self-efficacy, intelligent judgement, ethical practice, and is functionally competent across a range of competences that are wisely (selectively and constructively) applied in ways that reflect excellence, not just mere proficiency (Lester, 2014; Stephenson, 1998). This highly accessible presentation explores and reflects on the literature that defines academic and professional capability, and provides strategies to help practice-based researchers effectively transition their skills, knowledge and competences between these two capacities."
   subtype: workshop
+  speakers: [19]
 -
   id: 1018
   title: "Machine Learning Crash Course - Principles and Tools in R"
   description: "This workshop will cover: <br><br>- What we mean by 'machine learning' in the context of 'supervised learning' <br><br>- Using the caret package in R for implementing machine learning models <br><br>- How to align the purpose of a model and the choice of a model  <br><br>Prerequisites: Basic knowledge of R and Rstudio, particularly data frames. Please come with R and Rstudio installed"
   subtype: workshop
+  speakers: [21]
 -
   id: 1019
   title: "Introduction to Python for Data Scientists"
   description: "This workshop is recommended for researchers looking for scripting capabilities to run batch analyses and link processes to create a basic pipeline, or to automated repeated tasks for efficiency and reproducibility. While it is designed to be suitable for people with no previous experience with Python or other programming languages, participants do need to be confident and experienced with using computers, and a familiarity with command-line interfaces will be helpful. <br><br>  <br><br>Learning Objectives <br><br>  <br><br>Use Python to read and write data from and to files <br><br>Perform simple scripting operations using loops and conditionals to carry out batch analyses <br><br>Generate data plots with Python <br><br>Syllabus <br><br>  <br><br>The workshop will use the training material at swcarpentry.github.io/python-novice-gapminder/. Topics covered will include: <br><br>- Fundamental programming concepts and how to apply them in Python <br>- Python data types and data structures <br>- Importing functions into Python using modules <br>- Programming structures: loops, conditionals, and functions  <br>- Using scripting language to automate data analysis pipelines <br><br><br>No prior knowledge needed – this workshop will assume you have no prior knowledge of programming and will take you through beginner steps <br><br>Please bring to class Laptop, internet connection, with installs completed as per http://swcarpentry.github.io/python-novice-gapminder/setup.html <br><br><br>Please note – if you are from Griffith University and using a GU computer, install Spyder from their website directly: https://www.spyder-ide.org/#section-download . Feel free to get in touch with Amanda Miotto at Griffith for assistance with this install <br><br> <br><br>"
   subtype: workshop
+  speakers: [20]
 -
   id: 1020
   title: "Document Processing with LaTeX "
   description: "Using the LaTeX document processing system as an alternative to Microsoft Word. <br><br> Please bring a laptop signed into Overleaf (www.overleaf.com)"
   subtype: workshop
+  speakers: [22]
 -
   id: 1021
   title: "Tidy Data and Good Spreadsheet Design"
   description: "Lots of research relies on data entered and stored in spreadsheets. Yet poor data organisation within a spreadsheet can make any subsequent data analysis very difficult. This workshop outlines the principles for designing good spreadsheets from the outset. <br><br> Some knowledge of spreadsheet programs such as excel is needed. <br>Follow the instructions here: https://librarycarpentry.org/lc-spreadsheets/setup.html"
   subtype: workshop
+  speakers: [18], [22]
 -
   id: 1022
   title: "Using the R Package ‘galah’ to Investigate the Atlas of Living Australia "
@@ -225,11 +240,13 @@
   title: "Zooming to the Next Level: Tips and Tricks using Zoom"
   description: "Zoom is a fact of life for most researchers now, yet many of its useful features often get overlooked. In this workshop we’ll introduce you to some Zoom techniques that QCIF uses in our training courses, and which we hope you can use to improve your online meetings and workshops. We’ll also encourage you to share your own hints and tips for Zoom meetings. <br><br><br>Prerequisites/prior knowledge needed: Attendees should have experience with setting up simple (one-on-one) meetings using Zoom. More experienced users are welcome. <br><br>Laptops/software installation needed: Please bring a laptop with Zoom installed and updated to the most recent version possible, configured for Eduroam wifi (and tested before the workshop)."
   subtype: workshop
+  speakers: [32]
 -
   id: 1026
   title: "Copyright considerations for Researchers "
   description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
   subtype: workshop
+  speakers: [25]
 -
   id: 1027
   title: "How to access biodiversity data from the Atlas of Living Australia "
@@ -240,6 +257,7 @@
   title: "Building R packages and publishing them on GitHub "
   description: "In this workshop, you will learn how to properly document and organise your functions to create an R package. Creating an R package is beneficial both when it comes to sharing code with other people, but also for home use. It makes it easier to call up your repertoire of functions and provides you with help files so that it is easy for you to remember how to use your functions long after you have built them. While the main purpose of this workshop is to construct an R package, I will also demonstrate how to use git to 'save' different versions of your package, as well as how to push your package onto GitHub so that it can be accessible to other people. <br><br><br>Prerequisites/prior knowledge needed: Enough knowledge of the R programming language to build a function. Students do not need to be proficient. <br><br>Laptops/software installation needed: Participants should bring a laptop, with R and RStudio installed. Having git installed and a GitHub account is beneficial, but not necessary. Having some existing R functions ready that the participant would like to turn into a function is encouraged, however I will provide some dummy functions for participants to work on if they do not bring their own."
   subtype: workshop
+  speakers: [24]
 -
   id: 1029
   title: "Introduction to Git"
@@ -250,21 +268,25 @@
   title: "Hands-On Knowledge Mapping in R (library Bibliometrix ) "
   description: "This workshop provides a practical introduction to the R Package, Bibliometrix (Aria & Cuccurullo, 2017). This workshop will focus upon data preparation, document clustering & visualising citation networks. <br><br> Basic R knowledge is needed. BYO your your own laptop and install R Studio & Bibliometrix (see - bit.ly/3y3hCkA)"
   subtype: workshop
+  speakers: [28], [29]
 -
   id: 1031
   title: "Running bioinformatics pipeline using Nextflow"
   description: "Nextflow is a scripting language for computational pipelines that enables scalable and reproducible scientific workflows using software containers. It allows the adaptation of pipelines written in the most common scripting languages. (https://www.nextflow.io/). This workshop will introduce Nextflow and its basic principles and features and will teach users how to set it up on their HPC account and launch commonly practiced bioinformatics pipelines in a scalable and easy-to-monitor fashion. Laptops, HPC account (Griffith or QRIS), basic Linux skills needed. Lessons available here: https://carpentries-incubator.github.io/workflows-nextflow/"
   subtype: workshop
+  speakers: [33]
 -
   id: 1032
   title: "Interactive maps using Python and Folium"
   description: "The workshop will be a practical demonstration of Folium (a wrapper for Python of the JavaScript Leaflet library) to generate interactive maps and display data on Open Street Maps. </br></br>Data for the workshop will be generated by any ResBaz attendees who are able to take a guided stroll through the campus before the workshop. "
   subtype: workshop
+  speakers: [20]
 -
   id: 1033
   title: "Making Data (more) FAIR with KBase (Virtual)"
   description: "Data and the FAIR principles are a hot topic which only continue to grow in importance as the production of data accelerates. Despite this fact, it isn't always easy to understand how or why to make data FAIR. In this talk, I discuss what the FAIR data are (and, just as importantly, are not), and how easy or difficult it is to comply with FAIR Principles, as well as the benefits for doing so. "
   subtype: workshop
+  speakers: [31]
 -
   id: 1034
   title: "Launch of the Australian Text Analytics Platform"
@@ -275,11 +297,13 @@
   title: "Getting to know GitBook"
   description: "Introduction to The Living Book of Digital Skills (you never knew you needed until now) and an introduction to GitHub and version control"
   subtype: workshop
+  speakers: [26], [27]
 -
   id: 1036
   title: "Advanced Data Wrangling with OpenRefine"
   description: "Building on the introductory session, learn advanced data wrangling skills including combining tabular data, extracting values from messy data, geolocating data, using OpenRefine and geojson.io. <br><br>On completion of this workshop, participants should be able to:  <br>- extend data with additional variables from other data, <br>- visualise geographic locations using Geo.json resulting in an interactive map <br>- create a webpage to display the geographically visualise data using Github. "
   subtype: workshop
+  speakers: [18]
 -
   id: 1037
   title: "The ARDC National ML Service Pilot. How it works, and what you would like it to evolve into "
@@ -295,3 +319,4 @@
   title: "Phylogenomics analysis using large-scale public genome data"
   description: "A 90 minutes workshop will be held for the phylogenomics analysis on large-scale whole genome data. We will lead participants through a series of computational exercises having the following goals: <br><br>- NCBI genome database download (SRA toolkit) and basic Linux command line (wget download). <br><br>- Construct orthologous gene assignments using OrthoFinder. <br><br>- Display, annotate and visualize phylogenetics trees by using iTOL (Interactive Tree Of Life) <br><br>Participants are encouraged to work with their own NGS-based genome/transcriptome datasets, but sample datasets will also be provided and analyzed. "
   subtype: workshop
+  speakers: [30]
