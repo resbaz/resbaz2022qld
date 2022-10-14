@@ -101,7 +101,7 @@
   title: "Learn how to share your code and results with end users: Shiny app fundamentals in R"
   description: "Ever wanted to share your R code with industry partners or end users who weren’t familiar with the language? Or wished that you could build an interactive app that only required non-technical stakeholders to click a few buttons? <br><br> Shiny is a popular R package that allows you to build highly interactive web applications—without needing any other programming languages. Using Shiny you can share your analyses as dashboards and visualisations and create interactive platforms for anybody to use the tools you create (see examples here https://shiny.rstudio.com/gallery/). <br><br>This is a workshop aimed at anyone with a working knowledge of R who is interested in better communicating their results with non-technical stakeholders. In the first part of this workshop, you will be introduced to the basic syntax and principles of R Shiny. Then we will develop an app that allows users to upload data, run analyses, and display the results in a figure and/or a map."
   subtype: workshop
-  #speakers: [1]
+  speakers: [10]
 -
   id: 1003
   title: "The Social Dilemma: Leveraging Social Media Strategically"
@@ -119,6 +119,7 @@
   title: "Collecting Twitter Data for Comparative Text Analytics"
   description: "This hands-on workshop will show you how to collect and prepare Twitter data for analysis, using the example research question of “Which monotreme is the coolest?”. Starting from scratch, we will show you how to get Twitter developer API access and then use it to collect research data using the twarc toolkit for Python.<br><br>This workshop leads into the Comparative Text Analytics with R workshop, but can be taken on its own. <br><br>Participants will need a laptop that they can install Python on, and a Twitter account."
   subtype: workshop
+  speakers: [12]
 -
   id: 1006
   title: "Comparative Text Analytics with R"
@@ -142,6 +143,7 @@
   title: "Intermediate Python Topics: Project Environments and Testing"
   description: "This workshop will cover two intermediate topics in Python software development for research code:<br><br>1. Setting up a project environment for productive collaboration with a team<br>2. Testing your software<br><br>Basic knowledge of Python, Git and using a Command Line. It is expected that participants will have been programming for at least six months, and are starting to run into the limitations of their current workflows.<br><br>Laptop with Python and Git installed"
   subtype: workshop
+  speakers: [12]
 -
   id: 1009
   title: "Introduction to R with Ecology data "
