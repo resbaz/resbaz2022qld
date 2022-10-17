@@ -45,7 +45,7 @@
   description: "This session will provide you with an overview of the Australian Research Data Commons, the tools and services on offer and provide a practical overview of FAIR. "
 -
   id: 1053
-  title: "Designing for Good by Indi Tansey"
+  title: "How to turn your research and data into impactful and insightful visual stories that stick by Indi Tansey"
   subtype: talk
   speakers: [3]
   #service: true
@@ -158,7 +158,7 @@
   speakers: [34]
 -
   id: 1011
-  title: "The greatest gift to yourself (Virtual workshop- Tentatitive)"
+  title: ""
   description: ""
   subtype: talk
   speakers: [16]
@@ -322,3 +322,9 @@
   description: "A 90 minutes workshop will be held for the phylogenomics analysis on large-scale whole genome data. We will lead participants through a series of computational exercises having the following goals: <br><br>- NCBI genome database download (SRA toolkit) and basic Linux command line (wget download). <br><br>- Construct orthologous gene assignments using OrthoFinder. <br><br>- Display, annotate and visualize phylogenetics trees by using iTOL (Interactive Tree Of Life) <br><br>Participants are encouraged to work with their own NGS-based genome/transcriptome datasets, but sample datasets will also be provided and analyzed. "
   subtype: workshop
   speakers: [30]
+-
+  id: 1040
+  title: "Introduction to the Five Safes for Sensitive Data"
+  description: "Come along to hear how CADRE (Coordinated Access for Data, Research and Environments) and QCIF are working towards making access to sensitive data safe. You will learn how they are using the Five Safes as a framework to guide decision-making as well as educate those stakeholders who have an invested interest in sensitive data. "
+  subtype: workshop
+  speakers: []
