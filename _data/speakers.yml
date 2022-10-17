@@ -142,7 +142,7 @@
   name: "Emilia"
   surname: "Decker"
   title: "Business Analyst, EcoCommons Australia"
-  bio:
+  bio: "Emilia is an environmental scientist who wrote her PhD thesis on using ecoacoustics as a monitoring tool for freshwater systems and presented it at TEDx Byron Bay. As the Business & Scientific Analyst for EcoCommons, she reviews requirements and testing plans to ensure the EcoCommons platform is meeting planned milestones."
   thumbnailUrl: "EmiliaDecker.jpg"
   rockstar: true
   ribbon:
@@ -210,7 +210,7 @@
   name: "James"
   surname: "Todd"
   title: "Assistant Professor of Data Analytics, Bond Business School, Bond University"
-  bio: "James is an assistant professor of data analytics at Bond University. His research focuses on the application of statistical and machine learning techniques in healthcare to support decision-makers."
+  bio: "James is an Assistant Professor of Data Analytics at Bond University. His research focuses on how data can be used to improve decision-making in organisations, particularly in the healthcare sector."
   thumbnailUrl: "JamesTodd.jpg"
   rockstar: true
   ribbon:
