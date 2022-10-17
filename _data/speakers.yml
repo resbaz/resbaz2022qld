@@ -225,15 +225,6 @@
   rockstar: true
   ribbon:
 -
-  id: 22
-  name: "Belinda"
-  surname: "Weaver"
-  title: "Head of Library Academic Engagement Services, Academic Engagement Services, Griffith University"
-  bio: "Belinda Weaver is a certified Software Carpentry instructor who has taught more than 40 workshops."
-  thumbnailUrl: "BelindaWeaver.jpg"
-  rockstar: true
-  ribbon:
--
   id: 23
   name: "Tati"
   surname: "Viegas-Gurry"
@@ -349,3 +340,12 @@
   rockstar: true
   ribbon:
     - {abbr: "Institute for Molecular Bioscience, UQ", title: "Institute for Molecular Bioscience, UQ", url: "https://imb.uq.edu.au/"}
+ -
+  id: 35
+  name: "Belinda"
+  surname: "Weaver"
+  title: "Head of Library Academic Engagement Services, Academic Engagement Services, Griffith University"
+  bio: "Belinda Weaver is a certified Software Carpentry instructor who has taught more than 40 workshops."
+  thumbnailUrl: "BelindaWeaver.jpg"
+  rockstar: true
+  ribbon:
