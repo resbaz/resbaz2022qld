@@ -94,7 +94,7 @@
   title: "Fundamentals of Reproducible Research"
   description: "On completion of this workshop, participants should be able to: <br>- identify ways to make their research better organised, more reproducible and transparent <br>- identify time-saving processes such as automation of common tasks <br>- safeguard themselves against fraud <br>- secure their data against loss or accidental disclosure <br>- identify best practices in reproducibility for current and future research projects <br><br>No prior knowledge or equipment/installs needed"
   subtype: workshop
-  speaker: [18, 35]
+  speakers: [18, 35]
   complexity: "Beginner"
 - 
   id: 1002
