@@ -45,7 +45,7 @@
   description: "This session will provide you with an overview of the Australian Research Data Commons, the tools and services on offer and provide a practical overview of FAIR. "
 -
   id: 1053
-  title: "Designing for Good by Indi Tansey"
+  title: "How to turn your research and data into impactful and insightful visual stories that stick by Indi Tansey"
   subtype: talk
   speakers: [3]
   #service: true
@@ -158,7 +158,7 @@
   speakers: [34]
 -
   id: 1011
-  title: "The greatest gift to yourself (Virtual workshop- Tentatitive)"
+  title: ""
   description: ""
   subtype: talk
   speakers: [16]
@@ -307,13 +307,8 @@
   subtype: workshop
   speakers: [18]
 -
-  id: 1037
-  title: "The ARDC National ML Service Pilot. How it works, and what you would like it to evolve into "
-  description: "The ARDC recently funded the acquisition of a small amount of high performance GPU hardware to advance the state of ML research in Australia. The (since completed) Environments to Accelerate Machine Learning Based Discovery identified that this hardware would be best used to support researchers beginning to play with ML models, and in particular researchers who had outgrown the capabilities of their desktops but weren't yet familiar with HPC offerings. The MLeRP service attempts to bridge that gap, offering an experience similar to google colab, but with persistent file storage and an HPC batch system behind the scenes to enable our users to grow and develop as needed. <br><br>Come along to this workshop and get signed up for a trial account on MLeRP, try the system out and give us your feedback on how we can better serve the Australian research community in their ML journey. "
-  subtype: workshop
--
   id: 1038
-  title: "The ARDC National ML Service Pilot. How it works, and what you would like it to evolve into "
+  title: "The ARDC National ML Service Pilot: How it works, and what you would like it to evolve into "
   description: "The ARDC recently funded the acquisition of a small amount of high performance GPU hardware to advance the state of ML research in Australia. The (since completed) Environments to Accelerate Machine Learning Based Discovery identified that this hardware would be best used to support researchers beginning to play with ML models, and in particular researchers who had outgrown the capabilities of their desktops but weren't yet familiar with HPC offerings. The MLeRP service attempts to bridge that gap, offering an experience similar to google colab, but with persistent file storage and an HPC batch system behind the scenes to enable our users to grow and develop as needed. <br><br>Come along to this workshop and get signed up for a trial account on MLeRP, try the system out and give us your feedback on how we can better serve the Australian research community in their ML journey. "
   subtype: workshop
 -
@@ -322,3 +317,9 @@
   description: "A 90 minutes workshop will be held for the phylogenomics analysis on large-scale whole genome data. We will lead participants through a series of computational exercises having the following goals: <br><br>- NCBI genome database download (SRA toolkit) and basic Linux command line (wget download). <br><br>- Construct orthologous gene assignments using OrthoFinder. <br><br>- Display, annotate and visualize phylogenetics trees by using iTOL (Interactive Tree Of Life) <br><br>Participants are encouraged to work with their own NGS-based genome/transcriptome datasets, but sample datasets will also be provided and analyzed. "
   subtype: workshop
   speakers: [30]
+-
+  id: 1040
+  title: "Introduction to the Five Safes for Sensitive Data"
+  description: "Come along to hear how CADRE (Coordinated Access for Data, Research and Environments) and QCIF are working towards making access to sensitive data safe. You will learn how they are using the Five Safes as a framework to guide decision-making as well as educate those stakeholders who have an invested interest in sensitive data. "
+  subtype: workshop
+  speakers: []
