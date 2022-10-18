@@ -349,3 +349,13 @@
   thumbnailUrl: "BelindaWeaver.jpg"
   rockstar: true
   ribbon:
+-
+  id: 36
+  name: "Alice"
+  surname: "Miller"
+  title: "Senior Data Scientist/Developer, Digital Observatory, Queensland University of Technology"
+  bio: "Alice is a data scientist with a background in social science research."
+  thumbnailUrl: "AliceMiller.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Digital Observatory, QUT", title: "Digital Observatory, QUT", url: "https://www.qut.edu.au/digital-observatory"}
