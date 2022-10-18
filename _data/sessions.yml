@@ -129,7 +129,7 @@
 -
   id: 10071
   title: "Network Analysis with R"
-  description: "This workshop will cover an introduction to network theory and the fundamental principles of using R for network analysis. The data used for the workshop will be an open-source dataset of Twitter data relating to the 2019 Federal Election. ome and learn how to analyse networks with R. This interactive workshop will cover loading networks into R, measuring properties of networks, and creating network visualisations. This will be demonstrated in the context of data from candidates for the 2019 Federal Election. Attendees can choose to follow along by running the code in their own RStudio session, or choose to focus on the slides and go through the code in RStudio later.<br><br>Before the workshop, attendees who would like to follow along in their own RStudio session should visit https://bit.ly/resbaz-network-analysis and follow the instructions in the pre-workshop-instructions.pdf file."
+  description: "This workshop will cover an introduction to network theory and the fundamental principles of using R for network analysis, including loading networks into R, quantitative properties of networks, and network visualisation. <br><br>The data used for the workshop will be an open-source dataset of Twitter data relating to the 2019 Federal Election. Attendees can choose to follow along by running the code in their own RStudio session, or choose to focus on the slides and go through the code in RStudio later. <br><br>Before the workshop, attendees who would like to follow along in their own RStudio session should visit https://bit.ly/resbaz-network-analysis and follow the instructions in the pre-workshop-instructions.pdf file."
   subtype: workshop
   speakers: [36]
 -
