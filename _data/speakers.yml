@@ -359,3 +359,12 @@
   rockstar: true
   ribbon:
     - {abbr: "Digital Observatory, QUT", title: "Digital Observatory, QUT", url: "https://www.qut.edu.au/digital-observatory"}
+- 
+  id: 37
+  name: "Rani"
+  surname: "McLennan"
+  title: "Copyright Information Officer, Queensland University of Technology"
+  bio: "Rani McLennan is the Copyright Information Officer at Queensland University of Technology (QUT) and the Open Educational Resource (OER) Collective Project Officer at the Council of Australian University Librarians (CAUL). She has over a decade of experience in public, school, and academic libraries. Her interests include the communication of complex information through text and visuals and openly licensed image collections."
+  thumbnailUrl: "RaniMcLennan.jpg"
+  rockstar: true
+  ribbon:
