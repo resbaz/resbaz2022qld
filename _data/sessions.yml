@@ -243,11 +243,6 @@
   subtype: workshop
   speakers: [25, 37]
 -
-  id: 1027
-  title: "How to access biodiversity data from the Atlas of Living Australia "
-  description: "Atlas of Living Australia (ALA) is a collaborative, digital, open infrastructure that pulls together Australian biodiversity data from multiple sources, making it accessible and reusable. <br><br>The ALA helps to create a more detailed picture of Australia’s biodiversity for scientists, policy makers, environmental planners and land managers, industry and the general public, and enables them to work more efficiently. <br><br>This workshop will cover: <br><br>- Introduction to the ALA <br>- What data is available <br>- How to access data using the ALA web platform <br>- How to analyse and visualise data in the spatial portal <br><br>This workshop will be interactive and you will be plenty of time for questions and discussion!<br><br>Please bring a laptop with wifi access."
-  subtype: workshop
--
   id: 1028
   title: "Building R packages and publishing them on GitHub "
   description: "In this workshop, you will learn how to properly document and organise your functions to create an R package. Creating an R package is beneficial both when it comes to sharing code with other people, but also for home use. It makes it easier to call up your repertoire of functions and provides you with help files so that it is easy for you to remember how to use your functions long after you have built them. While the main purpose of this workshop is to construct an R package, I will also demonstrate how to use git to 'save' different versions of your package, as well as how to push your package onto GitHub so that it can be accessible to other people. <br><br><br>Prerequisites/prior knowledge needed: Enough knowledge of the R programming language to build a function. Students do not need to be proficient. <br><br>Laptops/software installation needed: Participants should bring a laptop, with R and RStudio installed. Having git installed and a GitHub account is beneficial, but not necessary. Having some existing R functions ready that the participant would like to turn into a function is encouraged, however I will provide some dummy functions for participants to work on if they do not bring their own."
