@@ -322,3 +322,9 @@
   description: "Come along to hear how CADRE (Coordinated Access for Data, Research and Environments) and QCIF are working towards making access to sensitive data safe. You will learn how they are using the Five Safes as a framework to guide decision-making as well as educate those stakeholders who have an invested interest in sensitive data. "
   subtype: workshop
   speakers: []
+-
+  id: 1041
+  title: "Building a blog with git, R and quarto"
+  description: "Grassroots communities of practice are a great way to build communities and skill share – creating an online presence and repository for knowledge, tutorials, and code can be a useful tool. We will introduce a workflow using Git, R, and quarto to run a community of practice blog by forking a GitHub repository, creating a blogpost in RStudio, and pushing the post back to GitHub. This workshop will feature the UQ Geospatial Analysis Community Group and use their R blog as an example. Basic understanding of Git + GitHub and R + RStudio is helpful but the workshop will be aimed at beginners with no prior knowledge."
+  subtype: workshop
+  speakers: [38]
