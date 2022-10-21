@@ -159,8 +159,8 @@
   id: 1011
   title: ""
   description: ""
+  hidden: true
   subtype: talk
-  speakers: [16]
 -
   id: 1012
   title: "The Impostor Syndrome...And why you may feel like you are a fake"
@@ -219,11 +219,6 @@
   description: "Lots of research relies on data entered and stored in spreadsheets. Yet poor data organisation within a spreadsheet can make any subsequent data analysis very difficult. This workshop outlines the principles for designing good spreadsheets from the outset. <br><br> Some knowledge of spreadsheet programs such as excel is needed. <br>Follow the instructions here: https://librarycarpentry.org/lc-spreadsheets/setup.html"
   subtype: workshop
   speakers: [18, 35]
--
-  id: 1023
-  title: "Ask a Recruiter Anything "
-  description: "Ever have questions you would like to ask a recruiter? This is your opportunity! <br><br> <br><br>Meet with a panel of recruiters in the data/tech space and get the opportunity to learn about what happens while recruiting. "
-  subtype: workshop
 -
   id: 1024
   title: "Data Orientated Career Pathways - How did I get here, and how can you? "
