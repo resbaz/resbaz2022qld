@@ -171,7 +171,7 @@
   name: "Jessica"
   surname: "Stokes-Parish"
   title: "Assistant Professor, Faculty of Health Sciences and Medicine, Bond University"
-  bio:
+  bio: "Jessica is a practicing intensive care nurse and educator, who holds a PhD in Medical Education. In addition to 13+ years of bedside nursing, her areas of work include health professions workforce development, including policy, education, and science communication. She is an experienced science communicator and shares her work at @j_stokesparish on all platforms."
   thumbnailUrl: "JessicaStokesParish.jpg"
   rockstar: true
   ribbon:
@@ -229,7 +229,7 @@
   name: "Tati"
   surname: "Viegas-Gurry"
   title: "Change and Communications Manager, Research, Specialised and Data Foundations, Griffith University"
-  bio: ""
+  bio: "I am a training and project delivery professional specialising in business best practices by establishing, implementing, and monitoring change, controls and training in projects for clients in private and public sectors across various industries. With 20 years across national and international organisations, where project budgets range from $100K to $100 million, I am qualified in Business Administration, Project Management, Training and Assessment, Change Management (Prosci) and Prince2; knowledge of PMBOK, Agile, SCRUM, Scheduling (EVM), Finance, EDRMS, and ERP Systems. I am passionate about supporting people on journeys of change in fast-paced environments. I am fluent in Brazilian Portuguese and Spanish and a big advocate of diversity. I enjoy helping graduates and professionals achieve their career goals and crafting beadwork in my spare time."
   thumbnailUrl: "TatiGurry.jpg"
   rockstar: true
   ribbon:
@@ -277,7 +277,7 @@
   name: "Mathew"
   surname: "Fletcher"
   title: "Liaison Librarian, Faculty of Business and Law, Queensland University of Technology"
-  bio:
+  bio: "Mathew Fletcher is a Librarian for Economics & Finance at QUT with an interest in scientometrics and knowledge representation."
   thumbnailUrl: "MathewFletcher.jpg"
   rockstar: true
   ribbon:
@@ -286,7 +286,7 @@
   name: "Dr. Quentin"
   surname: "Pope"
   title: "Liaison Librarian, Faculty of Business and Law, Queensland University of Technology"
-  bio: ""
+  bio: "Dr Quentin Pope, Law Librarian at QUT, has a PhD in Biological Sciences and has published over 40 scientific papers. She has a special interest in history of ideas and representations of knowledge networks."
   thumbnailUrl: "QuentinPope.jpg"
   rockstar: true
   ribbon:  
@@ -349,3 +349,32 @@
   thumbnailUrl: "BelindaWeaver.jpg"
   rockstar: true
   ribbon:
+-
+  id: 36
+  name: "Alice"
+  surname: "Miller"
+  title: "Senior Data Scientist/Developer, Digital Observatory, Queensland University of Technology"
+  bio: "Alice is a data scientist with a background in social science research."
+  thumbnailUrl: "AliceMiller.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Digital Observatory, QUT", title: "Digital Observatory, QUT", url: "https://www.qut.edu.au/digital-observatory"}
+- 
+  id: 37
+  name: "Rani"
+  surname: "McLennan"
+  title: "Copyright Information Officer, Queensland University of Technology"
+  bio: "Rani McLennan is the Copyright Information Officer at Queensland University of Technology (QUT) and the Open Educational Resource (OER) Collective Project Officer at the Council of Australian University Librarians (CAUL). She has over a decade of experience in public, school, and academic libraries. Her interests include the communication of complex information through text and visuals and openly licensed image collections."
+  thumbnailUrl: "RaniMcLennan.jpg"
+  rockstar: true
+  ribbon:
+- 
+  id: 38
+  name: "Dr. Catherine"
+  surname: "Kim"
+  title: "Postdoctoral researcher, School of Earth and Atmospheric Sciences, Queensland University of Technology"
+  bio: "Catherine is a postdoctoral researcher in the School of Earth and Atmospheric Sciences at the Queensland University of Technology. Currently, she is modelling generation of coral rubble across the Great Barrier Reef for the Reef Restoration and Adaptation Program."
+  thumbnailUrl: "CatherineKim.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "School of Earth and Atmosphereic Sciences, QUT", title: "School of Earth and Atmosphereic Sciences, QUT", url: "https://www.qut.edu.au/about/faculty-of-science/school-of-earth-and-atmospheric-sciences"}

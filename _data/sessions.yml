@@ -45,12 +45,11 @@
   description: "This session will provide you with an overview of the Australian Research Data Commons, the tools and services on offer and provide a practical overview of FAIR. "
 -
   id: 1053
-  title: "How to turn your research and data into impactful and insightful visual stories that stick by Indi Tansey"
+  title: "Learn the Art of Visual Storytelling!"
   subtype: talk
   speakers: [3]
   #service: true
-  hidden: true
-  description: ""
+  description: "Indi is a visual storyteller who brings complex strategies and deep research to life, via delightful and impactful data-driven graphics and illustrations that are meaningful to larger audiences. In this session Indi will share how visual storytelling can be used as a research communication tool and will give all attendees her cheat sheet for transforming research into accessible and visual stories, that stick."
 -
   id: 1054
   title: "Technical Debt and Software Engineering for R Programming: Improving the Development of your Datascience Code by Dr Melina Vidoni (virtually hosted)"
@@ -129,9 +128,9 @@
 -
   id: 10071
   title: "Network Analysis with R"
-  description: "Come and learn how to analyse networks with R. This interactive workshop will cover loading networks into R, measuring properties of networks, and creating network visualisations. This will be demonstrated in the context of data from candidates for the 2019 Federal Election.<br><br>Familiarity with R needed<br>Participants will need a laptop with an internet connection. Examples will be demonstrated in an online R notebook environment."
+  description: "This workshop will cover an introduction to network theory and the fundamental principles of using R for network analysis, including loading networks into R, quantitative properties of networks, and network visualisation. <br><br>The data used for the workshop will be an open-source dataset of Twitter data relating to the 2019 Federal Election. Attendees can choose to follow along by running the code in their own RStudio session, or choose to focus on the slides and go through the code in RStudio later. <br><br>Before the workshop, attendees who would like to follow along in their own RStudio session should visit https://bit.ly/resbaz-network-analysis and follow the instructions in the pre-workshop-instructions.pdf file."
   subtype: workshop
-  speakers: [12]
+  speakers: [36]
 -
   id: 10072
   title: "Topic Modelling with R"
@@ -208,7 +207,6 @@
   title: "Introduction to Python for Data Scientists"
   description: "This workshop is recommended for researchers looking for scripting capabilities to run batch analyses and link processes to create a basic pipeline, or to automated repeated tasks for efficiency and reproducibility. While it is designed to be suitable for people with no previous experience with Python or other programming languages, participants do need to be confident and experienced with using computers, and a familiarity with command-line interfaces will be helpful. <br><br>  <br><br>Learning Objectives <br><br>  <br><br>Use Python to read and write data from and to files <br><br>Perform simple scripting operations using loops and conditionals to carry out batch analyses <br><br>Generate data plots with Python <br><br>Syllabus <br><br>  <br><br>The workshop will use the training material at swcarpentry.github.io/python-novice-gapminder/. Topics covered will include: <br><br>- Fundamental programming concepts and how to apply them in Python <br>- Python data types and data structures <br>- Importing functions into Python using modules <br>- Programming structures: loops, conditionals, and functions  <br>- Using scripting language to automate data analysis pipelines <br><br><br>No prior knowledge needed – this workshop will assume you have no prior knowledge of programming and will take you through beginner steps <br><br>Please bring to class Laptop, internet connection, with installs completed as per http://swcarpentry.github.io/python-novice-gapminder/setup.html <br><br><br>Please note – if you are from Griffith University and using a GU computer, install Spyder from their website directly: https://www.spyder-ide.org/#section-download . Feel free to get in touch with Amanda Miotto at Griffith for assistance with this install <br><br> <br><br>"
   subtype: workshop
-  speakers: [20]
 -
   id: 1020
   title: "Document Processing with LaTeX "
@@ -248,7 +246,7 @@
   title: "Copyright considerations for Researchers "
   description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
   subtype: workshop
-  speakers: [25]
+  speakers: [25, 37]
 -
   id: 1027
   title: "How to access biodiversity data from the Atlas of Living Australia "
@@ -323,3 +321,9 @@
   description: "Come along to hear how CADRE (Coordinated Access for Data, Research and Environments) and QCIF are working towards making access to sensitive data safe. You will learn how they are using the Five Safes as a framework to guide decision-making as well as educate those stakeholders who have an invested interest in sensitive data. "
   subtype: workshop
   speakers: []
+-
+  id: 1041
+  title: "Building a blog with git, R and quarto"
+  description: "Grassroots communities of practice are a great way to build communities and skill share – creating an online presence and repository for knowledge, tutorials, and code can be a useful tool. We will introduce a workflow using Git, R, and quarto to run a community of practice blog by forking a GitHub repository, creating a blogpost in RStudio, and pushing the post back to GitHub. This workshop will feature the UQ Geospatial Analysis Community Group and use their R blog as an example. Basic understanding of Git + GitHub and R + RStudio is helpful but the workshop will be aimed at beginners with no prior knowledge."
+  subtype: workshop
+  speakers: [38]
