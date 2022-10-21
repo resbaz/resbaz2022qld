@@ -368,3 +368,13 @@
   thumbnailUrl: "RaniMcLennan.jpg"
   rockstar: true
   ribbon:
+- 
+  id: 38
+  name: "Dr. Catherine"
+  surname: "Kim"
+  title: "Postdoctoral researcher, School of Earth and Atmospheric Sciences, Queensland University of Technology"
+  bio: "Catherine is a postdoctoral researcher in the School of Earth and Atmospheric Sciences at the Queensland University of Technology. Currently, she is modelling generation of coral rubble across the Great Barrier Reef for the Reef Restoration and Adaptation Program."
+  thumbnailUrl: "CatherineKim.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "School of Earth and Atmosphereic Sciences, QUT", title: "School of Earth and Atmosphereic Sciences, QUT", url: "https://www.qut.edu.au/about/faculty-of-science/school-of-earth-and-atmospheric-sciences"}
