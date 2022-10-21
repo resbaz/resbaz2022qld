@@ -220,11 +220,6 @@
   subtype: workshop
   speakers: [18, 35]
 -
-  id: 1022
-  title: "Using the R Package ‘galah’ to Investigate the Atlas of Living Australia "
-  description: "The Atlas of Living Australia (ALA) is Australia’s largest open biodiversity database. In this workshop, we will introduce the ALA R package – galah – and show how it can be used to efficiently locate, investigate, and download biodiversity information. The workshop will be interactive, and participants will live code in R studio along with workshop facilitators in a supportive and informative environment. Key topics to be covered include: <br><br>•        Setting up and installing the ‘galah’ package on R studio <br><br>•        Searching for species occurrence data <br><br>•        Filtering records by taxonomic and spatial criteria <br><br>•        Finding numbers of records or species within meaningful categories prior to download <br><br>•        Interacting with taxonomic information using the ‘data.tree’ package  <br><br>Workshop participants will walk away with a working knowledge of the ‘galah’ package as well as a comprehensive worksheet covering all the topics and code snippets to use for future reference.<br><br><br>Prerequisites/prior knowledge needed : A working understanding of R and R studio <br><br>Laptops/software installation needed : Participants can prepare for the workshop by ensuring they have an up-to-date version of R studio installed on their laptop. "
-  subtype: workshop
--
   id: 1023
   title: "Ask a Recruiter Anything "
   description: "Ever have questions you would like to ask a recruiter? This is your opportunity! <br><br> <br><br>Meet with a panel of recruiters in the data/tech space and get the opportunity to learn about what happens while recruiting. "
