@@ -312,3 +312,9 @@
   description: "Grassroots communities of practice are a great way to build communities and skill share – creating an online presence and repository for knowledge, tutorials, and code can be a useful tool. We will introduce a workflow using Git, R, and quarto to run a community of practice blog by forking a GitHub repository, creating a blogpost in RStudio, and pushing the post back to GitHub. This workshop will feature the UQ Geospatial Analysis Community Group and use their R blog as an example. Basic understanding of Git + GitHub and R + RStudio is helpful but the workshop will be aimed at beginners with no prior knowledge."
   subtype: workshop
   speakers: [38]
+-
+  id: 1042
+  title: "Social catchup and Networking at the Uni Bar"
+  description: "Come join us at the Nathan Campus Uni Bar to meet speakers, teachers, helpers and other attendees. We'll supply the snacks!"
+  subtype: workshop
+
