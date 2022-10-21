@@ -49,7 +49,6 @@
   subtype: talk
   speakers: [3]
   #service: true
-  hidden: true
   description: "Indi is a visual storyteller who brings complex strategies and deep research to life, via delightful and impactful data-driven graphics and illustrations that are meaningful to larger audiences. In this session Indi will share how visual storytelling can be used as a research communication tool and will give all attendees her cheat sheet for transforming research into accessible and visual stories, that stick."
 -
   id: 1054
