@@ -159,8 +159,8 @@
   id: 1011
   title: ""
   description: ""
+  hidden: true
   subtype: talk
-  speakers: [16]
 -
   id: 1012
   title: "The Impostor Syndrome...And why you may feel like you are a fake"
@@ -220,16 +220,6 @@
   subtype: workshop
   speakers: [18, 35]
 -
-  id: 1022
-  title: "Using the R Package ‘galah’ to Investigate the Atlas of Living Australia "
-  description: "The Atlas of Living Australia (ALA) is Australia’s largest open biodiversity database. In this workshop, we will introduce the ALA R package – galah – and show how it can be used to efficiently locate, investigate, and download biodiversity information. The workshop will be interactive, and participants will live code in R studio along with workshop facilitators in a supportive and informative environment. Key topics to be covered include: <br><br>•        Setting up and installing the ‘galah’ package on R studio <br><br>•        Searching for species occurrence data <br><br>•        Filtering records by taxonomic and spatial criteria <br><br>•        Finding numbers of records or species within meaningful categories prior to download <br><br>•        Interacting with taxonomic information using the ‘data.tree’ package  <br><br>Workshop participants will walk away with a working knowledge of the ‘galah’ package as well as a comprehensive worksheet covering all the topics and code snippets to use for future reference.<br><br><br>Prerequisites/prior knowledge needed : A working understanding of R and R studio <br><br>Laptops/software installation needed : Participants can prepare for the workshop by ensuring they have an up-to-date version of R studio installed on their laptop. "
-  subtype: workshop
--
-  id: 1023
-  title: "Ask a Recruiter Anything "
-  description: "Ever have questions you would like to ask a recruiter? This is your opportunity! <br><br> <br><br>Meet with a panel of recruiters in the data/tech space and get the opportunity to learn about what happens while recruiting. "
-  subtype: workshop
--
   id: 1024
   title: "Data Orientated Career Pathways - How did I get here, and how can you? "
   description: "Come hear from a panel of data focused professionals, how they came to be in their careers and what career pathways are available in their spaces.</br></br>Meet our great panel!"
@@ -247,11 +237,6 @@
   description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
   subtype: workshop
   speakers: [25, 37]
--
-  id: 1027
-  title: "How to access biodiversity data from the Atlas of Living Australia "
-  description: "Atlas of Living Australia (ALA) is a collaborative, digital, open infrastructure that pulls together Australian biodiversity data from multiple sources, making it accessible and reusable. <br><br>The ALA helps to create a more detailed picture of Australia’s biodiversity for scientists, policy makers, environmental planners and land managers, industry and the general public, and enables them to work more efficiently. <br><br>This workshop will cover: <br><br>- Introduction to the ALA <br>- What data is available <br>- How to access data using the ALA web platform <br>- How to analyse and visualise data in the spatial portal <br><br>This workshop will be interactive and you will be plenty of time for questions and discussion!<br><br>Please bring a laptop with wifi access."
-  subtype: workshop
 -
   id: 1028
   title: "Building R packages and publishing them on GitHub "
@@ -327,3 +312,9 @@
   description: "Grassroots communities of practice are a great way to build communities and skill share – creating an online presence and repository for knowledge, tutorials, and code can be a useful tool. We will introduce a workflow using Git, R, and quarto to run a community of practice blog by forking a GitHub repository, creating a blogpost in RStudio, and pushing the post back to GitHub. This workshop will feature the UQ Geospatial Analysis Community Group and use their R blog as an example. Basic understanding of Git + GitHub and R + RStudio is helpful but the workshop will be aimed at beginners with no prior knowledge."
   subtype: workshop
   speakers: [38]
+-
+  id: 1042
+  title: "Social catchup and Networking at the Uni Bar"
+  description: "Come join us at the Nathan Campus Uni Bar to meet speakers, teachers, helpers and other attendees. We'll supply the snacks! We'll also host 'Tell us your research in 90 seconds' where you can learn about the amazing research happening across Qld!"
+  subtype: workshop
+
