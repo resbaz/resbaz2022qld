@@ -193,7 +193,7 @@ footerBlocks:
  -    
   title: "Silver Sponsor"
   links:
-   - {link: "https://www.gale.com/intl", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
+   - {link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", text: "GALE", imageUrl: "../img/organizers/gale_trans.png"}
    - {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
  -  
   title: "Collaborating Institutes"
